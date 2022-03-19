@@ -47,6 +47,7 @@ Action ComportamientoJugador::think(Sensores sensores){
 				case 3: // Oeste
 					col--;break;
 			}
+			break;
 		case actTURN_L:
 			brujula = (brujula+3)%4;
 			girar_derecha = (rand()%2==0);
@@ -55,6 +56,11 @@ Action ComportamientoJugador::think(Sensores sensores){
 			brujula = (brujula+1)%4;
 			girar_derecha = (rand()%2==0);
 			break;
+	}
+
+	// Si morimos, nos desorientamos
+	if(sensores.reset){
+		bien_situado = false;
 	}
 
 	if(sensores.terreno[0] == 'G' and !bien_situado){
