@@ -66,11 +66,48 @@ Action ComportamientoJugador::think(Sensores sensores){
 	if(sensores.terreno[0] == 'G' and !bien_situado){
 		fil = sensores.posF;
 		col = sensores.posC;
+		brujula = sensores.sentido;
 		bien_situado = true;
 	}
 
 	if(bien_situado){
-		mapaResultado[fil][col] = sensores.terreno[0];
+		
+		if(brujula==0){	// Norte
+			mapaResultado[fil][col] = sensores.terreno[0];
+			for(int i=-1;i<=1;i++)
+				mapaResultado[fil-1][col+i] = sensores.terreno[i+2];
+			for(int i=-2;i<=2;i++)
+				mapaResultado[fil-2][col+i] = sensores.terreno[i+6];
+			for(int i=-3;i<=3;i++)
+				mapaResultado[fil-3][col+i] = sensores.terreno[i+12];
+		}
+		if(brujula==2){	// Sur
+			mapaResultado[fil][col] = sensores.terreno[0];
+			for(int i=-1;i<=1;i++)
+				mapaResultado[fil+1][col+i] = sensores.terreno[-i+2];
+			for(int i=-2;i<=2;i++)
+				mapaResultado[fil+2][col+i] = sensores.terreno[-i+6];
+			for(int i=-3;i<=3;i++)
+				mapaResultado[fil+3][col+i] = sensores.terreno[-i+12];
+		}
+		if(brujula==1){ // Este
+			mapaResultado[fil][col] = sensores.terreno[0];
+			for(int i=-1;i<=1;i++)
+				mapaResultado[fil+i][col+1] = sensores.terreno[i+2];
+			for(int i=-2;i<=2;i++)
+				mapaResultado[fil+i][col+2] = sensores.terreno[i+6];
+			for(int i=-3;i<=3;i++)
+				mapaResultado[fil+i][col+3] = sensores.terreno[i+12];
+		}
+		if(brujula==3){ // Oeste
+			mapaResultado[fil][col] = sensores.terreno[0];
+			for(int i=-1;i<=1;i++)
+				mapaResultado[fil+i][col-1] = sensores.terreno[-i+2];
+			for(int i=-2;i<=2;i++)
+				mapaResultado[fil+i][col-2] = sensores.terreno[-i+6];
+			for(int i=-3;i<=3;i++)
+				mapaResultado[fil+i][col-3] = sensores.terreno[-i+12];
+		}
 	}
 
 	// Accion
