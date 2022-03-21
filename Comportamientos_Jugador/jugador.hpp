@@ -16,6 +16,16 @@ class ComportamientoJugador : public Comportamiento{
       ultimaAccion = actIDLE;
       girar_derecha = false;
       bien_situado = false;
+
+      // Inicializamos la matriz auxiliar al máximo de los mapas por dos
+      // evitando así desbordamientos
+      vector<unsigned char> aux(mapaResultado.size()*2, '?');
+      for (unsigned int i = 0; i < mapaResultado.size()*2; i++){
+        mapa_no_posicionado.push_back(aux);
+      }
+      // Inicializamos en medio del mapa interno, mirando al norte
+      fil_interna = col_interna = 100;
+      brujula_interna = 0;
     }
 
     ComportamientoJugador(const ComportamientoJugador & comport) : Comportamiento(comport){}
@@ -23,6 +33,11 @@ class ComportamientoJugador : public Comportamiento{
 
     Action think(Sensores sensores);
     int interact(Action accion, int valor);
+    void ActualizarMapaResultado(Sensores sensores);
+    void ActualizarMapa_No_Posicionado(Sensores sensores);
+    void ResetearMapa_No_Posicionado();
+    void CombinarMapas();
+
 
   private:
   
@@ -35,6 +50,11 @@ class ComportamientoJugador : public Comportamiento{
 
   bool girar_derecha;
   bool bien_situado;
+
+  // Matriz interna auxiliar
+  vector<vector<unsigned char>> mapa_no_posicionado;
+  // Posicion interna auxiliar
+  int fil_interna, col_interna, brujula_interna;
 
 
 };
