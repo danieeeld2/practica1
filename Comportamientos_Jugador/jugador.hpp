@@ -24,8 +24,9 @@ class ComportamientoJugador : public Comportamiento{
         mapa_no_posicionado.push_back(aux);
       }
       // Inicializamos en medio del mapa interno, mirando al norte
-      fil_interna = col_interna = 100;
+      fil_interna = col_interna = mapaResultado.size();
       brujula_interna = 0;
+      bien = false;
     }
 
     ComportamientoJugador(const ComportamientoJugador & comport) : Comportamiento(comport){}
@@ -51,10 +52,16 @@ class ComportamientoJugador : public Comportamiento{
   bool girar_derecha;
   bool bien_situado;
 
+  // Pasa a estar situado bien por primera vez
+  bool bien;
+
   // Matriz interna auxiliar
   vector<vector<unsigned char>> mapa_no_posicionado;
   // Posicion interna auxiliar
   int fil_interna, col_interna, brujula_interna;
+
+  // Función para rotar 90 grados a la derecha una matriz
+  void rotar_matriz_90_grados(vector<vector<unsigned char>> &M);
 
 
 };

@@ -81,10 +81,15 @@ Action ComportamientoJugador::think(Sensores sensores){
 		bien_situado = true;
 	}
 
-	if(bien_situado){	
+	if(bien_situado){
+		if(!bien){
+			bien = true;
+			CombinarMapas();
+		}	
 		ActualizarMapaResultado(sensores);
 	}else{	
 		ActualizarMapa_No_Posicionado(sensores);
+		bien = false;
 	}
 
 	// Accion
@@ -198,6 +203,30 @@ void ComportamientoJugador::ResetearMapa_No_Posicionado(){
     brujula_interna = 0;
 }
 
+void ComportamientoJugador::rotar_matriz_90_grados(vector<vector<unsigned char>> &M){
+	vector<vector<unsigned char>>aux(M.size(),vector<unsigned char>(M.size(),'?'));
+	int t;
+	for(int i=0;i<M.size();i++){
+		t=0;
+		for(int j=M.size()-1;j>=0;--j){
+			aux[i][t]=M[j][i];
+			t++;
+		}
+	}
+	M=aux;
+}
+
 void ComportamientoJugador::CombinarMapas(){
-	
+	int desfase = (brujula-brujula_interna+4)%4;
+	for(int i=0;i<desfase;i++){
+		rotar_matriz_90_grados(mapa_no_posicionado);
+		int aux = fil_interna;
+		fil_interna = col_interna;
+		col_interna = mapa_no_posicionado[0].size()-aux-1;
+	}
+	for(int i=0;i<mapaResultado.size();i++){
+		for(int j=0; j<mapaResultado[0].size();j++){
+			mapaResultado[i][j] = mapa_no_posicionado[fil_interna-fil+i][col_interna-col+j];
+		}
+	}
 }
