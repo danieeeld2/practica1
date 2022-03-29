@@ -27,6 +27,12 @@ class ComportamientoJugador : public Comportamiento{
       fil_interna = col_interna = mapaResultado.size();
       brujula_interna = 0;
       bien = false;
+
+      casilla_bikini = casilla_posicionamiento = casilla_recarga = casilla_zapatilla = false;
+      recarga = bikini = posicionamiento = zapatilla = 0;
+      restaurar_orientacion = 0;
+      comprobado = interesante = false;
+      tengo_bikini = tengo_zapatillas = false;
     }
 
     ComportamientoJugador(const ComportamientoJugador & comport) : Comportamiento(comport){}
@@ -38,6 +44,8 @@ class ComportamientoJugador : public Comportamiento{
     void ActualizarMapa_No_Posicionado(Sensores sensores);
     void ResetearMapa_No_Posicionado();
     void CombinarMapas();
+    void ComprobarVision(Sensores sensores);
+    void BuscarInteres(int posicion);
 
 
   private:
@@ -55,6 +63,9 @@ class ComportamientoJugador : public Comportamiento{
   // Pasa a estar situado bien por primera vez
   bool bien;
 
+  bool tengo_zapatillas;
+  bool tengo_bikini;
+
   // Matriz interna auxiliar
   vector<vector<unsigned char>> mapa_no_posicionado;
   // Posicion interna auxiliar
@@ -63,7 +74,15 @@ class ComportamientoJugador : public Comportamiento{
   // Función para rotar 90 grados a la derecha una matriz
   void rotar_matriz_90_grados(vector<vector<unsigned char>> &M);
 
-
+  // Booleanas auxiliares por si vemos algo interesante en el rango de vision
+  bool casilla_bikini; int bikini;
+  bool casilla_zapatilla; int zapatilla;
+  bool casilla_recarga; int recarga;
+  bool casilla_posicionamiento; int posicionamiento;
+  int restaurar_orientacion;
+  bool comprobado;
+  bool interesante;
+  vector<Action> acciones;
 };
 
 #endif
