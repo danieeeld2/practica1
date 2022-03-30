@@ -42,11 +42,10 @@ class ComportamientoJugador : public Comportamiento{
     int interact(Action accion, int valor);
     void ActualizarMapaResultado(Sensores sensores);
     void ActualizarMapa_No_Posicionado(Sensores sensores);
-    void ResetearMapa_No_Posicionado();
     void CombinarMapas();
     void ComprobarVision(Sensores sensores);
     void BuscarInteres(int posicion);
-
+    vector<vector<unsigned char>> ResetearMapa_No_Posicionado(int &brujula_interna, int &fil_interna, int &col_interna);
 
   private:
   
@@ -83,6 +82,8 @@ class ComportamientoJugador : public Comportamiento{
   bool comprobado;
   bool interesante;
   vector<Action> acciones;
+
+  // Variables para movimiento aleatorio
 };
 
 #endif

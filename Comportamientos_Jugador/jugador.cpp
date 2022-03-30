@@ -71,7 +71,12 @@ Action ComportamientoJugador::think(Sensores sensores){
 	// Si morimos, nos desorientamos
 	if(sensores.reset){
 		bien_situado = false;
-		ResetearMapa_No_Posicionado();
+		acciones.clear();
+		interesante = false;
+		mapa_no_posicionado.clear();
+		mapa_no_posicionado = ResetearMapa_No_Posicionado(brujula_interna,fil_interna,col_interna);
+		casilla_bikini = casilla_posicionamiento = casilla_recarga = casilla_zapatilla = false;
+      	recarga = bikini = posicionamiento = zapatilla = 0;
 	}
 
 	if((sensores.terreno[0] == 'G' or sensores.nivel == 0 ) and !bien_situado){
@@ -116,22 +121,37 @@ Action ComportamientoJugador::think(Sensores sensores){
 		accion = acciones[0];
 		acciones.erase(acciones.begin());
 	}else{
-		if((sensores.terreno[2]=='T' or sensores.terreno[2]=='S' or sensores.terreno[2]=='G') 
-			and (sensores.superficie[2]=='_')){
+		// if((sensores.terreno[2]=='T' or sensores.terreno[2]=='S' or sensores.terreno[2]=='G') 
+		// 	and (sensores.superficie[2]=='_')){
+		// 	accion = actFORWARD;
+		// }
+		// else if(!girar_derecha){
+		// 	accion = actTURN_L;
+		// }
+		// else{
+		// 	accion = actTURN_R;
+		// }
+		if(sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or sensores.terreno[2] == 'K' or sensores.terreno[2] == 'X'
+		or sensores.terreno[2]== 'D' or (sensores.terreno[2] == 'A' and tengo_bikini) or (sensores.terreno[2] == 'B' and tengo_zapatillas)){
 			accion = actFORWARD;
-		}
-		else if(!girar_derecha){
+		}else{
 			accion = actTURN_L;
 		}
-		else{
-			accion = actTURN_R;
-		}
+
+		
 	}
 
-	if(sensores.terreno[0] == 'K' and !tengo_bikini)
+	// Si hay un lobo o aldeano esperemos a que este se mueva
+	if(sensores.superficie[2] == 'a' or sensores.superficie[2] == 'l'){
+		accion = actTURN_L;
+	}
+
+	if(sensores.terreno[0] == 'K' and !tengo_bikini){
 		tengo_bikini = true;
-	if(sensores.terreno[0] == 'D' and !tengo_zapatillas)
+	}
+	if(sensores.terreno[0] == 'D' and !tengo_zapatillas){
 		tengo_zapatillas = true;
+	}
 
 	ultimaAccion = accion;
 	return accion;
@@ -221,15 +241,16 @@ void ComportamientoJugador::ActualizarMapa_No_Posicionado(Sensores sensores){
 	}
 }
 
-void ComportamientoJugador::ResetearMapa_No_Posicionado(){
-	for(int i=0;i<mapaResultado.size()*2;i++)
-		mapa_no_posicionado[i].clear();
+vector<vector<unsigned char>> ComportamientoJugador::ResetearMapa_No_Posicionado(int &brujula_interna, int &fil_interna, int &col_interna){
+	vector<vector<unsigned char>> mapa_no_posicionado;
 	vector<unsigned char> aux(mapaResultado.size()*2, '?');
-    for (unsigned int i = 0; i < mapaResultado.size()*2; i++){
-        mapa_no_posicionado.push_back(aux);
-    }
-	fil_interna = col_interna = 100;
-    brujula_interna = 0;
+	for (unsigned int i = 0; i < mapaResultado.size()*2; i++){
+		mapa_no_posicionado.push_back(aux);
+	}
+	// Inicializamos en medio del mapa interno, mirando al norte
+	fil_interna = col_interna = mapaResultado.size();
+	brujula_interna = 0;
+	return mapa_no_posicionado;
 }
 
 void ComportamientoJugador::rotar_matriz_90_grados(vector<vector<unsigned char>> &M){
@@ -255,7 +276,8 @@ void ComportamientoJugador::CombinarMapas(){
 	}
 	for(int i=0;i<mapaResultado.size();i++){
 		for(int j=0; j<mapaResultado[0].size();j++){
-			mapaResultado[i][j] = mapa_no_posicionado[fil_interna-fil+i][col_interna-col+j];
+			if(mapaResultado[i][j] == '?' and mapa_no_posicionado[fil_interna-fil+i][col_interna-col+j]!='?')
+				mapaResultado[i][j] = mapa_no_posicionado[fil_interna-fil+i][col_interna-col+j];
 		}
 	}
 }
@@ -299,3 +321,5 @@ void ComportamientoJugador::BuscarInteres(int posicion){
 		acciones.push_back(actTURN_L);
 	}
 }
+
+
