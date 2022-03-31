@@ -33,6 +33,21 @@ class ComportamientoJugador : public Comportamiento{
       restaurar_orientacion = 0;
       comprobado = interesante = false;
       tengo_bikini = tengo_zapatillas = false;
+
+      vector<int> aux2(mapaResultado.size(), 0);
+      for(int i=0;i<mapaResultado.size();i++){
+        matriz_grid.push_back(aux2);
+      }
+
+      pair<int,int> aux3(0,0);
+      for(int i=0;i<4;i++)
+        carga_del_grid.push_back(aux3);
+
+      region = 0;
+      tendencia = false;
+      explorado = false;
+      acabadeevaluar = false;
+      obstaculo = true;
     }
 
     ComportamientoJugador(const ComportamientoJugador & comport) : Comportamiento(comport){}
@@ -46,6 +61,12 @@ class ComportamientoJugador : public Comportamiento{
     void ComprobarVision(Sensores sensores);
     void BuscarInteres(int posicion);
     vector<vector<unsigned char>> ResetearMapa_No_Posicionado(int &brujula_interna, int &fil_interna, int &col_interna);
+    bool PegadoAPared(Sensores sensores);
+    void Dividircargas();
+    int ElegirRegion();
+    void ResetearRegion();
+    void Girar(int region);
+    void CalcularTendendia();
 
   private:
   
@@ -84,6 +105,15 @@ class ComportamientoJugador : public Comportamiento{
   vector<Action> acciones;
 
   // Variables para movimiento aleatorio
+  vector<vector<int>> matriz_grid;
+  void cargar_grid();
+  vector<pair<int,int>> carga_del_grid;
+  int region;
+  vector<Action> actionconprob;
+  bool tendencia;
+  bool explorado;
+  bool acabadeevaluar;
+  bool obstaculo;
 };
 
 #endif

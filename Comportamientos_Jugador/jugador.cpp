@@ -115,7 +115,8 @@ Action ComportamientoJugador::think(Sensores sensores){
 		}else if(casilla_recarga){
 			if(acciones.size() == 0)
 				BuscarInteres(recarga);
-		} 
+		}
+		actionconprob.clear();
 	}
 	if(acciones.size() != 0){
 		accion = acciones[0];
@@ -131,19 +132,97 @@ Action ComportamientoJugador::think(Sensores sensores){
 		// else{
 		// 	accion = actTURN_R;
 		// }
-		if(sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or sensores.terreno[2] == 'K' or sensores.terreno[2] == 'X'
-		or sensores.terreno[2]== 'D' or (sensores.terreno[2] == 'A' and tengo_bikini) or (sensores.terreno[2] == 'B' and tengo_zapatillas)){
-			accion = actFORWARD;
-		}else{
-			accion = actTURN_L;
-		}
 
-		
+		// if(sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or sensores.terreno[2] == 'K' or sensores.terreno[2] == 'X'
+		// or sensores.terreno[2]== 'D' or (sensores.terreno[2] == 'A' and tengo_bikini) or (sensores.terreno[2] == 'B' and tengo_zapatillas)){
+		// 	accion = actFORWARD;
+		// }else{
+		// 	accion = actTURN_L;
+		// }
+
+		if(actionconprob.size()!=0){
+			cout << endl << "Tus muertoooooooooooooooos" << endl;
+			accion = actionconprob[0];
+			actionconprob.erase(actionconprob.begin());
+		}else{
+			if(bien_situado){
+				if(!tendencia){
+					VUELTA:
+					ResetearRegion();
+					Dividircargas();
+					if(obstaculo){
+						carga_del_grid[region].second = 0;
+						obstaculo = false;
+					}
+					int region = ElegirRegion();
+					tendencia = true;
+					cout << endl << region << endl;
+					cout << endl << carga_del_grid[0].second;
+					cout << endl << carga_del_grid[1].second;
+					cout << endl << carga_del_grid[2].second;
+					cout << endl << carga_del_grid[3].second;
+					if(region != brujula)
+						Girar(region);
+				}else{
+					if(sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or sensores.terreno[2] == 'K' or sensores.terreno[2] == 'X'
+					or sensores.terreno[2]== 'D' or (sensores.terreno[2] == 'A' and tengo_bikini) or (sensores.terreno[2] == 'B' and tengo_zapatillas)){
+						accion = actFORWARD;
+						explorado = true;
+						switch(brujula){
+							case 0:
+								for(int i=-3;i<=3;i++){
+									if(matriz_grid[fil-4][col+i] == 0)
+										explorado = false;
+								}
+							break;
+							case 2:
+								for(int i=-3;i<=3;i++){
+									if(matriz_grid[fil+4][col+i] == 0)
+										explorado = false;
+								}
+							break;
+							case 1:
+								for(int i=-3;i<=3;i++){
+									if(matriz_grid[fil+i][col+4] == 0)
+										explorado = false;
+								}
+							break;
+							case 3:
+								for(int i=-3;i<=3;i++){
+									if(matriz_grid[fil+i][col-4] == 0)
+										explorado = false;
+								}
+							break;
+							}
+						cout << endl << "Explorado" << explorado ? "Si":"No";
+						if(explorado){
+							tendencia = false;
+							goto VUELTA;
+						}
+					}else{
+						tendencia = false;
+						obstaculo = true;
+						region = brujula;
+						goto VUELTA;
+					}
+				}
+			}else{
+				if(sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or sensores.terreno[2] == 'K' or sensores.terreno[2] == 'X'
+				or sensores.terreno[2]== 'D' or (sensores.terreno[2] == 'A' and tengo_bikini) or (sensores.terreno[2] == 'B' and tengo_zapatillas)){
+					accion = actFORWARD;
+				}else if(!girar_derecha){
+					accion = actTURN_L;
+				}
+				else{
+					accion = actTURN_R;
+				}
+			}
+		}
 	}
 
 	// Si hay un lobo o aldeano esperemos a que este se mueva
 	if(sensores.superficie[2] == 'a' or sensores.superficie[2] == 'l'){
-		accion = actTURN_L;
+		accion = actIDLE;
 	}
 
 	if(sensores.terreno[0] == 'K' and !tengo_bikini){
@@ -152,6 +231,8 @@ Action ComportamientoJugador::think(Sensores sensores){
 	if(sensores.terreno[0] == 'D' and !tengo_zapatillas){
 		tengo_zapatillas = true;
 	}
+
+	cout << endl <<  actionconprob.size() << "," << acciones.size() << endl;
 
 	ultimaAccion = accion;
 	return accion;
@@ -166,39 +247,67 @@ int ComportamientoJugador::interact(Action accion, int valor){
 void ComportamientoJugador::ActualizarMapaResultado(Sensores sensores){
 	if(brujula==0){	// Norte
 		mapaResultado[fil][col] = sensores.terreno[0];
-		for(int i=-1;i<=1;i++)
+		matriz_grid[fil][col]++;
+		for(int i=-1;i<=1;i++){
 			mapaResultado[fil-1][col+i] = sensores.terreno[i+2];
-		for(int i=-2;i<=2;i++)
+			matriz_grid[fil-1][col+i]++;
+		}
+		for(int i=-2;i<=2;i++){
 			mapaResultado[fil-2][col+i] = sensores.terreno[i+6];
-		for(int i=-3;i<=3;i++)
+			matriz_grid[fil-2][col+i]++;
+		}
+		for(int i=-3;i<=3;i++){
 			mapaResultado[fil-3][col+i] = sensores.terreno[i+12];
+			matriz_grid[fil-3][col+i]++;
+		}
 	}
 	if(brujula==2){	// Sur
 		mapaResultado[fil][col] = sensores.terreno[0];
-		for(int i=-1;i<=1;i++)
+		matriz_grid[fil][col]++;
+		for(int i=-1;i<=1;i++){
 			mapaResultado[fil+1][col+i] = sensores.terreno[-i+2];
-		for(int i=-2;i<=2;i++)
+			matriz_grid[fil+1][col+i]++;
+		}
+		for(int i=-2;i<=2;i++){
 			mapaResultado[fil+2][col+i] = sensores.terreno[-i+6];
-		for(int i=-3;i<=3;i++)
+			matriz_grid[fil+2][col+i]++;
+		}
+		for(int i=-3;i<=3;i++){
 			mapaResultado[fil+3][col+i] = sensores.terreno[-i+12];
+			matriz_grid[fil+3][col+i]++;
+		}
 	}
 	if(brujula==1){ // Este
 		mapaResultado[fil][col] = sensores.terreno[0];
-		for(int i=-1;i<=1;i++)
+		matriz_grid[fil][col]++;
+		for(int i=-1;i<=1;i++){
 			mapaResultado[fil+i][col+1] = sensores.terreno[i+2];
-		for(int i=-2;i<=2;i++)
+			matriz_grid[fil+i][col+1]++;
+		}
+		for(int i=-2;i<=2;i++){
 			mapaResultado[fil+i][col+2] = sensores.terreno[i+6];
-		for(int i=-3;i<=3;i++)
+			matriz_grid[fil+i][col+2]++;
+		}
+		for(int i=-3;i<=3;i++){
 			mapaResultado[fil+i][col+3] = sensores.terreno[i+12];
+			matriz_grid[fil+i][col+3]++;
+		}
 	}
 	if(brujula==3){ // Oeste
 		mapaResultado[fil][col] = sensores.terreno[0];
-		for(int i=-1;i<=1;i++)
+		matriz_grid[fil][col]++;
+		for(int i=-1;i<=1;i++){
 			mapaResultado[fil+i][col-1] = sensores.terreno[-i+2];
-		for(int i=-2;i<=2;i++)
+			matriz_grid[fil+i][col-1]++;
+		}
+		for(int i=-2;i<=2;i++){
 			mapaResultado[fil+i][col-2] = sensores.terreno[-i+6];
-		for(int i=-3;i<=3;i++)
+			matriz_grid[fil+i][col-2]++;
+		}
+		for(int i=-3;i<=3;i++){
 			mapaResultado[fil+i][col-3] = sensores.terreno[-i+12];
+			matriz_grid[fil+i][col-3]++;
+		}
 	}
 }
 
@@ -280,6 +389,7 @@ void ComportamientoJugador::CombinarMapas(){
 				mapaResultado[i][j] = mapa_no_posicionado[fil_interna-fil+i][col_interna-col+j];
 		}
 	}
+	cargar_grid();
 }
 
 void ComportamientoJugador::ComprobarVision(Sensores sensores){
@@ -323,3 +433,93 @@ void ComportamientoJugador::BuscarInteres(int posicion){
 }
 
 
+bool ComportamientoJugador::PegadoAPared(Sensores sensores){
+	bool aux = false;
+	for(int i=1;i<=3;i++)
+		if(sensores.terreno[i] == 'M')
+			aux = true;
+	return aux;
+}
+
+void ComportamientoJugador::cargar_grid(){
+	for(int i=0;i<mapaResultado.size();i++){
+		for(int j=0;j<mapaResultado.size();j++){
+			if(mapaResultado[i][j] != '?')
+				matriz_grid[i][j]++;
+		}
+	}
+}
+
+void ComportamientoJugador::Dividircargas(){
+	// Region1 -- Norte
+	for(int i=0;i<=fil;i++){
+		for(int j=col-3;j<=col+3;j++){
+			carga_del_grid[0].first++;
+			if(matriz_grid[i][j] == 0)
+				carga_del_grid[0].second++;
+		}
+	}
+	//Region2 -- Este
+	for(int i=fil-3;i<=fil+3;i++){
+		for(int j=mapaResultado.size()-1;j>=col;--j){
+			carga_del_grid[1].first++;
+			if(matriz_grid[i][j] == 0)
+				carga_del_grid[1].second++;
+		}
+	}
+	//Region3 -- Sur
+	for(int i=fil;i<mapaResultado.size();i++){
+		for(int j=col-3;j<=col+3;j++){
+			carga_del_grid[2].first++;
+			if(matriz_grid[i][j] == 0)
+				carga_del_grid[2].second++;
+		}
+	}
+	//Region4 -- Oeste
+	for(int i=fil-3;i<=fil+3;i++){
+		for(int j=0;j<=col;j++){
+			carga_del_grid[3].first++;
+			if(matriz_grid[i][j] == 0)
+				carga_del_grid[3].second++;
+		}
+	}
+}
+
+int ComportamientoJugador::ElegirRegion(){
+	int region;
+	int max = 0;
+	for(int i=0;i<4;i++){
+		int carga1 = carga_del_grid[i].second/carga_del_grid[i].first + carga_del_grid[i].second%carga_del_grid[i].first;
+		if(carga1>max){
+			region = i;
+			max = carga1;
+		}
+	}
+	
+	return region;
+}
+
+void ComportamientoJugador::ResetearRegion(){
+	for(int i=0;i<4;i++){
+		carga_del_grid[i].first = 0;
+		carga_del_grid[i].second = 0;
+	}
+}
+
+void ComportamientoJugador::Girar(int region){
+	int orientacion_optima = 0;
+	switch(region){
+		case 0:
+			orientacion_optima = 0;break;
+		case 1:
+			orientacion_optima = 1;break;
+		case 2:
+			orientacion_optima = 2;break;
+		case 3:
+			orientacion_optima = 3;break;
+	}
+	int desfase = (brujula-orientacion_optima+4)%4;
+	for(int i=0;i<desfase;i++){
+		actionconprob.push_back(actTURN_L);
+	}
+}

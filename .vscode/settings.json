@@ -2,6 +2,8 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "*.rmd": "markdown",
-        "vector": "cpp"
-    }
+        "vector": "cpp",
+        "iostream": "cpp"
+    },
+    "cmake.configureOnOpen": false
 }
