@@ -48,6 +48,9 @@ class ComportamientoJugador : public Comportamiento{
       explorado = false;
       acabadeevaluar = false;
       obstaculo = true;
+      contador_inactividad = 0;
+      posicion_estatica.first = posicion_estatica.second = 0;
+      aparecer = true;
     }
 
     ComportamientoJugador(const ComportamientoJugador & comport) : Comportamiento(comport){}
@@ -67,6 +70,7 @@ class ComportamientoJugador : public Comportamiento{
     void ResetearRegion();
     void Girar(int region);
     void CalcularTendendia();
+    void Dividircargas_Interna();
 
   private:
   
@@ -114,6 +118,9 @@ class ComportamientoJugador : public Comportamiento{
   bool explorado;
   bool acabadeevaluar;
   bool obstaculo;
+  pair <int,int> posicion_estatica;
+  int contador_inactividad;
+  bool aparecer;
 };
 
 #endif

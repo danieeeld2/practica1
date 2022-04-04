@@ -3,7 +3,11 @@
     "files.associations": {
         "*.rmd": "markdown",
         "vector": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
     },
     "cmake.configureOnOpen": false
 }
