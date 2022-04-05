@@ -56,6 +56,8 @@ public:
         for (int i = 0; i < 4; i++)
             reset_regiones.push_back(0);
         acaba_de_recargar = false;
+        muro = false;
+        noexplorar = false;
     }
 
     ComportamientoJugador(const ComportamientoJugador &comport) : Comportamiento(comport) {}
@@ -143,6 +145,8 @@ private:
     vector <vector<int>> matriz_grid;
 
     void cargar_grid();
+    int comprobacion();
+    int comprobacion2();
 
     vector <pair<int, int>> carga_del_grid;
     int region;
@@ -157,6 +161,8 @@ private:
     bool siguiendo_muro;
     vector<int> reset_regiones;
     bool acaba_de_recargar;
+    bool muro;
+    bool noexplorar;
 };
 
 #endif

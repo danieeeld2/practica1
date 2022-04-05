@@ -88,6 +88,7 @@ Action ComportamientoJugador::think(Sensores sensores) {
         siguiendo_muro = false;
         tendencia = false;
         obstaculo = false;
+        muro = false;
     }
 
     if ((sensores.terreno[0] == 'G' or sensores.nivel == 0) and !bien_situado) {
@@ -168,6 +169,9 @@ Action ComportamientoJugador::think(Sensores sensores) {
 
     // Si hay un lobo o aldeano esperemos a que este se mueva
     if (sensores.superficie[2] == 'a' or sensores.superficie[2] == 'l') {
+        muro = false;
+        tendencia = false;
+        obstaculo = false;
         accion = actTURN_L;
     }
 
@@ -527,11 +531,26 @@ void ComportamientoJugador::Dividircargas_Interna() {
     }
 }
 
+int ComportamientoJugador::comprobacion(){
+    ResetearRegion();
+    Dividircargas_Interna();
+    return ElegirRegion();
+}
+
+int ComportamientoJugador::comprobacion2(){
+    ResetearRegion();
+    Dividircargas();
+    return ElegirRegion();
+}
+
 Action ComportamientoJugador::MovimientoNoUbicado(Sensores sensores) {
     Action accion;
 
     // Si hay un muro o precipicio justo delante nos giramos
-    if (sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P') {
+    if ((sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P') and (region == comprobacion())  and !muro) {
+        muro = true;
+        tendencia = true;
+        cout << "Muro activado" << endl;
         return actTURN_R;
     }
 
@@ -559,51 +578,89 @@ Action ComportamientoJugador::MovimientoNoUbicado(Sensores sensores) {
         if (region != brujula)
             Girar(region);
     } else {
-        if (sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or
+        if(muro){
+            if((sensores.terreno[1] == 'M' and sensores.terreno[5] != 'M' and sensores.terreno[11] == 'M')
+            or (sensores.terreno[1] == 'P' and sensores.terreno[5] != 'P' and sensores.terreno[11] == 'P')){
+                actionconprob.push_back(actFORWARD);
+                actionconprob.push_back(actTURN_L);
+                actionconprob.push_back(actFORWARD);
+                actionconprob.push_back(actFORWARD);
+                muro = false;
+                tendencia = false;
+                obstaculo = false;
+                noexplorar = true;
+                cout << "Caso: " << 1 << endl;
+                return actFORWARD;
+            }else if((sensores.terreno[3] == 'M' and sensores.terreno[7] != 'M' and sensores.terreno[13] == 'M')
+            or (sensores.terreno[3] == 'P' and sensores.terreno[7] != 'P' and sensores.terreno[13] == 'P')){
+                actionconprob.push_back(actFORWARD);
+                actionconprob.push_back(actTURN_R);
+                actionconprob.push_back(actFORWARD);
+                actionconprob.push_back(actFORWARD);
+                muro = false;
+                tendencia = false;
+                obstaculo = false;
+                noexplorar = true;
+                cout << "Caso: " << 2 << endl;
+                return actFORWARD;
+            }else if(sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P'){
+                cout << "Caso: " << 3 << endl;
+                return actTURN_R;
+            }else{
+                cout << "Caso: " << 4 << endl;
+                return actFORWARD;
+            }
+        }else{
+            if (sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or
             sensores.terreno[2] == 'K' or sensores.terreno[2] == 'X' or sensores.terreno[2] == 'D' or
             (sensores.terreno[2] == 'A' and tengo_bikini) or (sensores.terreno[2] == 'B' and tengo_zapatillas)) {
-            accion = actFORWARD;
-            explorado = true;
-            switch (brujula) {
-                case 0:
-                    for (int i = -3; i <= 3; i++) {
-                        if (mapa_no_posicionado[fil_interna - 4][col_interna + i] == '?')
-                            explorado = false;
+                accion = actFORWARD;
+                if(!noexplorar){
+                    explorado = true;
+                    switch (brujula) {
+                        case 0:
+                            for (int i = -3; i <= 3; i++) {
+                                if (mapa_no_posicionado[fil_interna - 4][col_interna + i] == '?')
+                                    explorado = false;
+                            }
+                            break;
+                        case 2:
+                            for (int i = -3; i <= 3; i++) {
+                                if (mapa_no_posicionado[fil_interna + 4][col_interna + i] == '?')
+                                    explorado = false;
+                            }
+                            break;
+                        case 1:
+                            for (int i = -3; i <= 3; i++) {
+                                if (mapa_no_posicionado[fil_interna + i][col_interna + 4] == '?')
+                                    explorado = false;
+                            }
+                            break;
+                        case 3:
+                            for (int i = -3; i <= 3; i++) {
+                                if (mapa_no_posicionado[fil_interna + i][col_interna - 4] == '?')
+                                    explorado = false;
+                            }
+                            break;
                     }
-                    break;
-                case 2:
-                    for (int i = -3; i <= 3; i++) {
-                        if (mapa_no_posicionado[fil_interna + 4][col_interna + i] == '?')
-                            explorado = false;
-                    }
-                    break;
-                case 1:
-                    for (int i = -3; i <= 3; i++) {
-                        if (mapa_no_posicionado[fil_interna + i][col_interna + 4] == '?')
-                            explorado = false;
-                    }
-                    break;
-                case 3:
-                    for (int i = -3; i <= 3; i++) {
-                        if (mapa_no_posicionado[fil_interna + i][col_interna - 4] == '?')
-                            explorado = false;
-                    }
-                    break;
-            }
-            cout << endl
-                 << "Explorado" << explorado
-            ? "Si"
-            : "No";
-            if (explorado) {
+                }
+                cout << endl
+                    << "Explorado" << explorado
+                ? "Si"
+                : "No";
+                if (explorado) {
+                    tendencia = false;
+                    goto VUELTA2;
+                }
+            } else {
                 tendencia = false;
+                obstaculo = true;
+                region = brujula;
+                noexplorar = false;
                 goto VUELTA2;
             }
-        } else {
-            tendencia = false;
-            obstaculo = true;
-            region = brujula;
-            goto VUELTA2;
         }
+        
     }
 
     return accion;
@@ -613,7 +670,10 @@ Action ComportamientoJugador::MovimientoUbicado(Sensores sensores) {
     Action accion;
 
     // Si hay un muro o precipicio justo delante nos giramos
-    if (sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P' or sensores.superficie[2] != '_') {
+    if ((sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P') and (region == comprobacion2())  and !muro) {
+        muro = true;
+        tendencia = true;
+        cout << "Muro activado" << endl;
         return actTURN_R;
     }
 
@@ -655,52 +715,90 @@ Action ComportamientoJugador::MovimientoUbicado(Sensores sensores) {
         if (region != brujula)
             Girar(region);
     } else {
-        if (sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or
+        if(muro){
+            if((sensores.terreno[1] == 'M' and sensores.terreno[5] != 'M' and sensores.terreno[11] == 'M')
+            or (sensores.terreno[1] == 'P' and sensores.terreno[5] != 'P' and sensores.terreno[11] == 'P')){
+                actionconprob.push_back(actFORWARD);
+                actionconprob.push_back(actTURN_L);
+                actionconprob.push_back(actFORWARD);
+                actionconprob.push_back(actFORWARD);
+                muro = false;
+                tendencia = false;
+                obstaculo = false;
+                noexplorar = true;
+                cout << "Caso: " << 1 << endl;
+                return actFORWARD;
+            }else if((sensores.terreno[3] == 'M' and sensores.terreno[7] != 'M' and sensores.terreno[13] == 'M')
+            or (sensores.terreno[3] == 'P' and sensores.terreno[7] != 'P' and sensores.terreno[13] == 'P')){
+                actionconprob.push_back(actFORWARD);
+                actionconprob.push_back(actTURN_R);
+                actionconprob.push_back(actFORWARD);
+                actionconprob.push_back(actFORWARD);
+                muro = false;
+                tendencia = false;
+                obstaculo = false;
+                noexplorar = true;
+                cout << "Caso: " << 2 << endl;
+                return actFORWARD;
+            }else if(sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P'){
+                cout << "Caso: " << 3 << endl;
+                return actTURN_R;
+            }else{
+                cout << "Caso: " << 4 << endl;
+                return actFORWARD;
+            }
+        }else{
+            if (sensores.terreno[2] == 'T' or sensores.terreno[2] == 'S' or sensores.terreno[2] == 'G' or
             sensores.terreno[2] == 'K' or sensores.terreno[2] == 'X' or sensores.terreno[2] == 'D' or
             (sensores.terreno[2] == 'A' and tengo_bikini) or (sensores.terreno[2] == 'B' and tengo_zapatillas)) {
-            accion = actFORWARD;
-            explorado = true;
-            switch (brujula) {
-                case 0:
-                    for (int i = -3; i <= 3; i++) {
-                        if (matriz_grid[fil - 4][col + i] == 0)
-                            explorado = false;
+                accion = actFORWARD;
+                if(!noexplorar){
+                    explorado = true;
+                    switch (brujula) {
+                    case 0:
+                        for (int i = -3; i <= 3; i++) {
+                            if (matriz_grid[fil - 4][col + i] == 0)
+                                explorado = false;
+                        }
+                        break;
+                    case 2:
+                        for (int i = -3; i <= 3; i++) {
+                            if (matriz_grid[fil + 4][col + i] == 0)
+                                explorado = false;
+                        }
+                        break;
+                    case 1:
+                        for (int i = -3; i <= 3; i++) {
+                            if (matriz_grid[fil + i][col + 4] == 0)
+                                explorado = false;
+                        }
+                        break;
+                    case 3:
+                        for (int i = -3; i <= 3; i++) {
+                            if (matriz_grid[fil + i][col - 4] == 0)
+                                explorado = false;
+                        }
+                        break;
                     }
-                    break;
-                case 2:
-                    for (int i = -3; i <= 3; i++) {
-                        if (matriz_grid[fil + 4][col + i] == 0)
-                            explorado = false;
-                    }
-                    break;
-                case 1:
-                    for (int i = -3; i <= 3; i++) {
-                        if (matriz_grid[fil + i][col + 4] == 0)
-                            explorado = false;
-                    }
-                    break;
-                case 3:
-                    for (int i = -3; i <= 3; i++) {
-                        if (matriz_grid[fil + i][col - 4] == 0)
-                            explorado = false;
-                    }
-                    break;
-            }
-            cout << endl
-                 << "Explorado" << explorado
-            ? "Si"
-            : "No";
-            if (explorado) {
+                }
+                cout << endl
+                    << "Explorado" << explorado
+                ? "Si"
+                : "No";
+                if (explorado) {
+                    tendencia = false;
+                    goto VUELTA;
+                }
+            } else{
                 tendencia = false;
+                obstaculo = true;
+                region = brujula;
+                acaba_de_recargar = false;
+                noexplorar = false;
                 goto VUELTA;
             }
-        } else if (sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P') {
-            tendencia = false;
-            obstaculo = true;
-            region = brujula;
-            acaba_de_recargar = false;
-            goto VUELTA;
         }
+        
     }
 
     return accion;
