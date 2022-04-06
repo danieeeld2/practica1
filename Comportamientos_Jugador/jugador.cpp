@@ -208,7 +208,6 @@ Action ComportamientoJugador::think(Sensores sensores) {
     }
 
     if((sensores.vida <= 10 or sensores.bateria <= 100) and !inferido){
-        cout << "Llegóoooooooooooooooooooooooooo" << endl;
         inferido = true;
         InferirCasilla();
     }

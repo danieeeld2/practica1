@@ -90,10 +90,19 @@ Por último, de este método comentar que también considera "chocarse" como que
 
 En caso de toparse en frente suya con un aldeano o lobo, simplemente resetea las variables necesarias y gira hacia uno de los lados, de forma aleatoria.
 
-## 6. Comentarios
+## 6. Completado
+
+Hay una función que completa las casillas no vistas, teniendo en cuenta las que les rodea. Esta función hay casos en los que es bastante "extremista", ya que, por ejemplo, mi algoritmo hace que en vértigo saque muy poco porcentaje o incluso nulo, pero al completar por defectos con precipicios, pues acaba pasando el mapa con un 40% o más.
+
+```c++
+unsigned char suponer(int fil, int col);
+void InferirCasilla();
+```
+
+Se puede desactivar esta funcionalidad comentando las líneas ***210-213***
+
+## 7. Comentarios
 
 El código tiene bastantes desperfectos en determinadas situaciones. Por ejemplo, si por alguna razón se mete en una situación en la que todas las casillas de delante de su campo de visión (en todas las direcciones)  están exploradas, se mete en un bucle en el que cambia de dirección constantemente.
 
 Otro desperfecto es que no he optimizado las recargas y, por último, puede ocurrir que al seguir un muro o precipicio (como elige una dirección en la que girar todo el rato) se meta también en algún bucle, porque tiene un obstáculo pegado al mismo y gira dos veces, volviendo a la esquina original y repitiendo el proceso indefinidamente.
-
-
