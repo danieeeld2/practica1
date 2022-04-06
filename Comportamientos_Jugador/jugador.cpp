@@ -77,6 +77,11 @@ Action ComportamientoJugador::think(Sensores sensores) {
                 break;
         }
     }
+
+    if(sensores.terreno[0] != 'B' and sensores.terreno[0] != 'A' and sensores.terreno[0] != 'G'
+    and sensores.terreno[0] != 'X' and sensores.terreno[0] != 'D' and sensores.terreno[0] != 'K'){
+        acabadeaparecer = false;
+    }
     
 
     // Si morimos, nos desorientamos
@@ -202,7 +207,11 @@ Action ComportamientoJugador::think(Sensores sensores) {
         }
     }
 
-    // if(PegadoAPared()){}
+    if((sensores.vida <= 10 or sensores.bateria <= 100) and !inferido){
+        cout << "Llegóoooooooooooooooooooooooooo" << endl;
+        inferido = true;
+        InferirCasilla();
+    }
 
     cout << endl
          << actionconprob.size() << "," << acciones.size() << endl;
@@ -367,7 +376,7 @@ void ComportamientoJugador::CombinarMapas() {
 }
 
 void ComportamientoJugador::ComprobarVision(Sensores sensores) {
-    for (int i = 0; i < sensores.terreno.size(); i++) {
+    for (int i = 1; i < sensores.terreno.size(); i++) {
         switch (sensores.terreno[i]) {
             case 'G':
                 casilla_posicionamiento = interesante = true;
@@ -617,8 +626,11 @@ Action ComportamientoJugador::MovimientoNoUbicado(Sensores sensores) {
                 noexplorar = true;
                 cout << "Caso: " << 2 << endl;
                 return actFORWARD;
-            }else if(sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P'){
+            }else if(sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P' 
+            or (sensores.terreno[2] == 'B' and !tengo_zapatillas) or (sensores.terreno[2] == 'A' and !tengo_bikini)){
                 cout << "Caso: " << 3 << endl;
+                if(acabadeaparecer and (sensores.terreno[2] == 'B' or sensores.terreno[2] == 'A'))
+                    return actFORWARD;
                 if(actL){
                     return actTURN_L;
                 }else{
@@ -671,9 +683,9 @@ Action ComportamientoJugador::MovimientoNoUbicado(Sensores sensores) {
                     goto VUELTA2;
                 }
             } else {
-                if(sensores.terreno[0] == 'A' and !tengo_bikini)
+                if(sensores.terreno[0] == 'A' and !tengo_bikini and acabadeaparecer)
                     accion = actFORWARD;
-                else if(sensores.terreno[0] == 'B' and !tengo_zapatillas)
+                else if(sensores.terreno[0] == 'B' and !tengo_zapatillas and acabadeaparecer)
                     accion = actFORWARD;
                 else{
                     tendencia = false;
@@ -773,8 +785,11 @@ Action ComportamientoJugador::MovimientoUbicado(Sensores sensores) {
                 noexplorar = true;
                 cout << "Caso: " << 2 << endl;
                 return actFORWARD;
-            }else if(sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P'){
+            }else if(sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P' 
+            or (sensores.terreno[2] == 'B' and !tengo_zapatillas) or (sensores.terreno[2] == 'A' and !tengo_bikini)){
                 cout << "Caso: " << 3 << endl;
+                if(acabadeaparecer and (sensores.terreno[2] == 'B' or sensores.terreno[2] == 'A'))
+                    return actFORWARD;
                 if(actL){
                     return actTURN_L;
                 }else{
@@ -827,9 +842,9 @@ Action ComportamientoJugador::MovimientoUbicado(Sensores sensores) {
                     goto VUELTA;
                 }
             } else{
-                if(sensores.terreno[0] == 'A' and !tengo_bikini)
+                if(sensores.terreno[0] == 'A' and !tengo_bikini and acabadeaparecer)
                     accion = actFORWARD;
-                else if(sensores.terreno[0] == 'B' and !tengo_zapatillas)
+                else if(sensores.terreno[0] == 'B' and !tengo_zapatillas and acabadeaparecer)
                     accion = actFORWARD;
                 else{
                     tendencia = false;
@@ -847,27 +862,71 @@ Action ComportamientoJugador::MovimientoUbicado(Sensores sensores) {
     return accion;
 }
 
-// void ComportamientoJugador::SeguirMuro(Sensores sensores){
-// 	if(sensores.terreno[2] ==  'M' or sensores.terreno[2] == 'P'){
-// 		actionconprob.push_back(actTURN_L);
-// 		actionconprob.push_back(actTURN_L);
-// 	}else{
-// 		actionconprob.push_back(actFORWARD);
-// 	}
-// 	if((sensores.terreno[1] == 'M' and sensores.terreno[5] != 'M' and sensores.terreno[11] == 'M')
-// 	or (sensores.terreno[1] == 'P' and sensores.terreno[5] != 'P' and sensores.terreno[11] == 'P')){
-// 		siguiendo_muro = false;
-// 		actionconprob.clear();
-// 		actionconprob.push_back(actFORWARD);
-// 		actionconprob.push_back(actFORWARD);
-// 		actionconprob.push_back(actTURN_L);
-// 	}
-// 	if((sensores.terreno[3] == 'M' and sensores.terreno[7] != 'M' and sensores.terreno[13] == 'M')
-// 	or (sensores.terreno[1] == 'P' and sensores.terreno[5] != 'P' and sensores.terreno[11] == 'P')){
-// 		siguiendo_muro = false;
-// 		actionconprob.clear();
-// 		actionconprob.push_back(actFORWARD);
-// 		actionconprob.push_back(actFORWARD);
-// 		actionconprob.push_back(actTURN_R);
-// 	}
-// }
+unsigned char ComportamientoJugador::suponer(int fil, int col){
+    int nodeterminado = 0;
+    int casillas[5] = {0,0,0,0,0};
+    int pos = 0;
+    int max = 0;
+    unsigned char tipo[5] = {'S','P','A','B','T'};
+
+    // Si está fuera del límite del mapa
+    if(fil < 3 or col < 3 or fil > mapaResultado.size() - 3 or col > mapaResultado.size() - 3)
+        return 'P';
+
+    for(int i=fil-1; i<=fil+1;++i){
+        for(int j=col-1; j<=col+1;++j){
+            switch(mapaResultado[i][j]){
+                case 'S':
+                    casillas[0]++;
+                break;
+                case 'P':
+                    casillas[1]++;
+                break;
+                case 'A':
+                    casillas[2]++;
+                break;
+                case 'B':
+                    casillas[3]++;
+                break;
+                case 'T':
+                    casillas[4]++;
+                break;
+                case '?':
+                    nodeterminado++;
+                break;
+            }
+        }
+    }
+
+    if(nodeterminado == 8)
+        return '?';
+    else{
+        for(int i=0;i<5;i++){
+            if(max<casillas[i]){
+                pos = i;
+                max = casillas[i];
+            }
+        }
+        return tipo[pos];
+    }
+}
+
+void ComportamientoJugador::InferirCasilla(){
+    char caracter;
+    bool acabar = false;
+
+    while(!acabar){
+        acabar = true;
+        for(int i=0;i<mapaResultado.size();++i){
+            for(int j=0;j<mapaResultado.size();++j){
+                if(mapaResultado[i][j] == '?'){
+                    caracter = suponer(i,j);
+                    if(caracter != '?')
+                        mapaResultado[i][j] = caracter;
+                    else
+                        acabar = false;
+                }
+            }
+        }
+    }
+}

@@ -1,939 +1,939 @@
 3 3
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 20.36
 3 4
-Porcentaje de mapa descubierto: 97.6
+Porcentaje de mapa descubierto: 53.84
 3 5
-Porcentaje de mapa descubierto: 94.52
+Porcentaje de mapa descubierto: 54.12
 3 6
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 20.8
 3 7
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 21.12
 3 8
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 8.68
 3 9
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 62.16
 3 10
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 0
 3 11
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 52.44
 3 12
-Porcentaje de mapa descubierto: 99.08
+Porcentaje de mapa descubierto: 76.28
 3 13
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 10.52
 3 14
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 10.52
 3 15
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 10.52
 3 16
-Porcentaje de mapa descubierto: 99.64
+Porcentaje de mapa descubierto: 76.28
 3 17
-Porcentaje de mapa descubierto: 33.52
+Porcentaje de mapa descubierto: 50.76
 3 18
-Porcentaje de mapa descubierto: 85.96
+Porcentaje de mapa descubierto: 16.28
 3 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16.56
 3 20
-Porcentaje de mapa descubierto: 99.76
+Porcentaje de mapa descubierto: 100
 3 21
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 17.12
 3 22
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 64.8
 3 23
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 73.76
 3 24
-Porcentaje de mapa descubierto: 63.2
+Porcentaje de mapa descubierto: 61.28
 3 25
-Porcentaje de mapa descubierto: 60.96
+Porcentaje de mapa descubierto: 68.32
 3 26
 Porcentaje de mapa descubierto: 71.84
 3 27
-Porcentaje de mapa descubierto: 70.68
+Porcentaje de mapa descubierto: 77
 3 28
-Porcentaje de mapa descubierto: 75.8
+Porcentaje de mapa descubierto: 71.92
 3 29
-Porcentaje de mapa descubierto: 76.08
+Porcentaje de mapa descubierto: 70.68
 3 30
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 69.68
 3 31
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 97.68
 3 32
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 97.68
 3 33
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 69.12
 3 34
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 69.72
 3 35
-Porcentaje de mapa descubierto: 95.36
+Porcentaje de mapa descubierto: 69.2
 3 36
-Porcentaje de mapa descubierto: 95.36
+Porcentaje de mapa descubierto: 69.24
 3 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 3 38
-Porcentaje de mapa descubierto: 25.32
+Porcentaje de mapa descubierto: 11.32
 3 39
-Porcentaje de mapa descubierto: 48.44
+Porcentaje de mapa descubierto: 9.24
 3 40
-Porcentaje de mapa descubierto: 23.68
+Porcentaje de mapa descubierto: 8.92
 3 41
-Porcentaje de mapa descubierto: 2.52
-3 42
 Porcentaje de mapa descubierto: 100
+3 42
+Porcentaje de mapa descubierto: 60.32
 3 43
 Porcentaje de mapa descubierto: 100
 3 44
 Porcentaje de mapa descubierto: 100
 3 45
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 100
 3 46
 Porcentaje de mapa descubierto: 0
 4 3
-Porcentaje de mapa descubierto: 95.04
+Porcentaje de mapa descubierto: 20.36
 4 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.84
 4 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 54.12
 4 6
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 20.8
 4 7
-Porcentaje de mapa descubierto: 29.96
+Porcentaje de mapa descubierto: 21.12
 4 8
-Porcentaje de mapa descubierto: 31.36
+Porcentaje de mapa descubierto: 0
 4 9
-Porcentaje de mapa descubierto: 31.36
+Porcentaje de mapa descubierto: 0
 4 10
-Porcentaje de mapa descubierto: 58.64
+Porcentaje de mapa descubierto: 0
 4 11
-Porcentaje de mapa descubierto: 53.96
+Porcentaje de mapa descubierto: 63.24
 4 12
-Porcentaje de mapa descubierto: 37.52
+Porcentaje de mapa descubierto: 0
 4 13
-Porcentaje de mapa descubierto: 33.44
+Porcentaje de mapa descubierto: 0
 4 14
-Porcentaje de mapa descubierto: 33.6
+Porcentaje de mapa descubierto: 0
 4 15
-Porcentaje de mapa descubierto: 33.24
+Porcentaje de mapa descubierto: 0
 4 16
-Porcentaje de mapa descubierto: 48.72
+Porcentaje de mapa descubierto: 0
 4 17
-Porcentaje de mapa descubierto: 33.48
+Porcentaje de mapa descubierto: 0
 4 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16
 4 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16.28
 4 20
-Porcentaje de mapa descubierto: 14.12
+Porcentaje de mapa descubierto: 0
 4 21
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16.84
 4 22
-Porcentaje de mapa descubierto: 47.32
+Porcentaje de mapa descubierto: 64.8
 4 23
-Porcentaje de mapa descubierto: 49.08
+Porcentaje de mapa descubierto: 100
 4 24
-Porcentaje de mapa descubierto: 63.2
+Porcentaje de mapa descubierto: 61.28
 4 25
-Porcentaje de mapa descubierto: 60.96
+Porcentaje de mapa descubierto: 68.32
 4 26
-Porcentaje de mapa descubierto: 60.68
+Porcentaje de mapa descubierto: 60.8
 4 27
-Porcentaje de mapa descubierto: 70.68
+Porcentaje de mapa descubierto: 100
 4 28
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 4 29
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 4 30
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 4 31
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 97.68
 4 32
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 97.68
 4 33
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 69.12
 4 34
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 69.72
 4 35
-Porcentaje de mapa descubierto: 95.36
+Porcentaje de mapa descubierto: 69.2
 4 36
-Porcentaje de mapa descubierto: 95.36
+Porcentaje de mapa descubierto: 69.24
 4 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 4 38
-Porcentaje de mapa descubierto: 25.2
+Porcentaje de mapa descubierto: 11.16
 4 39
-Porcentaje de mapa descubierto: 48.44
+Porcentaje de mapa descubierto: 9.12
 4 40
-Porcentaje de mapa descubierto: 48.4
+Porcentaje de mapa descubierto: 8.84
 4 41
-Porcentaje de mapa descubierto: 2.52
+Porcentaje de mapa descubierto: 8.6
 4 42
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 4 43
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 4 44
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 4 45
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 100
 4 46
 Porcentaje de mapa descubierto: 0
 5 3
-Porcentaje de mapa descubierto: 97.28
+Porcentaje de mapa descubierto: 20.36
 5 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.8
 5 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 54.08
 5 6
-Porcentaje de mapa descubierto: 32.56
+Porcentaje de mapa descubierto: 20.8
 5 7
-Porcentaje de mapa descubierto: 30.68
+Porcentaje de mapa descubierto: 21.12
 5 8
-Porcentaje de mapa descubierto: 2.6
+Porcentaje de mapa descubierto: 8.68
 5 9
-Porcentaje de mapa descubierto: 34.16
+Porcentaje de mapa descubierto: 0
 5 10
-Porcentaje de mapa descubierto: 35.64
+Porcentaje de mapa descubierto: 0
 5 11
-Porcentaje de mapa descubierto: 53.96
+Porcentaje de mapa descubierto: 63.24
 5 12
-Porcentaje de mapa descubierto: 66.6
+Porcentaje de mapa descubierto: 95.36
 5 13
-Porcentaje de mapa descubierto: 33.72
+Porcentaje de mapa descubierto: 0
 5 14
-Porcentaje de mapa descubierto: 33.88
+Porcentaje de mapa descubierto: 0
 5 15
-Porcentaje de mapa descubierto: 33.52
+Porcentaje de mapa descubierto: 0
 5 16
-Porcentaje de mapa descubierto: 30.16
+Porcentaje de mapa descubierto: 24.56
 5 17
-Porcentaje de mapa descubierto: 33.76
+Porcentaje de mapa descubierto: 0
 5 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.72
 5 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16
 5 20
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 17
 5 21
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16.56
 5 22
-Porcentaje de mapa descubierto: 51.08
+Porcentaje de mapa descubierto: 64.8
 5 23
-Porcentaje de mapa descubierto: 15.48
+Porcentaje de mapa descubierto: 100
 5 24
-Porcentaje de mapa descubierto: 63.16
+Porcentaje de mapa descubierto: 61.28
 5 25
-Porcentaje de mapa descubierto: 60.92
+Porcentaje de mapa descubierto: 68.32
 5 26
-Porcentaje de mapa descubierto: 73.08
+Porcentaje de mapa descubierto: 100
 5 27
-Porcentaje de mapa descubierto: 70.68
+Porcentaje de mapa descubierto: 100
 5 28
-Porcentaje de mapa descubierto: 73.08
+Porcentaje de mapa descubierto: 100
 5 29
 Porcentaje de mapa descubierto: 100
 5 30
 Porcentaje de mapa descubierto: 100
 5 31
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 97.68
 5 32
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 97.68
 5 33
-Porcentaje de mapa descubierto: 99.32
+Porcentaje de mapa descubierto: 99.4
 5 34
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 69.72
 5 35
-Porcentaje de mapa descubierto: 99.32
+Porcentaje de mapa descubierto: 99.4
 5 36
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.4
 5 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 5 38
-Porcentaje de mapa descubierto: 25.12
+Porcentaje de mapa descubierto: 11.08
 5 39
-Porcentaje de mapa descubierto: 18.04
+Porcentaje de mapa descubierto: 60.8
 5 40
-Porcentaje de mapa descubierto: 2.6
+Porcentaje de mapa descubierto: 60.32
 5 41
-Porcentaje de mapa descubierto: 2.52
+Porcentaje de mapa descubierto: 8.6
 5 42
-Porcentaje de mapa descubierto: 2.6
+Porcentaje de mapa descubierto: 60.32
 5 43
 Porcentaje de mapa descubierto: 100
 5 44
 Porcentaje de mapa descubierto: 100
 5 45
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 100
 5 46
 Porcentaje de mapa descubierto: 0
 6 3
-Porcentaje de mapa descubierto: 97.28
+Porcentaje de mapa descubierto: 20.36
 6 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.76
 6 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 54
 6 6
-Porcentaje de mapa descubierto: 32.84
+Porcentaje de mapa descubierto: 20.76
 6 7
-Porcentaje de mapa descubierto: 32.56
+Porcentaje de mapa descubierto: 21.08
 6 8
-Porcentaje de mapa descubierto: 32.2
+Porcentaje de mapa descubierto: 23.72
 6 9
-Porcentaje de mapa descubierto: 31.32
+Porcentaje de mapa descubierto: 23.8
 6 10
-Porcentaje de mapa descubierto: 33.04
+Porcentaje de mapa descubierto: 23.76
 6 11
-Porcentaje de mapa descubierto: 53.96
+Porcentaje de mapa descubierto: 63.76
 6 12
-Porcentaje de mapa descubierto: 30.16
-6 13
-Porcentaje de mapa descubierto: 96.72
-6 14
-Porcentaje de mapa descubierto: 96.68
-6 15
-Porcentaje de mapa descubierto: 60.44
-6 16
 Porcentaje de mapa descubierto: 0
+6 13
+Porcentaje de mapa descubierto: 55.4
+6 14
+Porcentaje de mapa descubierto: 55.56
+6 15
+Porcentaje de mapa descubierto: 15.72
+6 16
+Porcentaje de mapa descubierto: 16.24
 6 17
-Porcentaje de mapa descubierto: 60.44
+Porcentaje de mapa descubierto: 15.72
 6 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.44
 6 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.72
 6 20
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16
 6 21
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16.28
 6 22
-Porcentaje de mapa descubierto: 19.4
+Porcentaje de mapa descubierto: 76.32
 6 23
-Porcentaje de mapa descubierto: 15.48
+Porcentaje de mapa descubierto: 98.08
 6 24
-Porcentaje de mapa descubierto: 63.08
+Porcentaje de mapa descubierto: 61.24
 6 25
-Porcentaje de mapa descubierto: 72.44
+Porcentaje de mapa descubierto: 99.4
 6 26
-Porcentaje de mapa descubierto: 73.08
-6 27
-Porcentaje de mapa descubierto: 70.68
-6 28
-Porcentaje de mapa descubierto: 73.08
-6 29
-Porcentaje de mapa descubierto: 72.44
-6 30
 Porcentaje de mapa descubierto: 100
+6 27
+Porcentaje de mapa descubierto: 100
+6 28
+Porcentaje de mapa descubierto: 100
+6 29
+Porcentaje de mapa descubierto: 99.4
+6 30
+Porcentaje de mapa descubierto: 99.4
 6 31
 Porcentaje de mapa descubierto: 100
 6 32
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 97.68
 6 33
-Porcentaje de mapa descubierto: 99.12
-6 34
 Porcentaje de mapa descubierto: 100
+6 34
+Porcentaje de mapa descubierto: 69.72
 6 35
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 6 36
 Porcentaje de mapa descubierto: 100
 6 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 6 38
-Porcentaje de mapa descubierto: 25.08
+Porcentaje de mapa descubierto: 11.04
 6 39
-Porcentaje de mapa descubierto: 2.76
+Porcentaje de mapa descubierto: 8.84
 6 40
-Porcentaje de mapa descubierto: 2.6
+Porcentaje de mapa descubierto: 60.72
 6 41
-Porcentaje de mapa descubierto: 2.52
+Porcentaje de mapa descubierto: 8.6
 6 42
-Porcentaje de mapa descubierto: 2.6
+Porcentaje de mapa descubierto: 60.4
 6 43
-Porcentaje de mapa descubierto: 2.76
+Porcentaje de mapa descubierto: 8.64
 6 44
 Porcentaje de mapa descubierto: 100
 6 45
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 100
 6 46
 Porcentaje de mapa descubierto: 0
 7 3
-Porcentaje de mapa descubierto: 97.28
+Porcentaje de mapa descubierto: 20.36
 7 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.72
 7 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.92
 7 6
-Porcentaje de mapa descubierto: 32.84
+Porcentaje de mapa descubierto: 20.76
 7 7
-Porcentaje de mapa descubierto: 32.84
+Porcentaje de mapa descubierto: 21
 7 8
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 54.96
 7 9
-Porcentaje de mapa descubierto: 91.08
+Porcentaje de mapa descubierto: 55.68
 7 10
-Porcentaje de mapa descubierto: 33.04
+Porcentaje de mapa descubierto: 22.16
 7 11
-Porcentaje de mapa descubierto: 97.52
+Porcentaje de mapa descubierto: 99.32
 7 12
 Porcentaje de mapa descubierto: 0
 7 13
-Porcentaje de mapa descubierto: 61.68
+Porcentaje de mapa descubierto: 19.2
 7 14
-Porcentaje de mapa descubierto: 61.6
+Porcentaje de mapa descubierto: 19.16
 7 15
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16.36
 7 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 16.08
 7 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.8
 7 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.16
 7 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.44
 7 20
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.72
 7 21
-Porcentaje de mapa descubierto: 53.44
+Porcentaje de mapa descubierto: 63.08
 7 22
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 20.24
 7 23
-Porcentaje de mapa descubierto: 15.48
+Porcentaje de mapa descubierto: 98.08
 7 24
-Porcentaje de mapa descubierto: 88.68
+Porcentaje de mapa descubierto: 100
 7 25
-Porcentaje de mapa descubierto: 72.44
+Porcentaje de mapa descubierto: 99.4
 7 26
-Porcentaje de mapa descubierto: 73.08
+Porcentaje de mapa descubierto: 100
 7 27
-Porcentaje de mapa descubierto: 70.68
+Porcentaje de mapa descubierto: 100
 7 28
-Porcentaje de mapa descubierto: 73.08
+Porcentaje de mapa descubierto: 100
 7 29
-Porcentaje de mapa descubierto: 72.44
+Porcentaje de mapa descubierto: 99.4
 7 30
-Porcentaje de mapa descubierto: 88.68
+Porcentaje de mapa descubierto: 100
 7 31
 Porcentaje de mapa descubierto: 100
 7 32
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 97.68
 7 33
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 7 34
-Porcentaje de mapa descubierto: 92.52
+Porcentaje de mapa descubierto: 62.88
 7 35
-Porcentaje de mapa descubierto: 99.12
+Porcentaje de mapa descubierto: 100
 7 36
 Porcentaje de mapa descubierto: 100
 7 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 7 38
-Porcentaje de mapa descubierto: 3.08
+Porcentaje de mapa descubierto: 60.92
 7 39
-Porcentaje de mapa descubierto: 2.84
+Porcentaje de mapa descubierto: 8.96
 7 40
-Porcentaje de mapa descubierto: 2.68
+Porcentaje de mapa descubierto: 60.32
 7 41
-Porcentaje de mapa descubierto: 2.52
+Porcentaje de mapa descubierto: 8.6
 7 42
-Porcentaje de mapa descubierto: 2.68
+Porcentaje de mapa descubierto: 60.52
 7 43
-Porcentaje de mapa descubierto: 2.84
+Porcentaje de mapa descubierto: 8.84
 7 44
-Porcentaje de mapa descubierto: 3.08
+Porcentaje de mapa descubierto: 60.56
 7 45
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 100
 7 46
 Porcentaje de mapa descubierto: 0
 8 3
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 20.36
 8 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.68
 8 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.84
 8 6
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 54.24
 8 7
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 54.32
 8 8
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 24.52
 8 9
-Porcentaje de mapa descubierto: 97.36
+Porcentaje de mapa descubierto: 56.04
 8 10
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 22.16
 8 11
-Porcentaje de mapa descubierto: 97.52
+Porcentaje de mapa descubierto: 100
 8 12
 Porcentaje de mapa descubierto: 0
 8 13
-Porcentaje de mapa descubierto: 99.96
+Porcentaje de mapa descubierto: 100
 8 14
-Porcentaje de mapa descubierto: 99.96
+Porcentaje de mapa descubierto: 100
 8 15
-Porcentaje de mapa descubierto: 92.72
+Porcentaje de mapa descubierto: 96.16
 8 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.8
 8 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.52
 8 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 14.88
 8 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.16
 8 20
-Porcentaje de mapa descubierto: 53.2
+Porcentaje de mapa descubierto: 62.8
 8 21
-Porcentaje de mapa descubierto: 53.44
+Porcentaje de mapa descubierto: 63.04
 8 22
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 20.24
 8 23
-Porcentaje de mapa descubierto: 15.4
+Porcentaje de mapa descubierto: 60.56
 8 24
-Porcentaje de mapa descubierto: 62.88
+Porcentaje de mapa descubierto: 61.04
 8 25
-Porcentaje de mapa descubierto: 60.64
+Porcentaje de mapa descubierto: 68.08
 8 26
-Porcentaje de mapa descubierto: 60.36
+Porcentaje de mapa descubierto: 60.56
 8 27
-Porcentaje de mapa descubierto: 60.08
+Porcentaje de mapa descubierto: 60.28
 8 28
-Porcentaje de mapa descubierto: 59.8
+Porcentaje de mapa descubierto: 67.24
 8 29
-Porcentaje de mapa descubierto: 60.4
+Porcentaje de mapa descubierto: 67.84
 8 30
-Porcentaje de mapa descubierto: 60.68
+Porcentaje de mapa descubierto: 60.88
 8 31
 Porcentaje de mapa descubierto: 100
 8 32
 Porcentaje de mapa descubierto: 100
 8 33
-Porcentaje de mapa descubierto: 87.88
+Porcentaje de mapa descubierto: 62.48
 8 34
-Porcentaje de mapa descubierto: 72.2
+Porcentaje de mapa descubierto: 62.88
 8 35
-Porcentaje de mapa descubierto: 87.96
+Porcentaje de mapa descubierto: 0
 8 36
-Porcentaje de mapa descubierto: 88.12
+Porcentaje de mapa descubierto: 72.08
 8 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 8 38
-Porcentaje de mapa descubierto: 25.08
+Porcentaje de mapa descubierto: 11.04
 8 39
-Porcentaje de mapa descubierto: 14.08
+Porcentaje de mapa descubierto: 63.6
 8 40
-Porcentaje de mapa descubierto: 16.48
+Porcentaje de mapa descubierto: 0
 8 41
-Porcentaje de mapa descubierto: 49.16
+Porcentaje de mapa descubierto: 9.4
 8 42
-Porcentaje de mapa descubierto: 95.28
-8 43
-Porcentaje de mapa descubierto: 31.16
-8 44
-Porcentaje de mapa descubierto: 48.8
-8 45
 Porcentaje de mapa descubierto: 100
+8 43
+Porcentaje de mapa descubierto: 99.84
+8 44
+Porcentaje de mapa descubierto: 99.08
+8 45
+Porcentaje de mapa descubierto: 0
 8 46
 Porcentaje de mapa descubierto: 0
 9 3
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 20.36
 9 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.64
 9 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.8
 9 6
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 54.24
 9 7
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 21.2
 9 8
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 24.52
 9 9
-Porcentaje de mapa descubierto: 97.36
+Porcentaje de mapa descubierto: 24.8
 9 10
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 22.16
 9 11
-Porcentaje de mapa descubierto: 96.4
+Porcentaje de mapa descubierto: 99.6
 9 12
-Porcentaje de mapa descubierto: 98.48
+Porcentaje de mapa descubierto: 100
 9 13
-Porcentaje de mapa descubierto: 58.12
+Porcentaje de mapa descubierto: 55.76
 9 14
-Porcentaje de mapa descubierto: 64.52
+Porcentaje de mapa descubierto: 73.84
 9 15
-Porcentaje de mapa descubierto: 92.72
+Porcentaje de mapa descubierto: 96.16
 9 16
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 96.16
 9 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 15.24
 9 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 14.6
 9 19
-Porcentaje de mapa descubierto: 52.96
+Porcentaje de mapa descubierto: 62.56
 9 20
-Porcentaje de mapa descubierto: 53.2
+Porcentaje de mapa descubierto: 62.8
 9 21
-Porcentaje de mapa descubierto: 53.44
+Porcentaje de mapa descubierto: 63.04
 9 22
-Porcentaje de mapa descubierto: 99.72
+Porcentaje de mapa descubierto: 64.44
 9 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 17.48
 9 24
-Porcentaje de mapa descubierto: 62.84
+Porcentaje de mapa descubierto: 60.96
 9 25
-Porcentaje de mapa descubierto: 60.6
+Porcentaje de mapa descubierto: 68
 9 26
-Porcentaje de mapa descubierto: 60.32
+Porcentaje de mapa descubierto: 60.48
 9 27
-Porcentaje de mapa descubierto: 60.04
+Porcentaje de mapa descubierto: 60.2
 9 28
-Porcentaje de mapa descubierto: 59.76
+Porcentaje de mapa descubierto: 67.16
 9 29
-Porcentaje de mapa descubierto: 60.36
+Porcentaje de mapa descubierto: 67.76
 9 30
-Porcentaje de mapa descubierto: 60.64
+Porcentaje de mapa descubierto: 60.8
 9 31
 Porcentaje de mapa descubierto: 100
 9 32
 Porcentaje de mapa descubierto: 100
 9 33
-Porcentaje de mapa descubierto: 56.76
+Porcentaje de mapa descubierto: 62.56
 9 34
-Porcentaje de mapa descubierto: 24.84
+Porcentaje de mapa descubierto: 62.96
 9 35
-Porcentaje de mapa descubierto: 29.76
-9 36
-Porcentaje de mapa descubierto: 30.04
-9 37
-Porcentaje de mapa descubierto: 100
-9 38
-Porcentaje de mapa descubierto: 25.08
-9 39
 Porcentaje de mapa descubierto: 0
+9 36
+Porcentaje de mapa descubierto: 72.08
+9 37
+Porcentaje de mapa descubierto: 71.76
+9 38
+Porcentaje de mapa descubierto: 11.04
+9 39
+Porcentaje de mapa descubierto: 63.56
 9 40
 Porcentaje de mapa descubierto: 0
 9 41
-Porcentaje de mapa descubierto: 70.12
+Porcentaje de mapa descubierto: 36.4
 9 42
-Porcentaje de mapa descubierto: 95.28
+Porcentaje de mapa descubierto: 100
 9 43
-Porcentaje de mapa descubierto: 35.36
+Porcentaje de mapa descubierto: 99.88
 9 44
-Porcentaje de mapa descubierto: 4.52
+Porcentaje de mapa descubierto: 99.08
 9 45
-Porcentaje de mapa descubierto: 48.4
+Porcentaje de mapa descubierto: 0
 9 46
 Porcentaje de mapa descubierto: 0
 10 3
-Porcentaje de mapa descubierto: 91.28
+Porcentaje de mapa descubierto: 20.36
 10 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.64
 10 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.8
 10 6
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 54.28
 10 7
-Porcentaje de mapa descubierto: 96.84
+Porcentaje de mapa descubierto: 21.12
 10 8
-Porcentaje de mapa descubierto: 34
+Porcentaje de mapa descubierto: 21.64
 10 9
-Porcentaje de mapa descubierto: 74.52
+Porcentaje de mapa descubierto: 99.84
 10 10
-Porcentaje de mapa descubierto: 96.4
+Porcentaje de mapa descubierto: 65.64
 10 11
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 24.92
 10 12
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 25.88
 10 13
-Porcentaje de mapa descubierto: 82.56
+Porcentaje de mapa descubierto: 56
 10 14
-Porcentaje de mapa descubierto: 50.04
-10 15
-Porcentaje de mapa descubierto: 98.56
-10 16
-Porcentaje de mapa descubierto: 98.56
-10 17
-Porcentaje de mapa descubierto: 92.48
-10 18
-Porcentaje de mapa descubierto: 88.56
-10 19
-Porcentaje de mapa descubierto: 96.4
-10 20
-Porcentaje de mapa descubierto: 96.4
-10 21
-Porcentaje de mapa descubierto: 96.4
-10 22
-Porcentaje de mapa descubierto: 98.96
-10 23
 Porcentaje de mapa descubierto: 100
+10 15
+Porcentaje de mapa descubierto: 15.16
+10 16
+Porcentaje de mapa descubierto: 96.16
+10 17
+Porcentaje de mapa descubierto: 71.92
+10 18
+Porcentaje de mapa descubierto: 14.32
+10 19
+Porcentaje de mapa descubierto: 98.72
+10 20
+Porcentaje de mapa descubierto: 98.72
+10 21
+Porcentaje de mapa descubierto: 98.52
+10 22
+Porcentaje de mapa descubierto: 64.44
+10 23
+Porcentaje de mapa descubierto: 64.4
 10 24
-Porcentaje de mapa descubierto: 62.84
+Porcentaje de mapa descubierto: 60.92
 10 25
-Porcentaje de mapa descubierto: 60.6
+Porcentaje de mapa descubierto: 67.96
 10 26
-Porcentaje de mapa descubierto: 60.32
+Porcentaje de mapa descubierto: 60.44
 10 27
-Porcentaje de mapa descubierto: 60.04
+Porcentaje de mapa descubierto: 60.16
 10 28
-Porcentaje de mapa descubierto: 59.76
+Porcentaje de mapa descubierto: 67.12
 10 29
-Porcentaje de mapa descubierto: 60.4
+Porcentaje de mapa descubierto: 67.76
 10 30
-Porcentaje de mapa descubierto: 60.68
+Porcentaje de mapa descubierto: 60.8
 10 31
 Porcentaje de mapa descubierto: 100
 10 32
 Porcentaje de mapa descubierto: 100
 10 33
-Porcentaje de mapa descubierto: 16.92
+Porcentaje de mapa descubierto: 62.64
 10 34
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 63.04
 10 35
 Porcentaje de mapa descubierto: 0
 10 36
-Porcentaje de mapa descubierto: 92.32
+Porcentaje de mapa descubierto: 72.08
 10 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 10 38
-Porcentaje de mapa descubierto: 25.08
+Porcentaje de mapa descubierto: 11.04
 10 39
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 63.56
 10 40
 Porcentaje de mapa descubierto: 0
 10 41
-Porcentaje de mapa descubierto: 40.36
+Porcentaje de mapa descubierto: 40
 10 42
-Porcentaje de mapa descubierto: 95.28
-10 43
-Porcentaje de mapa descubierto: 95.08
-10 44
-Porcentaje de mapa descubierto: 88.08
-10 45
 Porcentaje de mapa descubierto: 100
+10 43
+Porcentaje de mapa descubierto: 100
+10 44
+Porcentaje de mapa descubierto: 99.72
+10 45
+Porcentaje de mapa descubierto: 0
 10 46
 Porcentaje de mapa descubierto: 0
 11 3
-Porcentaje de mapa descubierto: 99.72
+Porcentaje de mapa descubierto: 20.36
 11 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.6
 11 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.72
 11 6
-Porcentaje de mapa descubierto: 96.84
+Porcentaje de mapa descubierto: 54.16
 11 7
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 21.04
 11 8
-Porcentaje de mapa descubierto: 34
+Porcentaje de mapa descubierto: 21.52
 11 9
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 70.52
 11 10
-Porcentaje de mapa descubierto: 75.52
+Porcentaje de mapa descubierto: 65.48
 11 11
-Porcentaje de mapa descubierto: 98.84
+Porcentaje de mapa descubierto: 24.68
 11 12
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 25.6
 11 13
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 48.72
 11 14
-Porcentaje de mapa descubierto: 91.6
+Porcentaje de mapa descubierto: 99.68
 11 15
-Porcentaje de mapa descubierto: 98.8
+Porcentaje de mapa descubierto: 14.88
 11 16
-Porcentaje de mapa descubierto: 98.8
+Porcentaje de mapa descubierto: 14.84
 11 17
-Porcentaje de mapa descubierto: 88.64
+Porcentaje de mapa descubierto: 97.6
 11 18
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 14.44
 11 19
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 14.6
 11 20
-Porcentaje de mapa descubierto: 87.16
+Porcentaje de mapa descubierto: 87.04
 11 21
-Porcentaje de mapa descubierto: 86.88
+Porcentaje de mapa descubierto: 96.56
 11 22
-Porcentaje de mapa descubierto: 98.96
+Porcentaje de mapa descubierto: 92.2
 11 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 92.48
 11 24
-Porcentaje de mapa descubierto: 62.56
+Porcentaje de mapa descubierto: 60.92
 11 25
-Porcentaje de mapa descubierto: 60.36
+Porcentaje de mapa descubierto: 68
 11 26
-Porcentaje de mapa descubierto: 60.08
+Porcentaje de mapa descubierto: 60.48
 11 27
-Porcentaje de mapa descubierto: 59.8
+Porcentaje de mapa descubierto: 60.2
 11 28
-Porcentaje de mapa descubierto: 59.48
+Porcentaje de mapa descubierto: 67.12
 11 29
-Porcentaje de mapa descubierto: 60.16
+Porcentaje de mapa descubierto: 67.8
 11 30
-Porcentaje de mapa descubierto: 60.44
+Porcentaje de mapa descubierto: 60.84
 11 31
 Porcentaje de mapa descubierto: 100
 11 32
 Porcentaje de mapa descubierto: 100
 11 33
-Porcentaje de mapa descubierto: 77.8
+Porcentaje de mapa descubierto: 62.44
 11 34
-Porcentaje de mapa descubierto: 77.8
+Porcentaje de mapa descubierto: 62.8
 11 35
 Porcentaje de mapa descubierto: 0
 11 36
-Porcentaje de mapa descubierto: 99.72
+Porcentaje de mapa descubierto: 73.36
 11 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 11 38
-Porcentaje de mapa descubierto: 15.28
+Porcentaje de mapa descubierto: 95.92
 11 39
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 63.28
 11 40
 Porcentaje de mapa descubierto: 0
 11 41
-Porcentaje de mapa descubierto: 65.84
+Porcentaje de mapa descubierto: 66.72
 11 42
-Porcentaje de mapa descubierto: 95.28
+Porcentaje de mapa descubierto: 100
 11 43
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 0
 11 44
-Porcentaje de mapa descubierto: 24.16
+Porcentaje de mapa descubierto: 99.96
 11 45
-Porcentaje de mapa descubierto: 16.08
+Porcentaje de mapa descubierto: 16.36
 11 46
 Porcentaje de mapa descubierto: 0
 12 3
-Porcentaje de mapa descubierto: 99.72
+Porcentaje de mapa descubierto: 20.36
 12 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.6
 12 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.64
 12 6
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 54.04
 12 7
-Porcentaje de mapa descubierto: 99.84
+Porcentaje de mapa descubierto: 20.96
 12 8
-Porcentaje de mapa descubierto: 34
+Porcentaje de mapa descubierto: 21.4
 12 9
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 70.28
 12 10
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 65.2
 12 11
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 24.44
 12 12
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 25.32
 12 13
-Porcentaje de mapa descubierto: 99.88
+Porcentaje de mapa descubierto: 74.2
 12 14
-Porcentaje de mapa descubierto: 99.88
+Porcentaje de mapa descubierto: 100
 12 15
-Porcentaje de mapa descubierto: 99.88
+Porcentaje de mapa descubierto: 14.64
 12 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 98.16
 12 17
-Porcentaje de mapa descubierto: 88.64
+Porcentaje de mapa descubierto: 14.76
 12 18
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 14.52
 12 19
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 14.68
 12 20
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 14.88
 12 21
-Porcentaje de mapa descubierto: 94.84
+Porcentaje de mapa descubierto: 82.44
 12 22
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 92.12
 12 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 92.36
 12 24
-Porcentaje de mapa descubierto: 62.28
+Porcentaje de mapa descubierto: 60.64
 12 25
-Porcentaje de mapa descubierto: 60.12
+Porcentaje de mapa descubierto: 67.76
 12 26
-Porcentaje de mapa descubierto: 59.84
-12 27
-Porcentaje de mapa descubierto: 59.56
-12 28
-Porcentaje de mapa descubierto: 59.2
-12 29
-Porcentaje de mapa descubierto: 59.96
-12 30
 Porcentaje de mapa descubierto: 60.24
+12 27
+Porcentaje de mapa descubierto: 59.96
+12 28
+Porcentaje de mapa descubierto: 66.84
+12 29
+Porcentaje de mapa descubierto: 67.6
+12 30
+Porcentaje de mapa descubierto: 60.64
 12 31
 Porcentaje de mapa descubierto: 100
 12 32
 Porcentaje de mapa descubierto: 100
 12 33
-Porcentaje de mapa descubierto: 80.04
+Porcentaje de mapa descubierto: 62.2
 12 34
-Porcentaje de mapa descubierto: 80.36
+Porcentaje de mapa descubierto: 62.52
 12 35
 Porcentaje de mapa descubierto: 0
 12 36
 Porcentaje de mapa descubierto: 0
 12 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 12 38
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.56
 12 39
-Porcentaje de mapa descubierto: 74.12
+Porcentaje de mapa descubierto: 63
 12 40
 Porcentaje de mapa descubierto: 0
 12 41
-Porcentaje de mapa descubierto: 30.92
+Porcentaje de mapa descubierto: 30.64
 12 42
-Porcentaje de mapa descubierto: 64.8
+Porcentaje de mapa descubierto: 27.24
 12 43
-Porcentaje de mapa descubierto: 65.04
+Porcentaje de mapa descubierto: 0
 12 44
 Porcentaje de mapa descubierto: 0
 12 45
-Porcentaje de mapa descubierto: 23.56
+Porcentaje de mapa descubierto: 23
 12 46
 Porcentaje de mapa descubierto: 0
 13 3
-Porcentaje de mapa descubierto: 93.68
+Porcentaje de mapa descubierto: 20.36
 13 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.6
 13 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.56
 13 6
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 53.92
 13 7
-Porcentaje de mapa descubierto: 98.96
+Porcentaje de mapa descubierto: 20.88
 13 8
-Porcentaje de mapa descubierto: 33.72
+Porcentaje de mapa descubierto: 21.28
 13 9
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 70.04
 13 10
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 64.92
 13 11
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 24.2
 13 12
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 25.04
 13 13
-Porcentaje de mapa descubierto: 98.96
+Porcentaje de mapa descubierto: 74.04
 13 14
-Porcentaje de mapa descubierto: 99.88
+Porcentaje de mapa descubierto: 100
 13 15
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 89.48
 13 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 14.92
 13 17
-Porcentaje de mapa descubierto: 88.64
+Porcentaje de mapa descubierto: 14.76
 13 18
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 14.6
 13 19
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 14.72
 13 20
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 14.92
 13 21
-Porcentaje de mapa descubierto: 98.72
+Porcentaje de mapa descubierto: 15.16
 13 22
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 92.04
 13 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 92.24
 13 24
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 60.36
 13 25
-Porcentaje de mapa descubierto: 59.92
+Porcentaje de mapa descubierto: 67.56
 13 26
-Porcentaje de mapa descubierto: 59.64
-13 27
-Porcentaje de mapa descubierto: 59.36
-13 28
-Porcentaje de mapa descubierto: 58.92
-13 29
-Porcentaje de mapa descubierto: 59.76
-13 30
 Porcentaje de mapa descubierto: 60.04
+13 27
+Porcentaje de mapa descubierto: 59.76
+13 28
+Porcentaje de mapa descubierto: 66.56
+13 29
+Porcentaje de mapa descubierto: 67.4
+13 30
+Porcentaje de mapa descubierto: 60.44
 13 31
 Porcentaje de mapa descubierto: 100
 13 32
@@ -943,19 +943,19 @@ Porcentaje de mapa descubierto: 98.36
 13 34
 Porcentaje de mapa descubierto: 98.36
 13 35
-Porcentaje de mapa descubierto: 94.28
+Porcentaje de mapa descubierto: 98.32
 13 36
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 100
 13 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 71.76
 13 38
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.16
 13 39
-Porcentaje de mapa descubierto: 79.04
+Porcentaje de mapa descubierto: 62.72
 13 40
-Porcentaje de mapa descubierto: 45.12
+Porcentaje de mapa descubierto: 0
 13 41
-Porcentaje de mapa descubierto: 71.36
+Porcentaje de mapa descubierto: 76.28
 13 42
 Porcentaje de mapa descubierto: 0
 13 43
@@ -967,81 +967,81 @@ Porcentaje de mapa descubierto: 0
 13 46
 Porcentaje de mapa descubierto: 0
 14 3
-Porcentaje de mapa descubierto: 95.68
+Porcentaje de mapa descubierto: 20.36
 14 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.6
 14 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.52
 14 6
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 53.8
 14 7
-Porcentaje de mapa descubierto: 99.44
+Porcentaje de mapa descubierto: 20.8
 14 8
-Porcentaje de mapa descubierto: 99.28
+Porcentaje de mapa descubierto: 21.16
 14 9
-Porcentaje de mapa descubierto: 98.64
+Porcentaje de mapa descubierto: 100
 14 10
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 64.64
 14 11
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 23.96
 14 12
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 24.76
 14 13
-Porcentaje de mapa descubierto: 97.76
+Porcentaje de mapa descubierto: 72.76
 14 14
-Porcentaje de mapa descubierto: 99.88
+Porcentaje de mapa descubierto: 100
 14 15
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 14.2
 14 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 14.16
 14 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.16
 14 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.16
 14 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.56
 14 20
-Porcentaje de mapa descubierto: 98.72
+Porcentaje de mapa descubierto: 100
 14 21
-Porcentaje de mapa descubierto: 99.36
+Porcentaje de mapa descubierto: 100
 14 22
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 92.04
 14 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 92.24
 14 24
-Porcentaje de mapa descubierto: 58.92
+Porcentaje de mapa descubierto: 60.08
 14 25
-Porcentaje de mapa descubierto: 59.72
+Porcentaje de mapa descubierto: 67.36
 14 26
-Porcentaje de mapa descubierto: 59.44
+Porcentaje de mapa descubierto: 59.84
 14 27
-Porcentaje de mapa descubierto: 59.16
+Porcentaje de mapa descubierto: 59.56
 14 28
-Porcentaje de mapa descubierto: 58.64
+Porcentaje de mapa descubierto: 66.28
 14 29
-Porcentaje de mapa descubierto: 59.6
+Porcentaje de mapa descubierto: 67.24
 14 30
-Porcentaje de mapa descubierto: 59.88
+Porcentaje de mapa descubierto: 60.28
 14 31
 Porcentaje de mapa descubierto: 100
 14 32
 Porcentaje de mapa descubierto: 100
 14 33
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 98.52
 14 34
-Porcentaje de mapa descubierto: 99.96
+Porcentaje de mapa descubierto: 99.52
 14 35
-Porcentaje de mapa descubierto: 82.48
+Porcentaje de mapa descubierto: 65.68
 14 36
-Porcentaje de mapa descubierto: 58.2
-14 37
-Porcentaje de mapa descubierto: 99.68
-14 38
 Porcentaje de mapa descubierto: 100
+14 37
+Porcentaje de mapa descubierto: 99.84
+14 38
+Porcentaje de mapa descubierto: 96.16
 14 39
-Porcentaje de mapa descubierto: 90.6
+Porcentaje de mapa descubierto: 84.48
 14 40
-Porcentaje de mapa descubierto: 13.28
+Porcentaje de mapa descubierto: 75.68
 14 41
 Porcentaje de mapa descubierto: 0
 14 42
@@ -1051,245 +1051,245 @@ Porcentaje de mapa descubierto: 0
 14 44
 Porcentaje de mapa descubierto: 0
 14 45
-Porcentaje de mapa descubierto: 48.84
+Porcentaje de mapa descubierto: 0
 14 46
 Porcentaje de mapa descubierto: 0
 15 3
-Porcentaje de mapa descubierto: 95.2
+Porcentaje de mapa descubierto: 20.36
 15 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.6
 15 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.52
 15 6
-Porcentaje de mapa descubierto: 97.4
+Porcentaje de mapa descubierto: 53.72
 15 7
-Porcentaje de mapa descubierto: 98.4
+Porcentaje de mapa descubierto: 20.72
 15 8
-Porcentaje de mapa descubierto: 99.28
+Porcentaje de mapa descubierto: 21.04
 15 9
-Porcentaje de mapa descubierto: 98.64
+Porcentaje de mapa descubierto: 100
 15 10
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 64.36
 15 11
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 23.76
 15 12
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 24.52
 15 13
-Porcentaje de mapa descubierto: 97.6
+Porcentaje de mapa descubierto: 79.88
 15 14
-Porcentaje de mapa descubierto: 99.88
+Porcentaje de mapa descubierto: 100
 15 15
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 14
 15 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.96
 15 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.68
 15 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.16
 15 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.32
 15 20
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.52
 15 21
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 13.76
 15 22
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 59.64
 15 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 66.12
 15 24
-Porcentaje de mapa descubierto: 58.64
+Porcentaje de mapa descubierto: 59.8
 15 25
-Porcentaje de mapa descubierto: 59.56
+Porcentaje de mapa descubierto: 67.2
 15 26
-Porcentaje de mapa descubierto: 59.28
+Porcentaje de mapa descubierto: 59.68
 15 27
-Porcentaje de mapa descubierto: 59
+Porcentaje de mapa descubierto: 59.4
 15 28
-Porcentaje de mapa descubierto: 58.36
+Porcentaje de mapa descubierto: 66
 15 29
-Porcentaje de mapa descubierto: 58.64
+Porcentaje de mapa descubierto: 59.04
 15 30
-Porcentaje de mapa descubierto: 58.92
+Porcentaje de mapa descubierto: 59.32
 15 31
-Porcentaje de mapa descubierto: 99.2
+Porcentaje de mapa descubierto: 100
 15 32
 Porcentaje de mapa descubierto: 100
 15 33
 Porcentaje de mapa descubierto: 100
 15 34
-Porcentaje de mapa descubierto: 91.96
+Porcentaje de mapa descubierto: 100
 15 35
-Porcentaje de mapa descubierto: 99.52
+Porcentaje de mapa descubierto: 99.8
 15 36
 Porcentaje de mapa descubierto: 100
 15 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.76
 15 38
 Porcentaje de mapa descubierto: 100
 15 39
-Porcentaje de mapa descubierto: 90.48
+Porcentaje de mapa descubierto: 96.08
 15 40
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.56
 15 41
-Porcentaje de mapa descubierto: 96.8
+Porcentaje de mapa descubierto: 96.56
 15 42
-Porcentaje de mapa descubierto: 63.8
+Porcentaje de mapa descubierto: 62.24
 15 43
 Porcentaje de mapa descubierto: 0
 15 44
 Porcentaje de mapa descubierto: 0
 15 45
-Porcentaje de mapa descubierto: 48.88
+Porcentaje de mapa descubierto: 0
 15 46
 Porcentaje de mapa descubierto: 0
 16 3
-Porcentaje de mapa descubierto: 91.28
+Porcentaje de mapa descubierto: 20.36
 16 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.6
 16 5
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.52
 16 6
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.68
 16 7
-Porcentaje de mapa descubierto: 98.04
+Porcentaje de mapa descubierto: 20.64
 16 8
-Porcentaje de mapa descubierto: 3.84
+Porcentaje de mapa descubierto: 20.76
 16 9
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 95.84
 16 10
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 63.52
 16 11
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 23.6
 16 12
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 24.32
 16 13
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 80.28
 16 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.88
 16 15
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.84
 16 16
-Porcentaje de mapa descubierto: 99.92
+Porcentaje de mapa descubierto: 13.8
 16 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.52
 16 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 12.96
 16 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.12
 16 20
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.28
 16 21
-Porcentaje de mapa descubierto: 72.84
+Porcentaje de mapa descubierto: 100
 16 22
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 59.36
 16 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 65.44
 16 24
-Porcentaje de mapa descubierto: 58.36
+Porcentaje de mapa descubierto: 59.52
 16 25
-Porcentaje de mapa descubierto: 14.36
+Porcentaje de mapa descubierto: 41.56
 16 26
-Porcentaje de mapa descubierto: 59
+Porcentaje de mapa descubierto: 59.4
 16 27
-Porcentaje de mapa descubierto: 58.72
+Porcentaje de mapa descubierto: 59.12
 16 28
-Porcentaje de mapa descubierto: 58.08
+Porcentaje de mapa descubierto: 65.72
 16 29
-Porcentaje de mapa descubierto: 58.36
+Porcentaje de mapa descubierto: 58.76
 16 30
-Porcentaje de mapa descubierto: 97.76
+Porcentaje de mapa descubierto: 100
 16 31
-Porcentaje de mapa descubierto: 97.76
+Porcentaje de mapa descubierto: 99.32
 16 32
 Porcentaje de mapa descubierto: 100
 16 33
-Porcentaje de mapa descubierto: 91.32
+Porcentaje de mapa descubierto: 94.36
 16 34
-Porcentaje de mapa descubierto: 99.36
+Porcentaje de mapa descubierto: 94.36
 16 35
-Porcentaje de mapa descubierto: 99.52
+Porcentaje de mapa descubierto: 94.44
 16 36
-Porcentaje de mapa descubierto: 96.36
+Porcentaje de mapa descubierto: 100
 16 37
 Porcentaje de mapa descubierto: 100
 16 38
 Porcentaje de mapa descubierto: 100
 16 39
-Porcentaje de mapa descubierto: 96.8
+Porcentaje de mapa descubierto: 96.16
 16 40
-Porcentaje de mapa descubierto: 97.8
+Porcentaje de mapa descubierto: 96.56
 16 41
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.16
 16 42
 Porcentaje de mapa descubierto: 0
 16 43
-Porcentaje de mapa descubierto: 92.36
+Porcentaje de mapa descubierto: 86.64
 16 44
 Porcentaje de mapa descubierto: 0
 16 45
-Porcentaje de mapa descubierto: 48.92
+Porcentaje de mapa descubierto: 0
 16 46
 Porcentaje de mapa descubierto: 0
 17 3
-Porcentaje de mapa descubierto: 99.8
+Porcentaje de mapa descubierto: 20.36
 17 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.52
 17 5
-Porcentaje de mapa descubierto: 99.88
+Porcentaje de mapa descubierto: 53.52
 17 6
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 53.6
 17 7
-Porcentaje de mapa descubierto: 3.44
+Porcentaje de mapa descubierto: 20.48
 17 8
-Porcentaje de mapa descubierto: 3.52
+Porcentaje de mapa descubierto: 20.68
 17 9
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 96.96
 17 10
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 63.16
 17 11
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 23.48
 17 12
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 24.16
 17 13
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 99.52
 17 14
 Porcentaje de mapa descubierto: 100
 17 15
-Porcentaje de mapa descubierto: 58.48
+Porcentaje de mapa descubierto: 98.88
 17 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.28
 17 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 13.24
 17 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 12.76
 17 19
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 12.88
 17 20
-Porcentaje de mapa descubierto: 72.12
+Porcentaje de mapa descubierto: 100
 17 21
-Porcentaje de mapa descubierto: 72.48
+Porcentaje de mapa descubierto: 13.08
 17 22
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 58.16
 17 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 65.44
 17 24
-Porcentaje de mapa descubierto: 58.08
+Porcentaje de mapa descubierto: 59.24
 17 25
-Porcentaje de mapa descubierto: 14.24
+Porcentaje de mapa descubierto: 41.4
 17 26
-Porcentaje de mapa descubierto: 99.8
+Porcentaje de mapa descubierto: 100
 17 27
-Porcentaje de mapa descubierto: 58.44
+Porcentaje de mapa descubierto: 58.84
 17 28
-Porcentaje de mapa descubierto: 57.8
+Porcentaje de mapa descubierto: 65.44
 17 29
 Porcentaje de mapa descubierto: 99.76
 17 30
 Porcentaje de mapa descubierto: 99.76
 17 31
-Porcentaje de mapa descubierto: 99.2
+Porcentaje de mapa descubierto: 99.4
 17 32
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 65.08
 17 33
 Porcentaje de mapa descubierto: 100
 17 34
@@ -1297,89 +1297,89 @@ Porcentaje de mapa descubierto: 100
 17 35
 Porcentaje de mapa descubierto: 100
 17 36
-Porcentaje de mapa descubierto: 95.76
+Porcentaje de mapa descubierto: 100
 17 37
 Porcentaje de mapa descubierto: 95.64
 17 38
 Porcentaje de mapa descubierto: 100
 17 39
-Porcentaje de mapa descubierto: 96.8
+Porcentaje de mapa descubierto: 96.16
 17 40
-Porcentaje de mapa descubierto: 96.8
+Porcentaje de mapa descubierto: 96.16
 17 41
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 96.16
 17 42
 Porcentaje de mapa descubierto: 0
 17 43
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 61.08
 17 44
 Porcentaje de mapa descubierto: 0
 17 45
-Porcentaje de mapa descubierto: 48.52
+Porcentaje de mapa descubierto: 0
 17 46
 Porcentaje de mapa descubierto: 0
 18 3
-Porcentaje de mapa descubierto: 63.88
+Porcentaje de mapa descubierto: 59.8
 18 4
-Porcentaje de mapa descubierto: 98.32
+Porcentaje de mapa descubierto: 74.52
 18 5
-Porcentaje de mapa descubierto: 99.88
+Porcentaje de mapa descubierto: 53.48
 18 6
-Porcentaje de mapa descubierto: 3.12
+Porcentaje de mapa descubierto: 97.48
 18 7
-Porcentaje de mapa descubierto: 3.12
+Porcentaje de mapa descubierto: 96.84
 18 8
-Porcentaje de mapa descubierto: 3.24
+Porcentaje de mapa descubierto: 93.76
 18 9
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.6
 18 10
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 62.92
 18 11
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 23.32
 18 12
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 23.96
 18 13
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.52
 18 14
-Porcentaje de mapa descubierto: 99.4
+Porcentaje de mapa descubierto: 100
 18 15
-Porcentaje de mapa descubierto: 58.2
+Porcentaje de mapa descubierto: 98.8
 18 16
-Porcentaje de mapa descubierto: 57.92
+Porcentaje de mapa descubierto: 98.8
 18 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 12.72
 18 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 12.56
 18 19
-Porcentaje de mapa descubierto: 71.92
+Porcentaje de mapa descubierto: 100
 18 20
-Porcentaje de mapa descubierto: 71.88
+Porcentaje de mapa descubierto: 12.52
 18 21
-Porcentaje de mapa descubierto: 77.32
+Porcentaje de mapa descubierto: 12.8
 18 22
-Porcentaje de mapa descubierto: 99.64
+Porcentaje de mapa descubierto: 58.72
 18 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 65.16
 18 24
-Porcentaje de mapa descubierto: 57.8
+Porcentaje de mapa descubierto: 58.96
 18 25
-Porcentaje de mapa descubierto: 14.12
+Porcentaje de mapa descubierto: 23.84
 18 26
-Porcentaje de mapa descubierto: 99.8
-18 27
 Porcentaje de mapa descubierto: 100
+18 27
+Porcentaje de mapa descubierto: 99.56
 18 28
-Porcentaje de mapa descubierto: 99.2
+Porcentaje de mapa descubierto: 65.16
 18 29
 Porcentaje de mapa descubierto: 100
 18 30
 Porcentaje de mapa descubierto: 100
 18 31
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 98.56
 18 32
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 65.2
 18 33
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 57.92
 18 34
 Porcentaje de mapa descubierto: 100
 18 35
@@ -1387,15 +1387,15 @@ Porcentaje de mapa descubierto: 100
 18 36
 Porcentaje de mapa descubierto: 100
 18 37
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 99.76
 18 38
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 99.76
 18 39
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.16
 18 40
-Porcentaje de mapa descubierto: 96.8
+Porcentaje de mapa descubierto: 100
 18 41
-Porcentaje de mapa descubierto: 99.44
+Porcentaje de mapa descubierto: 96.16
 18 42
 Porcentaje de mapa descubierto: 0
 18 43
@@ -1407,27 +1407,27 @@ Porcentaje de mapa descubierto: 0
 18 46
 Porcentaje de mapa descubierto: 0
 19 3
-Porcentaje de mapa descubierto: 67.48
+Porcentaje de mapa descubierto: 59.8
 19 4
-Porcentaje de mapa descubierto: 99.16
+Porcentaje de mapa descubierto: 58.96
 19 5
-Porcentaje de mapa descubierto: 99.96
+Porcentaje de mapa descubierto: 20.36
 19 6
-Porcentaje de mapa descubierto: 2.8
+Porcentaje de mapa descubierto: 20.4
 19 7
-Porcentaje de mapa descubierto: 2.84
+Porcentaje de mapa descubierto: 20.48
 19 8
-Porcentaje de mapa descubierto: 2.92
+Porcentaje de mapa descubierto: 20.6
 19 9
-Porcentaje de mapa descubierto: 98.92
+Porcentaje de mapa descubierto: 99.92
 19 10
-Porcentaje de mapa descubierto: 47.28
+Porcentaje de mapa descubierto: 63.16
 19 11
-Porcentaje de mapa descubierto: 6.6
+Porcentaje de mapa descubierto: 23.12
 19 12
-Porcentaje de mapa descubierto: 6.92
+Porcentaje de mapa descubierto: 23.72
 19 13
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.52
 19 14
 Porcentaje de mapa descubierto: 100
 19 15
@@ -1435,59 +1435,59 @@ Porcentaje de mapa descubierto: 100
 19 16
 Porcentaje de mapa descubierto: 100
 19 17
-Porcentaje de mapa descubierto: 60.96
+Porcentaje de mapa descubierto: 100
 19 18
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 11.8
 19 19
-Porcentaje de mapa descubierto: 71.6
+Porcentaje de mapa descubierto: 11.96
 19 20
-Porcentaje de mapa descubierto: 71.6
+Porcentaje de mapa descubierto: 12.12
 19 21
-Porcentaje de mapa descubierto: 71.6
+Porcentaje de mapa descubierto: 12.32
 19 22
-Porcentaje de mapa descubierto: 73.08
+Porcentaje de mapa descubierto: 58.12
 19 23
-Porcentaje de mapa descubierto: 59.44
+Porcentaje de mapa descubierto: 65.04
 19 24
-Porcentaje de mapa descubierto: 78.68
+Porcentaje de mapa descubierto: 63
 19 25
-Porcentaje de mapa descubierto: 14.04
+Porcentaje de mapa descubierto: 41.16
 19 26
-Porcentaje de mapa descubierto: 99.8
+Porcentaje de mapa descubierto: 100
 19 27
-Porcentaje de mapa descubierto: 98.44
+Porcentaje de mapa descubierto: 99.08
 19 28
-Porcentaje de mapa descubierto: 99.2
+Porcentaje de mapa descubierto: 65.28
 19 29
-Porcentaje de mapa descubierto: 98.44
+Porcentaje de mapa descubierto: 58.2
 19 30
-Porcentaje de mapa descubierto: 77.68
+Porcentaje de mapa descubierto: 98.56
 19 31
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 67
 19 32
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 65.28
 19 33
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 98.68
 19 34
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 99.12
 19 35
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99
 19 36
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.76
 19 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.76
 19 38
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.76
 19 39
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.76
 19 40
-Porcentaje de mapa descubierto: 96.8
+Porcentaje de mapa descubierto: 99.84
 19 41
-Porcentaje de mapa descubierto: 96.8
+Porcentaje de mapa descubierto: 0
 19 42
 Porcentaje de mapa descubierto: 0
 19 43
-Porcentaje de mapa descubierto: 35
+Porcentaje de mapa descubierto: 0
 19 44
 Porcentaje de mapa descubierto: 0
 19 45
@@ -1495,351 +1495,351 @@ Porcentaje de mapa descubierto: 0
 19 46
 Porcentaje de mapa descubierto: 0
 20 3
-Porcentaje de mapa descubierto: 64.64
+Porcentaje de mapa descubierto: 59.8
 20 4
-Porcentaje de mapa descubierto: 95.68
+Porcentaje de mapa descubierto: 53.56
 20 5
-Porcentaje de mapa descubierto: 99.96
+Porcentaje de mapa descubierto: 20.36
 20 6
-Porcentaje de mapa descubierto: 93.32
+Porcentaje de mapa descubierto: 53.56
 20 7
-Porcentaje de mapa descubierto: 2.92
+Porcentaje de mapa descubierto: 97.48
 20 8
-Porcentaje de mapa descubierto: 3.04
+Porcentaje de mapa descubierto: 97.48
 20 9
-Porcentaje de mapa descubierto: 99.32
+Porcentaje de mapa descubierto: 59.84
 20 10
-Porcentaje de mapa descubierto: 96.64
+Porcentaje de mapa descubierto: 99.96
 20 11
-Porcentaje de mapa descubierto: 6.44
+Porcentaje de mapa descubierto: 22.96
 20 12
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 23.52
 20 13
 Porcentaje de mapa descubierto: 100
 20 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 20 15
 Porcentaje de mapa descubierto: 100
 20 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 20 17
-Porcentaje de mapa descubierto: 88.64
+Porcentaje de mapa descubierto: 100
 20 18
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 11.92
 20 19
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 12.08
 20 20
-Porcentaje de mapa descubierto: 71.68
+Porcentaje de mapa descubierto: 12.24
 20 21
-Porcentaje de mapa descubierto: 71.68
+Porcentaje de mapa descubierto: 12.44
 20 22
-Porcentaje de mapa descubierto: 58.44
+Porcentaje de mapa descubierto: 57.84
 20 23
-Porcentaje de mapa descubierto: 78.04
+Porcentaje de mapa descubierto: 62.44
 20 24
-Porcentaje de mapa descubierto: 72.4
+Porcentaje de mapa descubierto: 100
 20 25
-Porcentaje de mapa descubierto: 14
+Porcentaje de mapa descubierto: 23.72
 20 26
-Porcentaje de mapa descubierto: 98.44
+Porcentaje de mapa descubierto: 99.44
 20 27
-Porcentaje de mapa descubierto: 98.44
+Porcentaje de mapa descubierto: 80.4
 20 28
-Porcentaje de mapa descubierto: 99.2
+Porcentaje de mapa descubierto: 65.36
 20 29
-Porcentaje de mapa descubierto: 78.08
+Porcentaje de mapa descubierto: 98.72
 20 30
-Porcentaje de mapa descubierto: 77.92
+Porcentaje de mapa descubierto: 67.68
 20 31
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 67
 20 32
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 98.76
 20 33
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 98.68
 20 34
 Porcentaje de mapa descubierto: 99.16
 20 35
 Porcentaje de mapa descubierto: 99.16
 20 36
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.76
 20 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.76
 20 38
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 99.76
 20 39
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 99.76
 20 40
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 100
 20 41
-Porcentaje de mapa descubierto: 98.08
+Porcentaje de mapa descubierto: 100
 20 42
 Porcentaje de mapa descubierto: 0
 20 43
-Porcentaje de mapa descubierto: 35
+Porcentaje de mapa descubierto: 0
 20 44
-Porcentaje de mapa descubierto: 35
+Porcentaje de mapa descubierto: 0
 20 45
 Porcentaje de mapa descubierto: 0
 20 46
 Porcentaje de mapa descubierto: 0
 21 3
-Porcentaje de mapa descubierto: 91.32
+Porcentaje de mapa descubierto: 53.56
 21 4
-Porcentaje de mapa descubierto: 95.68
+Porcentaje de mapa descubierto: 74.56
 21 5
-Porcentaje de mapa descubierto: 99.96
+Porcentaje de mapa descubierto: 20.36
 21 6
-Porcentaje de mapa descubierto: 95.68
+Porcentaje de mapa descubierto: 74.64
 21 7
-Porcentaje de mapa descubierto: 91.16
+Porcentaje de mapa descubierto: 53.64
 21 8
-Porcentaje de mapa descubierto: 3.2
+Porcentaje de mapa descubierto: 20.68
 21 9
-Porcentaje de mapa descubierto: 99.32
+Porcentaje de mapa descubierto: 59.6
 21 10
 Porcentaje de mapa descubierto: 98.76
 21 11
-Porcentaje de mapa descubierto: 6.44
+Porcentaje de mapa descubierto: 22.96
 21 12
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 23.52
 21 13
 Porcentaje de mapa descubierto: 100
 21 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 21 15
 Porcentaje de mapa descubierto: 100
 21 16
-Porcentaje de mapa descubierto: 95.88
+Porcentaje de mapa descubierto: 100
 21 17
-Porcentaje de mapa descubierto: 88.64
+Porcentaje de mapa descubierto: 12.24
 21 18
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 12
 21 19
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 12.16
 21 20
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 12.36
 21 21
-Porcentaje de mapa descubierto: 77.48
+Porcentaje de mapa descubierto: 12.52
 21 22
-Porcentaje de mapa descubierto: 77.16
+Porcentaje de mapa descubierto: 99.72
 21 23
-Porcentaje de mapa descubierto: 72.32
+Porcentaje de mapa descubierto: 100
 21 24
-Porcentaje de mapa descubierto: 72.36
+Porcentaje de mapa descubierto: 100
 21 25
-Porcentaje de mapa descubierto: 98.52
+Porcentaje de mapa descubierto: 99.4
 21 26
-Porcentaje de mapa descubierto: 98.44
+Porcentaje de mapa descubierto: 93
 21 27
-Porcentaje de mapa descubierto: 98.44
+Porcentaje de mapa descubierto: 80.4
 21 28
-Porcentaje de mapa descubierto: 99.2
+Porcentaje de mapa descubierto: 85.48
 21 29
-Porcentaje de mapa descubierto: 98.44
+Porcentaje de mapa descubierto: 58.32
 21 30
-Porcentaje de mapa descubierto: 81.8
+Porcentaje de mapa descubierto: 73.72
 21 31
-Porcentaje de mapa descubierto: 99.48
+Porcentaje de mapa descubierto: 67.68
 21 32
-Porcentaje de mapa descubierto: 56.24
+Porcentaje de mapa descubierto: 56.64
 21 33
-Porcentaje de mapa descubierto: 95.52
+Porcentaje de mapa descubierto: 95.6
 21 34
-Porcentaje de mapa descubierto: 99.16
+Porcentaje de mapa descubierto: 100
 21 35
 Porcentaje de mapa descubierto: 99.16
 21 36
 Porcentaje de mapa descubierto: 100
 21 37
-Porcentaje de mapa descubierto: 99.44
+Porcentaje de mapa descubierto: 100
 21 38
 Porcentaje de mapa descubierto: 100
 21 39
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 100
 21 40
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 99.76
 21 41
 Porcentaje de mapa descubierto: 0
 21 42
-Porcentaje de mapa descubierto: 99.04
+Porcentaje de mapa descubierto: 98.12
 21 43
-Porcentaje de mapa descubierto: 50.48
-21 44
-Porcentaje de mapa descubierto: 50.48
-21 45
-Porcentaje de mapa descubierto: 50.48
-21 46
 Porcentaje de mapa descubierto: 0
+21 44
+Porcentaje de mapa descubierto: 0
+21 45
+Porcentaje de mapa descubierto: 0
+21 46
+Porcentaje de mapa descubierto: 98.76
 22 3
-Porcentaje de mapa descubierto: 94.64
+Porcentaje de mapa descubierto: 20.36
 22 4
-Porcentaje de mapa descubierto: 95.68
+Porcentaje de mapa descubierto: 99.4
 22 5
-Porcentaje de mapa descubierto: 99.96
+Porcentaje de mapa descubierto: 20.36
 22 6
-Porcentaje de mapa descubierto: 95.68
+Porcentaje de mapa descubierto: 99.4
 22 7
-Porcentaje de mapa descubierto: 94.64
+Porcentaje de mapa descubierto: 20.56
 22 8
-Porcentaje de mapa descubierto: 79.76
+Porcentaje de mapa descubierto: 20.76
 22 9
-Porcentaje de mapa descubierto: 97.64
+Porcentaje de mapa descubierto: 59.4
 22 10
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 59.56
 22 11
-Porcentaje de mapa descubierto: 6.44
+Porcentaje de mapa descubierto: 22.96
 22 12
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 23.52
 22 13
 Porcentaje de mapa descubierto: 100
 22 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 22 15
-Porcentaje de mapa descubierto: 91.76
+Porcentaje de mapa descubierto: 100
 22 16
-Porcentaje de mapa descubierto: 95.04
+Porcentaje de mapa descubierto: 12.4
 22 17
-Porcentaje de mapa descubierto: 88.64
+Porcentaje de mapa descubierto: 12.24
 22 18
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 12.08
 22 19
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 12.2
 22 20
-Porcentaje de mapa descubierto: 88.56
+Porcentaje de mapa descubierto: 12.4
 22 21
 Porcentaje de mapa descubierto: 69.8
 22 22
-Porcentaje de mapa descubierto: 72.2
-22 23
-Porcentaje de mapa descubierto: 72.24
-22 24
-Porcentaje de mapa descubierto: 72.28
-22 25
-Porcentaje de mapa descubierto: 14
-22 26
-Porcentaje de mapa descubierto: 99.8
-22 27
 Porcentaje de mapa descubierto: 100
+22 23
+Porcentaje de mapa descubierto: 100
+22 24
+Porcentaje de mapa descubierto: 100
+22 25
+Porcentaje de mapa descubierto: 23.72
+22 26
+Porcentaje de mapa descubierto: 100
+22 27
+Porcentaje de mapa descubierto: 99.56
 22 28
-Porcentaje de mapa descubierto: 56.52
+Porcentaje de mapa descubierto: 64.2
 22 29
-Porcentaje de mapa descubierto: 56.24
+Porcentaje de mapa descubierto: 56.64
 22 30
-Porcentaje de mapa descubierto: 55.96
+Porcentaje de mapa descubierto: 56.36
 22 31
-Porcentaje de mapa descubierto: 55.68
+Porcentaje de mapa descubierto: 63.72
 22 32
 Porcentaje de mapa descubierto: 100
 22 33
-Porcentaje de mapa descubierto: 95.68
+Porcentaje de mapa descubierto: 95.76
 22 34
 Porcentaje de mapa descubierto: 100
 22 35
-Porcentaje de mapa descubierto: 99.16
+Porcentaje de mapa descubierto: 100
 22 36
 Porcentaje de mapa descubierto: 100
 22 37
-Porcentaje de mapa descubierto: 95.84
+Porcentaje de mapa descubierto: 95.88
 22 38
-Porcentaje de mapa descubierto: 96.24
-22 39
-Porcentaje de mapa descubierto: 15.12
-22 40
 Porcentaje de mapa descubierto: 100
+22 39
+Porcentaje de mapa descubierto: 100
+22 40
+Porcentaje de mapa descubierto: 99.76
 22 41
-Porcentaje de mapa descubierto: 50.16
+Porcentaje de mapa descubierto: 0
 22 42
 Porcentaje de mapa descubierto: 0
 22 43
-Porcentaje de mapa descubierto: 31.36
+Porcentaje de mapa descubierto: 0
 22 44
-Porcentaje de mapa descubierto: 35
+Porcentaje de mapa descubierto: 0
 22 45
 Porcentaje de mapa descubierto: 0
 22 46
 Porcentaje de mapa descubierto: 0
 23 3
-Porcentaje de mapa descubierto: 72.56
+Porcentaje de mapa descubierto: 59.8
 23 4
-Porcentaje de mapa descubierto: 93.16
+Porcentaje de mapa descubierto: 59.84
 23 5
-Porcentaje de mapa descubierto: 70.04
+Porcentaje de mapa descubierto: 58.92
 23 6
-Porcentaje de mapa descubierto: 99.4
+Porcentaje de mapa descubierto: 60.2
 23 7
-Porcentaje de mapa descubierto: 99.4
+Porcentaje de mapa descubierto: 60
 23 8
-Porcentaje de mapa descubierto: 99.4
+Porcentaje de mapa descubierto: 60.16
 23 9
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.32
 23 10
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.48
 23 11
-Porcentaje de mapa descubierto: 6.44
+Porcentaje de mapa descubierto: 22.96
 23 12
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 23.52
 23 13
 Porcentaje de mapa descubierto: 100
 23 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94
 23 15
 Porcentaje de mapa descubierto: 100
 23 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 23 17
-Porcentaje de mapa descubierto: 60.16
+Porcentaje de mapa descubierto: 94.96
 23 18
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 80.72
 23 19
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 89.32
 23 20
-Porcentaje de mapa descubierto: 72.12
+Porcentaje de mapa descubierto: 91.96
 23 21
 Porcentaje de mapa descubierto: 69.8
 23 22
-Porcentaje de mapa descubierto: 69.96
+Porcentaje de mapa descubierto: 70.4
 23 23
-Porcentaje de mapa descubierto: 11.52
+Porcentaje de mapa descubierto: 11.24
 23 24
-Porcentaje de mapa descubierto: 72.32
-23 25
-Porcentaje de mapa descubierto: 20.72
-23 26
-Porcentaje de mapa descubierto: 99.8
-23 27
 Porcentaje de mapa descubierto: 100
+23 25
+Porcentaje de mapa descubierto: 23.72
+23 26
+Porcentaje de mapa descubierto: 100
+23 27
+Porcentaje de mapa descubierto: 99.56
 23 28
-Porcentaje de mapa descubierto: 56.24
+Porcentaje de mapa descubierto: 64
 23 29
-Porcentaje de mapa descubierto: 55.96
+Porcentaje de mapa descubierto: 56.36
 23 30
-Porcentaje de mapa descubierto: 55.68
+Porcentaje de mapa descubierto: 56.08
 23 31
-Porcentaje de mapa descubierto: 55.4
+Porcentaje de mapa descubierto: 63.52
 23 32
-Porcentaje de mapa descubierto: 55.68
+Porcentaje de mapa descubierto: 56.08
 23 33
-Porcentaje de mapa descubierto: 55.96
+Porcentaje de mapa descubierto: 56.36
 23 34
-Porcentaje de mapa descubierto: 56.24
+Porcentaje de mapa descubierto: 64
 23 35
-Porcentaje de mapa descubierto: 97.2
+Porcentaje de mapa descubierto: 97.24
 23 36
 Porcentaje de mapa descubierto: 100
 23 37
-Porcentaje de mapa descubierto: 96.68
+Porcentaje de mapa descubierto: 96.72
 23 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 23 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 23 40
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 99.96
 23 41
-Porcentaje de mapa descubierto: 99.68
+Porcentaje de mapa descubierto: 99.76
 23 42
 Porcentaje de mapa descubierto: 0
 23 43
-Porcentaje de mapa descubierto: 6.36
+Porcentaje de mapa descubierto: 0
 23 44
 Porcentaje de mapa descubierto: 0
 23 45
@@ -1847,81 +1847,81 @@ Porcentaje de mapa descubierto: 0
 23 46
 Porcentaje de mapa descubierto: 0
 24 3
-Porcentaje de mapa descubierto: 73.4
+Porcentaje de mapa descubierto: 59.8
 24 4
-Porcentaje de mapa descubierto: 93.16
+Porcentaje de mapa descubierto: 59.84
 24 5
-Porcentaje de mapa descubierto: 93.16
+Porcentaje de mapa descubierto: 59.88
 24 6
-Porcentaje de mapa descubierto: 71.44
+Porcentaje de mapa descubierto: 59.92
 24 7
-Porcentaje de mapa descubierto: 69.28
+Porcentaje de mapa descubierto: 58.88
 24 8
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.08
 24 9
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.2
 24 10
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.32
 24 11
-Porcentaje de mapa descubierto: 6.44
+Porcentaje de mapa descubierto: 22.96
 24 12
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 23.52
 24 13
 Porcentaje de mapa descubierto: 100
 24 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 24 15
 Porcentaje de mapa descubierto: 100
 24 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 24 17
 Porcentaje de mapa descubierto: 100
 24 18
-Porcentaje de mapa descubierto: 59.76
+Porcentaje de mapa descubierto: 100
 24 19
-Porcentaje de mapa descubierto: 96.12
+Porcentaje de mapa descubierto: 70.92
 24 20
-Porcentaje de mapa descubierto: 72.84
+Porcentaje de mapa descubierto: 73.84
 24 21
 Porcentaje de mapa descubierto: 69.8
 24 22
 Porcentaje de mapa descubierto: 69.8
 24 23
-Porcentaje de mapa descubierto: 69.96
-24 24
-Porcentaje de mapa descubierto: 11.8
-24 25
-Porcentaje de mapa descubierto: 20.72
-24 26
-Porcentaje de mapa descubierto: 99.8
-24 27
-Porcentaje de mapa descubierto: 100
-24 28
-Porcentaje de mapa descubierto: 55.96
-24 29
-Porcentaje de mapa descubierto: 55.68
-24 30
-Porcentaje de mapa descubierto: 55.4
-24 31
-Porcentaje de mapa descubierto: 55.12
-24 32
-Porcentaje de mapa descubierto: 55.4
-24 33
-Porcentaje de mapa descubierto: 55.68
-24 34
-Porcentaje de mapa descubierto: 55.96
-24 35
 Porcentaje de mapa descubierto: 97.2
+24 24
+Porcentaje de mapa descubierto: 11.52
+24 25
+Porcentaje de mapa descubierto: 23.72
+24 26
+Porcentaje de mapa descubierto: 100
+24 27
+Porcentaje de mapa descubierto: 99.56
+24 28
+Porcentaje de mapa descubierto: 63.84
+24 29
+Porcentaje de mapa descubierto: 56.08
+24 30
+Porcentaje de mapa descubierto: 55.8
+24 31
+Porcentaje de mapa descubierto: 63.36
+24 32
+Porcentaje de mapa descubierto: 55.8
+24 33
+Porcentaje de mapa descubierto: 56.08
+24 34
+Porcentaje de mapa descubierto: 63.84
+24 35
+Porcentaje de mapa descubierto: 97.24
 24 36
 Porcentaje de mapa descubierto: 100
 24 37
-Porcentaje de mapa descubierto: 96.68
+Porcentaje de mapa descubierto: 96.72
 24 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 24 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 24 40
-Porcentaje de mapa descubierto: 78.2
+Porcentaje de mapa descubierto: 99.6
 24 41
 Porcentaje de mapa descubierto: 0
 24 42
@@ -1935,85 +1935,85 @@ Porcentaje de mapa descubierto: 0
 24 46
 Porcentaje de mapa descubierto: 0
 25 3
-Porcentaje de mapa descubierto: 72.56
+Porcentaje de mapa descubierto: 59.8
 25 4
-Porcentaje de mapa descubierto: 93.16
+Porcentaje de mapa descubierto: 59.8
 25 5
-Porcentaje de mapa descubierto: 93.16
+Porcentaje de mapa descubierto: 59.8
 25 6
-Porcentaje de mapa descubierto: 69.28
+Porcentaje de mapa descubierto: 59.8
 25 7
-Porcentaje de mapa descubierto: 91.24
+Porcentaje de mapa descubierto: 59.88
 25 8
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 59.96
 25 9
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.04
 25 10
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.12
 25 11
-Porcentaje de mapa descubierto: 6.44
+Porcentaje de mapa descubierto: 22.96
 25 12
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 23.52
 25 13
 Porcentaje de mapa descubierto: 100
 25 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 25 15
 Porcentaje de mapa descubierto: 100
 25 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 25 17
 Porcentaje de mapa descubierto: 100
 25 18
-Porcentaje de mapa descubierto: 97.52
+Porcentaje de mapa descubierto: 100
 25 19
-Porcentaje de mapa descubierto: 72.84
+Porcentaje de mapa descubierto: 84.72
 25 20
-Porcentaje de mapa descubierto: 72.88
+Porcentaje de mapa descubierto: 73.84
 25 21
 Porcentaje de mapa descubierto: 69.8
 25 22
 Porcentaje de mapa descubierto: 69.8
 25 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 77.92
 25 24
-Porcentaje de mapa descubierto: 98.52
+Porcentaje de mapa descubierto: 76.96
 25 25
-Porcentaje de mapa descubierto: 20.72
+Porcentaje de mapa descubierto: 23.72
 25 26
-Porcentaje de mapa descubierto: 99.8
+Porcentaje de mapa descubierto: 100
 25 27
-Porcentaje de mapa descubierto: 11.84
+Porcentaje de mapa descubierto: 11.56
 25 28
-Porcentaje de mapa descubierto: 55.72
+Porcentaje de mapa descubierto: 63.64
 25 29
-Porcentaje de mapa descubierto: 55.44
+Porcentaje de mapa descubierto: 55.84
 25 30
-Porcentaje de mapa descubierto: 55.16
+Porcentaje de mapa descubierto: 55.56
 25 31
-Porcentaje de mapa descubierto: 54.84
+Porcentaje de mapa descubierto: 63.16
 25 32
-Porcentaje de mapa descubierto: 55.12
+Porcentaje de mapa descubierto: 55.52
 25 33
-Porcentaje de mapa descubierto: 55.4
+Porcentaje de mapa descubierto: 55.8
 25 34
-Porcentaje de mapa descubierto: 55.68
+Porcentaje de mapa descubierto: 63.64
 25 35
-Porcentaje de mapa descubierto: 97.2
+Porcentaje de mapa descubierto: 97.24
 25 36
 Porcentaje de mapa descubierto: 100
 25 37
-Porcentaje de mapa descubierto: 96.68
+Porcentaje de mapa descubierto: 96.72
 25 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 25 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 25 40
-Porcentaje de mapa descubierto: 12.24
+Porcentaje de mapa descubierto: 100
 25 41
 Porcentaje de mapa descubierto: 0
 25 42
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 72.4
 25 43
 Porcentaje de mapa descubierto: 0
 25 44
@@ -2023,85 +2023,85 @@ Porcentaje de mapa descubierto: 0
 25 46
 Porcentaje de mapa descubierto: 0
 26 3
-Porcentaje de mapa descubierto: 70.88
+Porcentaje de mapa descubierto: 59.8
 26 4
-Porcentaje de mapa descubierto: 93.16
+Porcentaje de mapa descubierto: 59.8
 26 5
-Porcentaje de mapa descubierto: 69.28
+Porcentaje de mapa descubierto: 59.8
 26 6
-Porcentaje de mapa descubierto: 74.88
+Porcentaje de mapa descubierto: 59.92
 26 7
-Porcentaje de mapa descubierto: 91.24
+Porcentaje de mapa descubierto: 59.92
 26 8
-Porcentaje de mapa descubierto: 74.64
+Porcentaje de mapa descubierto: 60
 26 9
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.04
 26 10
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.12
 26 11
-Porcentaje de mapa descubierto: 6.44
+Porcentaje de mapa descubierto: 22.96
 26 12
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 23.52
 26 13
-Porcentaje de mapa descubierto: 89.44
-26 14
 Porcentaje de mapa descubierto: 100
+26 14
+Porcentaje de mapa descubierto: 95
 26 15
 Porcentaje de mapa descubierto: 100
 26 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.04
 26 17
 Porcentaje de mapa descubierto: 100
 26 18
-Porcentaje de mapa descubierto: 65.16
+Porcentaje de mapa descubierto: 94
 26 19
-Porcentaje de mapa descubierto: 65.08
+Porcentaje de mapa descubierto: 93.92
 26 20
-Porcentaje de mapa descubierto: 72.48
+Porcentaje de mapa descubierto: 62.8
 26 21
-Porcentaje de mapa descubierto: 10.6
+Porcentaje de mapa descubierto: 10.32
 26 22
-Porcentaje de mapa descubierto: 10.68
+Porcentaje de mapa descubierto: 10.4
 26 23
-Porcentaje de mapa descubierto: 10.76
+Porcentaje de mapa descubierto: 10.48
 26 24
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 76.6
 26 25
-Porcentaje de mapa descubierto: 20.72
+Porcentaje de mapa descubierto: 23.72
 26 26
-Porcentaje de mapa descubierto: 11
+Porcentaje de mapa descubierto: 10.72
 26 27
-Porcentaje de mapa descubierto: 11.08
+Porcentaje de mapa descubierto: 10.8
 26 28
-Porcentaje de mapa descubierto: 55.48
+Porcentaje de mapa descubierto: 63.4
 26 29
-Porcentaje de mapa descubierto: 55.2
+Porcentaje de mapa descubierto: 55.6
 26 30
-Porcentaje de mapa descubierto: 54.92
+Porcentaje de mapa descubierto: 55.32
 26 31
-Porcentaje de mapa descubierto: 54.56
+Porcentaje de mapa descubierto: 62.92
 26 32
-Porcentaje de mapa descubierto: 54.84
+Porcentaje de mapa descubierto: 55.24
 26 33
-Porcentaje de mapa descubierto: 55.12
+Porcentaje de mapa descubierto: 55.52
 26 34
-Porcentaje de mapa descubierto: 55.4
+Porcentaje de mapa descubierto: 63.4
 26 35
-Porcentaje de mapa descubierto: 97.2
+Porcentaje de mapa descubierto: 97.24
 26 36
 Porcentaje de mapa descubierto: 100
 26 37
-Porcentaje de mapa descubierto: 96.68
+Porcentaje de mapa descubierto: 96.72
 26 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 26 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 26 40
-Porcentaje de mapa descubierto: 11.96
+Porcentaje de mapa descubierto: 100
 26 41
 Porcentaje de mapa descubierto: 0
 26 42
-Porcentaje de mapa descubierto: 11.52
+Porcentaje de mapa descubierto: 99.8
 26 43
 Porcentaje de mapa descubierto: 0
 26 44
@@ -2111,367 +2111,367 @@ Porcentaje de mapa descubierto: 0
 26 46
 Porcentaje de mapa descubierto: 0
 27 3
-Porcentaje de mapa descubierto: 69.28
+Porcentaje de mapa descubierto: 98
 27 4
-Porcentaje de mapa descubierto: 47.52
+Porcentaje de mapa descubierto: 59.8
 27 5
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 59.92
 27 6
-Porcentaje de mapa descubierto: 75.04
+Porcentaje de mapa descubierto: 59.92
 27 7
-Porcentaje de mapa descubierto: 91.24
+Porcentaje de mapa descubierto: 59.92
 27 8
-Porcentaje de mapa descubierto: 74.8
+Porcentaje de mapa descubierto: 59.96
 27 9
-Porcentaje de mapa descubierto: 98.24
+Porcentaje de mapa descubierto: 60.04
 27 10
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 60.04
 27 11
-Porcentaje de mapa descubierto: 6.44
+Porcentaje de mapa descubierto: 22.96
 27 12
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 23.52
 27 13
-Porcentaje de mapa descubierto: 89.32
+Porcentaje de mapa descubierto: 100
 27 14
-Porcentaje de mapa descubierto: 91.2
+Porcentaje de mapa descubierto: 100
 27 15
 Porcentaje de mapa descubierto: 100
 27 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 93.92
 27 17
-Porcentaje de mapa descubierto: 75.52
+Porcentaje de mapa descubierto: 100
 27 18
-Porcentaje de mapa descubierto: 75.48
+Porcentaje de mapa descubierto: 100
 27 19
-Porcentaje de mapa descubierto: 72.48
+Porcentaje de mapa descubierto: 10.28
 27 20
-Porcentaje de mapa descubierto: 72.48
+Porcentaje de mapa descubierto: 70.72
 27 21
-Porcentaje de mapa descubierto: 69.8
+Porcentaje de mapa descubierto: 100
 27 22
-Porcentaje de mapa descubierto: 10.68
+Porcentaje de mapa descubierto: 10.4
 27 23
-Porcentaje de mapa descubierto: 10.76
+Porcentaje de mapa descubierto: 10.48
 27 24
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 76.6
 27 25
-Porcentaje de mapa descubierto: 10.84
+Porcentaje de mapa descubierto: 10.56
 27 26
-Porcentaje de mapa descubierto: 10.88
+Porcentaje de mapa descubierto: 10.6
 27 27
-Porcentaje de mapa descubierto: 10.92
+Porcentaje de mapa descubierto: 100
 27 28
-Porcentaje de mapa descubierto: 55.28
+Porcentaje de mapa descubierto: 63.12
 27 29
-Porcentaje de mapa descubierto: 55
+Porcentaje de mapa descubierto: 55.4
 27 30
-Porcentaje de mapa descubierto: 54.72
-27 31
-Porcentaje de mapa descubierto: 54.28
-27 32
-Porcentaje de mapa descubierto: 54.56
-27 33
-Porcentaje de mapa descubierto: 54.84
-27 34
 Porcentaje de mapa descubierto: 55.12
+27 31
+Porcentaje de mapa descubierto: 62.64
+27 32
+Porcentaje de mapa descubierto: 54.96
+27 33
+Porcentaje de mapa descubierto: 55.24
+27 34
+Porcentaje de mapa descubierto: 63.12
 27 35
-Porcentaje de mapa descubierto: 97.2
+Porcentaje de mapa descubierto: 97.24
 27 36
 Porcentaje de mapa descubierto: 100
 27 37
-Porcentaje de mapa descubierto: 96.68
+Porcentaje de mapa descubierto: 96.72
 27 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 27 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 27 40
-Porcentaje de mapa descubierto: 11.96
+Porcentaje de mapa descubierto: 100
 27 41
-Porcentaje de mapa descubierto: 12.36
+Porcentaje de mapa descubierto: 100
 27 42
-Porcentaje de mapa descubierto: 12.04
+Porcentaje de mapa descubierto: 100
 27 43
 Porcentaje de mapa descubierto: 0
 27 44
 Porcentaje de mapa descubierto: 0
 27 45
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 5.32
 27 46
 Porcentaje de mapa descubierto: 0
 28 3
-Porcentaje de mapa descubierto: 46.4
+Porcentaje de mapa descubierto: 59.52
 28 4
-Porcentaje de mapa descubierto: 16.12
+Porcentaje de mapa descubierto: 59.52
 28 5
-Porcentaje de mapa descubierto: 13.68
+Porcentaje de mapa descubierto: 59.52
 28 6
-Porcentaje de mapa descubierto: 74.4
+Porcentaje de mapa descubierto: 59.12
 28 7
-Porcentaje de mapa descubierto: 76.04
+Porcentaje de mapa descubierto: 59.64
 28 8
-Porcentaje de mapa descubierto: 74.16
+Porcentaje de mapa descubierto: 59.12
 28 9
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 59.16
 28 10
-Porcentaje de mapa descubierto: 60.92
+Porcentaje de mapa descubierto: 99.44
 28 11
-Porcentaje de mapa descubierto: 6.72
+Porcentaje de mapa descubierto: 0
 28 12
-Porcentaje de mapa descubierto: 7
+Porcentaje de mapa descubierto: 0
 28 13
-Porcentaje de mapa descubierto: 31.84
+Porcentaje de mapa descubierto: 0
 28 14
-Porcentaje de mapa descubierto: 45
+Porcentaje de mapa descubierto: 0
 28 15
-Porcentaje de mapa descubierto: 52.68
+Porcentaje de mapa descubierto: 51.08
 28 16
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 93.84
 28 17
-Porcentaje de mapa descubierto: 89.24
+Porcentaje de mapa descubierto: 93.84
 28 18
-Porcentaje de mapa descubierto: 95.16
+Porcentaje de mapa descubierto: 10.28
 28 19
-Porcentaje de mapa descubierto: 72.48
+Porcentaje de mapa descubierto: 70.72
 28 20
-Porcentaje de mapa descubierto: 72.48
+Porcentaje de mapa descubierto: 70.72
 28 21
-Porcentaje de mapa descubierto: 69.8
+Porcentaje de mapa descubierto: 98.84
 28 22
-Porcentaje de mapa descubierto: 69.8
+Porcentaje de mapa descubierto: 99
 28 23
-Porcentaje de mapa descubierto: 10.68
+Porcentaje de mapa descubierto: 10.4
 28 24
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 76.6
 28 25
-Porcentaje de mapa descubierto: 10.68
+Porcentaje de mapa descubierto: 10.4
 28 26
 Porcentaje de mapa descubierto: 100
 28 27
 Porcentaje de mapa descubierto: 100
 28 28
-Porcentaje de mapa descubierto: 55.08
+Porcentaje de mapa descubierto: 63.12
 28 29
-Porcentaje de mapa descubierto: 54.8
+Porcentaje de mapa descubierto: 55.2
 28 30
-Porcentaje de mapa descubierto: 54.52
+Porcentaje de mapa descubierto: 54.92
 28 31
-Porcentaje de mapa descubierto: 54
+Porcentaje de mapa descubierto: 62.64
 28 32
-Porcentaje de mapa descubierto: 54.28
+Porcentaje de mapa descubierto: 54.68
 28 33
-Porcentaje de mapa descubierto: 54.56
+Porcentaje de mapa descubierto: 54.96
 28 34
-Porcentaje de mapa descubierto: 54.84
+Porcentaje de mapa descubierto: 63.12
 28 35
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 5.88
 28 36
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 5.8
 28 37
-Porcentaje de mapa descubierto: 19.24
+Porcentaje de mapa descubierto: 99.96
 28 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 28 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 28 40
-Porcentaje de mapa descubierto: 60.2
+Porcentaje de mapa descubierto: 65.28
 28 41
-Porcentaje de mapa descubierto: 63.92
+Porcentaje de mapa descubierto: 0
 28 42
-Porcentaje de mapa descubierto: 63.2
+Porcentaje de mapa descubierto: 0
 28 43
-Porcentaje de mapa descubierto: 43.16
+Porcentaje de mapa descubierto: 0
 28 44
 Porcentaje de mapa descubierto: 0
 28 45
-Porcentaje de mapa descubierto: 49.32
-28 46
 Porcentaje de mapa descubierto: 0
+28 46
+Porcentaje de mapa descubierto: 62.16
 29 3
-Porcentaje de mapa descubierto: 13.8
+Porcentaje de mapa descubierto: 59.6
 29 4
-Porcentaje de mapa descubierto: 7.32
+Porcentaje de mapa descubierto: 59.56
 29 5
-Porcentaje de mapa descubierto: 13.8
+Porcentaje de mapa descubierto: 59.56
 29 6
-Porcentaje de mapa descubierto: 75.4
+Porcentaje de mapa descubierto: 59.56
 29 7
-Porcentaje de mapa descubierto: 16.48
+Porcentaje de mapa descubierto: 59
 29 8
-Porcentaje de mapa descubierto: 60.64
+Porcentaje de mapa descubierto: 0
 29 9
-Porcentaje de mapa descubierto: 60.88
+Porcentaje de mapa descubierto: 0
 29 10
-Porcentaje de mapa descubierto: 27.2
+Porcentaje de mapa descubierto: 0
 29 11
-Porcentaje de mapa descubierto: 7
+Porcentaje de mapa descubierto: 0
 29 12
-Porcentaje de mapa descubierto: 7.28
+Porcentaje de mapa descubierto: 0
 29 13
-Porcentaje de mapa descubierto: 11.32
+Porcentaje de mapa descubierto: 0
 29 14
-Porcentaje de mapa descubierto: 11.04
+Porcentaje de mapa descubierto: 15.04
 29 15
-Porcentaje de mapa descubierto: 99.6
-29 16
-Porcentaje de mapa descubierto: 99.6
-29 17
-Porcentaje de mapa descubierto: 73.76
-29 18
-Porcentaje de mapa descubierto: 95.24
-29 19
-Porcentaje de mapa descubierto: 72.48
-29 20
-Porcentaje de mapa descubierto: 72.48
-29 21
-Porcentaje de mapa descubierto: 69.8
-29 22
-Porcentaje de mapa descubierto: 69.8
-29 23
 Porcentaje de mapa descubierto: 100
+29 16
+Porcentaje de mapa descubierto: 93.84
+29 17
+Porcentaje de mapa descubierto: 100
+29 18
+Porcentaje de mapa descubierto: 70.32
+29 19
+Porcentaje de mapa descubierto: 70.72
+29 20
+Porcentaje de mapa descubierto: 70.72
+29 21
+Porcentaje de mapa descubierto: 98.84
+29 22
+Porcentaje de mapa descubierto: 99
+29 23
+Porcentaje de mapa descubierto: 99
 29 24
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 70.4
 29 25
 Porcentaje de mapa descubierto: 100
 29 26
-Porcentaje de mapa descubierto: 37.72
+Porcentaje de mapa descubierto: 35.36
 29 27
-Porcentaje de mapa descubierto: 37.92
+Porcentaje de mapa descubierto: 35.64
 29 28
-Porcentaje de mapa descubierto: 54.92
+Porcentaje de mapa descubierto: 63.12
 29 29
-Porcentaje de mapa descubierto: 54.64
+Porcentaje de mapa descubierto: 55.04
 29 30
-Porcentaje de mapa descubierto: 54.36
+Porcentaje de mapa descubierto: 54.76
 29 31
-Porcentaje de mapa descubierto: 53.72
+Porcentaje de mapa descubierto: 62.6
 29 32
-Porcentaje de mapa descubierto: 54
+Porcentaje de mapa descubierto: 54.4
 29 33
-Porcentaje de mapa descubierto: 54.28
+Porcentaje de mapa descubierto: 54.68
 29 34
-Porcentaje de mapa descubierto: 58.08
+Porcentaje de mapa descubierto: 58.64
 29 35
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 5.6
 29 36
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 5.52
 29 37
 Porcentaje de mapa descubierto: 100
 29 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 29 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 29 40
 Porcentaje de mapa descubierto: 0
 29 41
-Porcentaje de mapa descubierto: 64.12
+Porcentaje de mapa descubierto: 0
 29 42
-Porcentaje de mapa descubierto: 43.44
+Porcentaje de mapa descubierto: 0
 29 43
 Porcentaje de mapa descubierto: 0
 29 44
 Porcentaje de mapa descubierto: 0
 29 45
-Porcentaje de mapa descubierto: 48.84
+Porcentaje de mapa descubierto: 0
 29 46
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 62.16
 30 3
-Porcentaje de mapa descubierto: 14
+Porcentaje de mapa descubierto: 59.4
 30 4
-Porcentaje de mapa descubierto: 2.88
+Porcentaje de mapa descubierto: 59.4
 30 5
-Porcentaje de mapa descubierto: 14
+Porcentaje de mapa descubierto: 59.4
 30 6
-Porcentaje de mapa descubierto: 75.4
+Porcentaje de mapa descubierto: 59
 30 7
-Porcentaje de mapa descubierto: 49.16
+Porcentaje de mapa descubierto: 59
 30 8
-Porcentaje de mapa descubierto: 23.44
+Porcentaje de mapa descubierto: 0
 30 9
-Porcentaje de mapa descubierto: 10.64
+Porcentaje de mapa descubierto: 0
 30 10
-Porcentaje de mapa descubierto: 10.92
+Porcentaje de mapa descubierto: 0
 30 11
-Porcentaje de mapa descubierto: 7.28
+Porcentaje de mapa descubierto: 0
 30 12
-Porcentaje de mapa descubierto: 7.56
+Porcentaje de mapa descubierto: 0
 30 13
-Porcentaje de mapa descubierto: 11.6
+Porcentaje de mapa descubierto: 0
 30 14
-Porcentaje de mapa descubierto: 99.92
+Porcentaje de mapa descubierto: 31.56
 30 15
 Porcentaje de mapa descubierto: 100
 30 16
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 93.84
 30 17
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 100
 30 18
-Porcentaje de mapa descubierto: 73.76
+Porcentaje de mapa descubierto: 93.92
 30 19
-Porcentaje de mapa descubierto: 65.24
+Porcentaje de mapa descubierto: 94.08
 30 20
-Porcentaje de mapa descubierto: 98.76
+Porcentaje de mapa descubierto: 99.92
 30 21
-Porcentaje de mapa descubierto: 61.28
+Porcentaje de mapa descubierto: 76.28
 30 22
 Porcentaje de mapa descubierto: 69.8
 30 23
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 79.16
 30 24
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 70.4
 30 25
 Porcentaje de mapa descubierto: 100
 30 26
-Porcentaje de mapa descubierto: 97.32
+Porcentaje de mapa descubierto: 100
 30 27
-Porcentaje de mapa descubierto: 99
+Porcentaje de mapa descubierto: 98.96
 30 28
 Porcentaje de mapa descubierto: 98.52
 30 29
-Porcentaje de mapa descubierto: 54.36
+Porcentaje de mapa descubierto: 54.76
 30 30
-Porcentaje de mapa descubierto: 54.08
+Porcentaje de mapa descubierto: 54.48
 30 31
-Porcentaje de mapa descubierto: 53.44
+Porcentaje de mapa descubierto: 62.52
 30 32
-Porcentaje de mapa descubierto: 53.72
+Porcentaje de mapa descubierto: 54.12
 30 33
-Porcentaje de mapa descubierto: 57.52
+Porcentaje de mapa descubierto: 64.16
 30 34
-Porcentaje de mapa descubierto: 57.8
+Porcentaje de mapa descubierto: 64.36
 30 35
-Porcentaje de mapa descubierto: 58.92
+Porcentaje de mapa descubierto: 5.32
 30 36
-Porcentaje de mapa descubierto: 99.44
+Porcentaje de mapa descubierto: 5.24
 30 37
-Porcentaje de mapa descubierto: 61.16
+Porcentaje de mapa descubierto: 5.52
 30 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 30 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 30 40
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 100
 30 41
 Porcentaje de mapa descubierto: 0
 30 42
-Porcentaje de mapa descubierto: 11.4
+Porcentaje de mapa descubierto: 0
 30 43
 Porcentaje de mapa descubierto: 0
 30 44
-Porcentaje de mapa descubierto: 12.44
+Porcentaje de mapa descubierto: 0
 30 45
-Porcentaje de mapa descubierto: 48.88
+Porcentaje de mapa descubierto: 0
 30 46
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 62.16
 31 3
-Porcentaje de mapa descubierto: 4.36
+Porcentaje de mapa descubierto: 59
 31 4
-Porcentaje de mapa descubierto: 75.32
+Porcentaje de mapa descubierto: 59.12
 31 5
-Porcentaje de mapa descubierto: 4.36
+Porcentaje de mapa descubierto: 59.52
 31 6
 Porcentaje de mapa descubierto: 0
 31 7
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 36.76
 31 8
 Porcentaje de mapa descubierto: 0
 31 9
@@ -2483,61 +2483,61 @@ Porcentaje de mapa descubierto: 0
 31 12
 Porcentaje de mapa descubierto: 0
 31 13
-Porcentaje de mapa descubierto: 59.36
+Porcentaje de mapa descubierto: 10.92
 31 14
-Porcentaje de mapa descubierto: 99.4
+Porcentaje de mapa descubierto: 31.72
 31 15
 Porcentaje de mapa descubierto: 100
 31 16
-Porcentaje de mapa descubierto: 99.6
+Porcentaje de mapa descubierto: 93.84
 31 17
 Porcentaje de mapa descubierto: 100
 31 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 94.08
 31 19
-Porcentaje de mapa descubierto: 73.84
+Porcentaje de mapa descubierto: 100
 31 20
-Porcentaje de mapa descubierto: 98.76
+Porcentaje de mapa descubierto: 100
 31 21
 Porcentaje de mapa descubierto: 69.8
 31 22
 Porcentaje de mapa descubierto: 69.8
 31 23
-Porcentaje de mapa descubierto: 69.8
+Porcentaje de mapa descubierto: 76
 31 24
-Porcentaje de mapa descubierto: 70
+Porcentaje de mapa descubierto: 70.4
 31 25
 Porcentaje de mapa descubierto: 100
 31 26
-Porcentaje de mapa descubierto: 97.52
+Porcentaje de mapa descubierto: 100
 31 27
-Porcentaje de mapa descubierto: 97.56
+Porcentaje de mapa descubierto: 100
 31 28
 Porcentaje de mapa descubierto: 98.52
 31 29
 Porcentaje de mapa descubierto: 99
 31 30
-Porcentaje de mapa descubierto: 53.8
+Porcentaje de mapa descubierto: 54.2
 31 31
-Porcentaje de mapa descubierto: 53.16
+Porcentaje de mapa descubierto: 62.4
 31 32
-Porcentaje de mapa descubierto: 56.96
+Porcentaje de mapa descubierto: 63.92
 31 33
-Porcentaje de mapa descubierto: 57.24
+Porcentaje de mapa descubierto: 64.12
 31 34
-Porcentaje de mapa descubierto: 57.52
+Porcentaje de mapa descubierto: 64.32
 31 35
-Porcentaje de mapa descubierto: 58.64
+Porcentaje de mapa descubierto: 5.04
 31 36
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 4.96
 31 37
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 5.24
 31 38
-Porcentaje de mapa descubierto: 82.68
+Porcentaje de mapa descubierto: 62.16
 31 39
-Porcentaje de mapa descubierto: 19.44
+Porcentaje de mapa descubierto: 100
 31 40
-Porcentaje de mapa descubierto: 96.4
+Porcentaje de mapa descubierto: 100
 31 41
 Porcentaje de mapa descubierto: 0
 31 42
@@ -2545,21 +2545,21 @@ Porcentaje de mapa descubierto: 0
 31 43
 Porcentaje de mapa descubierto: 0
 31 44
-Porcentaje de mapa descubierto: 28.32
+Porcentaje de mapa descubierto: 0
 31 45
-Porcentaje de mapa descubierto: 48.52
+Porcentaje de mapa descubierto: 0
 31 46
-Porcentaje de mapa descubierto: 48.68
+Porcentaje de mapa descubierto: 0
 32 3
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59
 32 4
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.08
 32 5
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.44
 32 6
 Porcentaje de mapa descubierto: 0
 32 7
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 46.56
 32 8
 Porcentaje de mapa descubierto: 0
 32 9
@@ -2573,59 +2573,59 @@ Porcentaje de mapa descubierto: 0
 32 13
 Porcentaje de mapa descubierto: 0
 32 14
-Porcentaje de mapa descubierto: 30.24
+Porcentaje de mapa descubierto: 30.48
 32 15
-Porcentaje de mapa descubierto: 77.88
+Porcentaje de mapa descubierto: 86.92
 32 16
-Porcentaje de mapa descubierto: 53.36
+Porcentaje de mapa descubierto: 58.52
 32 17
-Porcentaje de mapa descubierto: 53.64
-32 18
-Porcentaje de mapa descubierto: 53.92
-32 19
-Porcentaje de mapa descubierto: 11.32
-32 20
-Porcentaje de mapa descubierto: 72.48
-32 21
-Porcentaje de mapa descubierto: 99
-32 22
-Porcentaje de mapa descubierto: 99
-32 23
-Porcentaje de mapa descubierto: 99
-32 24
-Porcentaje de mapa descubierto: 99.24
-32 25
-Porcentaje de mapa descubierto: 20.72
-32 26
-Porcentaje de mapa descubierto: 99.8
-32 27
 Porcentaje de mapa descubierto: 100
+32 18
+Porcentaje de mapa descubierto: 99.88
+32 19
+Porcentaje de mapa descubierto: 7.2
+32 20
+Porcentaje de mapa descubierto: 100
+32 21
+Porcentaje de mapa descubierto: 98.96
+32 22
+Porcentaje de mapa descubierto: 98.96
+32 23
+Porcentaje de mapa descubierto: 98.96
+32 24
+Porcentaje de mapa descubierto: 76.6
+32 25
+Porcentaje de mapa descubierto: 23.72
+32 26
+Porcentaje de mapa descubierto: 100
+32 27
+Porcentaje de mapa descubierto: 99.56
 32 28
 Porcentaje de mapa descubierto: 98.52
 32 29
 Porcentaje de mapa descubierto: 99
 32 30
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.28
 32 31
-Porcentaje de mapa descubierto: 91.12
+Porcentaje de mapa descubierto: 62.32
 32 32
-Porcentaje de mapa descubierto: 99
+Porcentaje de mapa descubierto: 98.96
 32 33
-Porcentaje de mapa descubierto: 99
+Porcentaje de mapa descubierto: 98.96
 32 34
-Porcentaje de mapa descubierto: 99
+Porcentaje de mapa descubierto: 98.96
 32 35
-Porcentaje de mapa descubierto: 58.36
+Porcentaje de mapa descubierto: 4.76
 32 36
-Porcentaje de mapa descubierto: 74.92
+Porcentaje de mapa descubierto: 4.68
 32 37
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 4.96
 32 38
-Porcentaje de mapa descubierto: 58.24
+Porcentaje de mapa descubierto: 100
 32 39
-Porcentaje de mapa descubierto: 57.8
+Porcentaje de mapa descubierto: 75.56
 32 40
-Porcentaje de mapa descubierto: 91.2
+Porcentaje de mapa descubierto: 62.68
 32 41
 Porcentaje de mapa descubierto: 0
 32 42
@@ -2633,175 +2633,175 @@ Porcentaje de mapa descubierto: 0
 32 43
 Porcentaje de mapa descubierto: 0
 32 44
-Porcentaje de mapa descubierto: 34.72
+Porcentaje de mapa descubierto: 0
 32 45
-Porcentaje de mapa descubierto: 48.84
+Porcentaje de mapa descubierto: 0
 32 46
-Porcentaje de mapa descubierto: 48.68
+Porcentaje de mapa descubierto: 0
 33 3
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.88
 33 4
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.92
 33 5
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.36
 33 6
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 39.36
 33 7
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60.24
 33 8
 Porcentaje de mapa descubierto: 0
 33 9
 Porcentaje de mapa descubierto: 0
 33 10
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 40.36
 33 11
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 40.64
 33 12
 Porcentaje de mapa descubierto: 0
 33 13
 Porcentaje de mapa descubierto: 0
 33 14
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 40.2
 33 15
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 98
 33 16
-Porcentaje de mapa descubierto: 53.08
-33 17
-Porcentaje de mapa descubierto: 53.36
-33 18
-Porcentaje de mapa descubierto: 53.64
-33 19
-Porcentaje de mapa descubierto: 72.48
-33 20
-Porcentaje de mapa descubierto: 72.48
-33 21
-Porcentaje de mapa descubierto: 69.8
-33 22
-Porcentaje de mapa descubierto: 72.76
-33 23
-Porcentaje de mapa descubierto: 72.8
-33 24
-Porcentaje de mapa descubierto: 99.24
-33 25
-Porcentaje de mapa descubierto: 20.72
-33 26
-Porcentaje de mapa descubierto: 99.8
-33 27
 Porcentaje de mapa descubierto: 100
+33 17
+Porcentaje de mapa descubierto: 100
+33 18
+Porcentaje de mapa descubierto: 99.88
+33 19
+Porcentaje de mapa descubierto: 100
+33 20
+Porcentaje de mapa descubierto: 100
+33 21
+Porcentaje de mapa descubierto: 76.28
+33 22
+Porcentaje de mapa descubierto: 93.08
+33 23
+Porcentaje de mapa descubierto: 93.12
+33 24
+Porcentaje de mapa descubierto: 76.6
+33 25
+Porcentaje de mapa descubierto: 23.72
+33 26
+Porcentaje de mapa descubierto: 100
+33 27
+Porcentaje de mapa descubierto: 99.56
 33 28
 Porcentaje de mapa descubierto: 98.52
 33 29
 Porcentaje de mapa descubierto: 99
 33 30
-Porcentaje de mapa descubierto: 91.12
-33 31
-Porcentaje de mapa descubierto: 91.12
-33 32
-Porcentaje de mapa descubierto: 91.12
-33 33
-Porcentaje de mapa descubierto: 72.8
-33 34
-Porcentaje de mapa descubierto: 72.8
-33 35
 Porcentaje de mapa descubierto: 98.6
+33 31
+Porcentaje de mapa descubierto: 62.4
+33 32
+Porcentaje de mapa descubierto: 53.56
+33 33
+Porcentaje de mapa descubierto: 93.16
+33 34
+Porcentaje de mapa descubierto: 93.16
+33 35
+Porcentaje de mapa descubierto: 4.52
 33 36
-Porcentaje de mapa descubierto: 99.72
+Porcentaje de mapa descubierto: 4.4
 33 37
-Porcentaje de mapa descubierto: 99.84
+Porcentaje de mapa descubierto: 4.68
 33 38
-Porcentaje de mapa descubierto: 58.24
+Porcentaje de mapa descubierto: 100
 33 39
-Porcentaje de mapa descubierto: 57.8
+Porcentaje de mapa descubierto: 75.56
 33 40
-Porcentaje de mapa descubierto: 96.4
+Porcentaje de mapa descubierto: 5.72
 33 41
-Porcentaje de mapa descubierto: 26.16
+Porcentaje de mapa descubierto: 0
 33 42
 Porcentaje de mapa descubierto: 0
 33 43
 Porcentaje de mapa descubierto: 0
 33 44
-Porcentaje de mapa descubierto: 36.92
+Porcentaje de mapa descubierto: 0
 33 45
-Porcentaje de mapa descubierto: 49.04
+Porcentaje de mapa descubierto: 0
 33 46
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 34 3
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.88
 34 4
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.88
 34 5
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.32
 34 6
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 48.6
 34 7
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60.24
 34 8
 Porcentaje de mapa descubierto: 0
 34 9
 Porcentaje de mapa descubierto: 0
 34 10
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 50.4
 34 11
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 50.68
 34 12
 Porcentaje de mapa descubierto: 0
 34 13
 Porcentaje de mapa descubierto: 0
 34 14
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 51.32
 34 15
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 99.44
 34 16
-Porcentaje de mapa descubierto: 52.8
+Porcentaje de mapa descubierto: 100
 34 17
-Porcentaje de mapa descubierto: 53.08
+Porcentaje de mapa descubierto: 100
 34 18
-Porcentaje de mapa descubierto: 97.68
+Porcentaje de mapa descubierto: 100
 34 19
-Porcentaje de mapa descubierto: 72.48
+Porcentaje de mapa descubierto: 99.92
 34 20
-Porcentaje de mapa descubierto: 72.48
+Porcentaje de mapa descubierto: 100
 34 21
-Porcentaje de mapa descubierto: 69.8
+Porcentaje de mapa descubierto: 76.28
 34 22
-Porcentaje de mapa descubierto: 69.8
+Porcentaje de mapa descubierto: 68.84
 34 23
 Porcentaje de mapa descubierto: 100
 34 24
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 76.6
 34 25
-Porcentaje de mapa descubierto: 20.72
+Porcentaje de mapa descubierto: 23.72
 34 26
-Porcentaje de mapa descubierto: 99.8
-34 27
 Porcentaje de mapa descubierto: 100
+34 27
+Porcentaje de mapa descubierto: 99.56
 34 28
 Porcentaje de mapa descubierto: 98.52
 34 29
-Porcentaje de mapa descubierto: 91.12
+Porcentaje de mapa descubierto: 98.6
 34 30
-Porcentaje de mapa descubierto: 91.12
+Porcentaje de mapa descubierto: 53.72
 34 31
-Porcentaje de mapa descubierto: 91.12
+Porcentaje de mapa descubierto: 62.48
 34 32
-Porcentaje de mapa descubierto: 91.12
+Porcentaje de mapa descubierto: 53.64
 34 33
-Porcentaje de mapa descubierto: 91.12
+Porcentaje de mapa descubierto: 53.84
 34 34
 Porcentaje de mapa descubierto: 98.6
 34 35
-Porcentaje de mapa descubierto: 98.6
+Porcentaje de mapa descubierto: 4.28
 34 36
-Porcentaje de mapa descubierto: 63.16
+Porcentaje de mapa descubierto: 4.12
 34 37
-Porcentaje de mapa descubierto: 62.32
+Porcentaje de mapa descubierto: 4.4
 34 38
-Porcentaje de mapa descubierto: 96.4
+Porcentaje de mapa descubierto: 99
 34 39
-Porcentaje de mapa descubierto: 57.8
+Porcentaje de mapa descubierto: 75.56
 34 40
-Porcentaje de mapa descubierto: 58.68
+Porcentaje de mapa descubierto: 5.68
 34 41
 Porcentaje de mapa descubierto: 0
 34 42
@@ -2809,263 +2809,263 @@ Porcentaje de mapa descubierto: 0
 34 43
 Porcentaje de mapa descubierto: 0
 34 44
-Porcentaje de mapa descubierto: 91.56
+Porcentaje de mapa descubierto: 97.84
 34 45
-Porcentaje de mapa descubierto: 60.6
+Porcentaje de mapa descubierto: 0
 34 46
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 62.16
 35 3
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.88
 35 4
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.84
 35 5
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.28
 35 6
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 49.6
 35 7
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60.12
 35 8
 Porcentaje de mapa descubierto: 0
 35 9
 Porcentaje de mapa descubierto: 0
 35 10
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 50.76
 35 11
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 51.04
 35 12
 Porcentaje de mapa descubierto: 0
 35 13
 Porcentaje de mapa descubierto: 0
 35 14
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 57.96
 35 15
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 99.84
 35 16
-Porcentaje de mapa descubierto: 52.52
-35 17
-Porcentaje de mapa descubierto: 98.24
-35 18
-Porcentaje de mapa descubierto: 97.72
-35 19
-Porcentaje de mapa descubierto: 72.48
-35 20
-Porcentaje de mapa descubierto: 72.48
-35 21
-Porcentaje de mapa descubierto: 69.8
-35 22
-Porcentaje de mapa descubierto: 70.52
-35 23
-Porcentaje de mapa descubierto: 99.2
-35 24
-Porcentaje de mapa descubierto: 99.24
-35 25
-Porcentaje de mapa descubierto: 20.72
-35 26
-Porcentaje de mapa descubierto: 99.8
-35 27
 Porcentaje de mapa descubierto: 100
+35 17
+Porcentaje de mapa descubierto: 100
+35 18
+Porcentaje de mapa descubierto: 69.08
+35 19
+Porcentaje de mapa descubierto: 76.36
+35 20
+Porcentaje de mapa descubierto: 99.92
+35 21
+Porcentaje de mapa descubierto: 76.28
+35 22
+Porcentaje de mapa descubierto: 68.84
+35 23
+Porcentaje de mapa descubierto: 100
+35 24
+Porcentaje de mapa descubierto: 76.6
+35 25
+Porcentaje de mapa descubierto: 23.72
+35 26
+Porcentaje de mapa descubierto: 100
+35 27
+Porcentaje de mapa descubierto: 99.56
 35 28
-Porcentaje de mapa descubierto: 98.52
-35 29
-Porcentaje de mapa descubierto: 91.12
-35 30
-Porcentaje de mapa descubierto: 91.12
-35 31
-Porcentaje de mapa descubierto: 91.12
-35 32
-Porcentaje de mapa descubierto: 91.12
-35 33
-Porcentaje de mapa descubierto: 91.12
-35 34
-Porcentaje de mapa descubierto: 91.12
-35 35
 Porcentaje de mapa descubierto: 98.6
+35 29
+Porcentaje de mapa descubierto: 53.88
+35 30
+Porcentaje de mapa descubierto: 53.72
+35 31
+Porcentaje de mapa descubierto: 62.56
+35 32
+Porcentaje de mapa descubierto: 53.68
+35 33
+Porcentaje de mapa descubierto: 53.88
+35 34
+Porcentaje de mapa descubierto: 63
+35 35
+Porcentaje de mapa descubierto: 4.08
 35 36
-Porcentaje de mapa descubierto: 62.92
+Porcentaje de mapa descubierto: 3.88
 35 37
-Porcentaje de mapa descubierto: 62.24
+Porcentaje de mapa descubierto: 4.12
 35 38
 Porcentaje de mapa descubierto: 0
 35 39
-Porcentaje de mapa descubierto: 58.08
+Porcentaje de mapa descubierto: 4.68
 35 40
-Porcentaje de mapa descubierto: 29.04
+Porcentaje de mapa descubierto: 5.48
 35 41
 Porcentaje de mapa descubierto: 0
 35 42
-Porcentaje de mapa descubierto: 51
+Porcentaje de mapa descubierto: 0
 35 43
-Porcentaje de mapa descubierto: 50.96
+Porcentaje de mapa descubierto: 0
 35 44
-Porcentaje de mapa descubierto: 50.56
+Porcentaje de mapa descubierto: 0
 35 45
-Porcentaje de mapa descubierto: 60.6
+Porcentaje de mapa descubierto: 0
 35 46
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 99.72
 36 3
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.52
 36 4
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.48
 36 5
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60.08
 36 6
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 50.16
 36 7
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60
 36 8
 Porcentaje de mapa descubierto: 0
 36 9
 Porcentaje de mapa descubierto: 0
 36 10
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.68
 36 11
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 50.84
 36 12
 Porcentaje de mapa descubierto: 0
 36 13
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 15.2
 36 14
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 71.4
 36 15
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 99.84
 36 16
-Porcentaje de mapa descubierto: 52.24
-36 17
-Porcentaje de mapa descubierto: 52.52
-36 18
-Porcentaje de mapa descubierto: 52.8
-36 19
-Porcentaje de mapa descubierto: 10.64
-36 20
-Porcentaje de mapa descubierto: 98.76
-36 21
-Porcentaje de mapa descubierto: 99.24
-36 22
-Porcentaje de mapa descubierto: 99.24
-36 23
-Porcentaje de mapa descubierto: 99.24
-36 24
-Porcentaje de mapa descubierto: 99.24
-36 25
-Porcentaje de mapa descubierto: 20.72
-36 26
-Porcentaje de mapa descubierto: 99.8
-36 27
 Porcentaje de mapa descubierto: 100
+36 17
+Porcentaje de mapa descubierto: 100
+36 18
+Porcentaje de mapa descubierto: 99.88
+36 19
+Porcentaje de mapa descubierto: 6.72
+36 20
+Porcentaje de mapa descubierto: 100
+36 21
+Porcentaje de mapa descubierto: 76.28
+36 22
+Porcentaje de mapa descubierto: 76.6
+36 23
+Porcentaje de mapa descubierto: 83.48
+36 24
+Porcentaje de mapa descubierto: 76.6
+36 25
+Porcentaje de mapa descubierto: 23.72
+36 26
+Porcentaje de mapa descubierto: 100
+36 27
+Porcentaje de mapa descubierto: 99.56
 36 28
 Porcentaje de mapa descubierto: 98.52
 36 29
 Porcentaje de mapa descubierto: 99
 36 30
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.28
 36 31
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.16
 36 32
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.28
 36 33
-Porcentaje de mapa descubierto: 4.72
+Porcentaje de mapa descubierto: 3.8
 36 34
-Porcentaje de mapa descubierto: 4.32
+Porcentaje de mapa descubierto: 3.92
 36 35
-Porcentaje de mapa descubierto: 98.6
+Porcentaje de mapa descubierto: 3.88
 36 36
-Porcentaje de mapa descubierto: 3.64
+Porcentaje de mapa descubierto: 3.68
 36 37
-Porcentaje de mapa descubierto: 3.76
+Porcentaje de mapa descubierto: 3.88
 36 38
-Porcentaje de mapa descubierto: 63.6
+Porcentaje de mapa descubierto: 5.64
 36 39
-Porcentaje de mapa descubierto: 4.36
+Porcentaje de mapa descubierto: 4.4
 36 40
-Porcentaje de mapa descubierto: 62.96
+Porcentaje de mapa descubierto: 5.24
 36 41
 Porcentaje de mapa descubierto: 0
 36 42
-Porcentaje de mapa descubierto: 51.88
+Porcentaje de mapa descubierto: 0
 36 43
-Porcentaje de mapa descubierto: 51.88
+Porcentaje de mapa descubierto: 0
 36 44
-Porcentaje de mapa descubierto: 86.48
+Porcentaje de mapa descubierto: 86.96
 36 45
-Porcentaje de mapa descubierto: 50.36
+Porcentaje de mapa descubierto: 0
 36 46
-Porcentaje de mapa descubierto: 50.92
+Porcentaje de mapa descubierto: 0
 37 3
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.68
 37 4
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.6
 37 5
-Porcentaje de mapa descubierto: 35.16
+Porcentaje de mapa descubierto: 60
 37 6
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 50.04
 37 7
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.84
 37 8
 Porcentaje de mapa descubierto: 0
 37 9
 Porcentaje de mapa descubierto: 0
 37 10
-Porcentaje de mapa descubierto: 50.32
+Porcentaje de mapa descubierto: 64
 37 11
-Porcentaje de mapa descubierto: 62.52
+Porcentaje de mapa descubierto: 63.48
 37 12
 Porcentaje de mapa descubierto: 0
 37 13
-Porcentaje de mapa descubierto: 8.72
+Porcentaje de mapa descubierto: 21.24
 37 14
-Porcentaje de mapa descubierto: 9.16
+Porcentaje de mapa descubierto: 74.4
 37 15
-Porcentaje de mapa descubierto: 51.44
+Porcentaje de mapa descubierto: 99.84
 37 16
-Porcentaje de mapa descubierto: 51.96
-37 17
-Porcentaje de mapa descubierto: 52.24
-37 18
-Porcentaje de mapa descubierto: 52.52
-37 19
-Porcentaje de mapa descubierto: 62.68
-37 20
-Porcentaje de mapa descubierto: 98.76
-37 21
-Porcentaje de mapa descubierto: 99.24
-37 22
-Porcentaje de mapa descubierto: 99.24
-37 23
-Porcentaje de mapa descubierto: 99.24
-37 24
-Porcentaje de mapa descubierto: 99.24
-37 25
-Porcentaje de mapa descubierto: 20.72
-37 26
-Porcentaje de mapa descubierto: 99.8
-37 27
 Porcentaje de mapa descubierto: 100
+37 17
+Porcentaje de mapa descubierto: 100
+37 18
+Porcentaje de mapa descubierto: 99.88
+37 19
+Porcentaje de mapa descubierto: 100
+37 20
+Porcentaje de mapa descubierto: 100
+37 21
+Porcentaje de mapa descubierto: 76.28
+37 22
+Porcentaje de mapa descubierto: 76.6
+37 23
+Porcentaje de mapa descubierto: 83.48
+37 24
+Porcentaje de mapa descubierto: 76.6
+37 25
+Porcentaje de mapa descubierto: 23.72
+37 26
+Porcentaje de mapa descubierto: 100
+37 27
+Porcentaje de mapa descubierto: 99.56
 37 28
 Porcentaje de mapa descubierto: 98.52
 37 29
 Porcentaje de mapa descubierto: 99
 37 30
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.28
 37 31
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.16
 37 32
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.28
 37 33
-Porcentaje de mapa descubierto: 4.44
+Porcentaje de mapa descubierto: 3.64
 37 34
-Porcentaje de mapa descubierto: 4.04
+Porcentaje de mapa descubierto: 3.76
 37 35
-Porcentaje de mapa descubierto: 3.68
-37 36
-Porcentaje de mapa descubierto: 3.36
-37 37
-Porcentaje de mapa descubierto: 3.48
-37 38
 Porcentaje de mapa descubierto: 3.72
+37 36
+Porcentaje de mapa descubierto: 3.52
+37 37
+Porcentaje de mapa descubierto: 3.68
+37 38
+Porcentaje de mapa descubierto: 3.88
 37 39
-Porcentaje de mapa descubierto: 62.6
+Porcentaje de mapa descubierto: 4.12
 37 40
-Porcentaje de mapa descubierto: 62.72
+Porcentaje de mapa descubierto: 4.96
 37 41
 Porcentaje de mapa descubierto: 0
 37 42
@@ -3073,21 +3073,21 @@ Porcentaje de mapa descubierto: 0
 37 43
 Porcentaje de mapa descubierto: 0
 37 44
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 6.92
 37 45
-Porcentaje de mapa descubierto: 50.4
+Porcentaje de mapa descubierto: 0
 37 46
-Porcentaje de mapa descubierto: 51.4
+Porcentaje de mapa descubierto: 0
 38 3
-Porcentaje de mapa descubierto: 39.28
+Porcentaje de mapa descubierto: 58.48
 38 4
-Porcentaje de mapa descubierto: 38.2
+Porcentaje de mapa descubierto: 59.56
 38 5
-Porcentaje de mapa descubierto: 39.84
+Porcentaje de mapa descubierto: 59.92
 38 6
-Porcentaje de mapa descubierto: 26.48
+Porcentaje de mapa descubierto: 50.76
 38 7
-Porcentaje de mapa descubierto: 33.36
+Porcentaje de mapa descubierto: 59.68
 38 8
 Porcentaje de mapa descubierto: 0
 38 9
@@ -3095,91 +3095,91 @@ Porcentaje de mapa descubierto: 0
 38 10
 Porcentaje de mapa descubierto: 50.04
 38 11
-Porcentaje de mapa descubierto: 95.8
+Porcentaje de mapa descubierto: 95.92
 38 12
 Porcentaje de mapa descubierto: 0
 38 13
-Porcentaje de mapa descubierto: 28.68
+Porcentaje de mapa descubierto: 61.12
 38 14
-Porcentaje de mapa descubierto: 8.8
+Porcentaje de mapa descubierto: 74.36
 38 15
-Porcentaje de mapa descubierto: 51.12
+Porcentaje de mapa descubierto: 99.84
 38 16
-Porcentaje de mapa descubierto: 51.68
+Porcentaje de mapa descubierto: 100
 38 17
-Porcentaje de mapa descubierto: 51.96
+Porcentaje de mapa descubierto: 100
 38 18
-Porcentaje de mapa descubierto: 62.24
+Porcentaje de mapa descubierto: 99.88
 38 19
-Porcentaje de mapa descubierto: 62.16
+Porcentaje de mapa descubierto: 99.88
 38 20
 Porcentaje de mapa descubierto: 100
 38 21
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 76.28
 38 22
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 76.6
 38 23
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 79.8
 38 24
-Porcentaje de mapa descubierto: 60.6
+Porcentaje de mapa descubierto: 84.52
 38 25
-Porcentaje de mapa descubierto: 20.72
+Porcentaje de mapa descubierto: 23.72
 38 26
-Porcentaje de mapa descubierto: 99.8
-38 27
 Porcentaje de mapa descubierto: 100
+38 27
+Porcentaje de mapa descubierto: 99.56
 38 28
-Porcentaje de mapa descubierto: 59.68
+Porcentaje de mapa descubierto: 60.28
 38 29
 Porcentaje de mapa descubierto: 99
 38 30
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.28
 38 31
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.16
 38 32
-Porcentaje de mapa descubierto: 98.56
+Porcentaje de mapa descubierto: 78.28
 38 33
-Porcentaje de mapa descubierto: 4.36
+Porcentaje de mapa descubierto: 3.32
 38 34
-Porcentaje de mapa descubierto: 4.04
+Porcentaje de mapa descubierto: 3.08
 38 35
-Porcentaje de mapa descubierto: 3.68
+Porcentaje de mapa descubierto: 3.4
 38 36
-Porcentaje de mapa descubierto: 3.36
+Porcentaje de mapa descubierto: 3.32
 38 37
-Porcentaje de mapa descubierto: 3.48
+Porcentaje de mapa descubierto: 3.44
 38 38
-Porcentaje de mapa descubierto: 62.28
+Porcentaje de mapa descubierto: 3.84
 38 39
-Porcentaje de mapa descubierto: 62.36
+Porcentaje de mapa descubierto: 3.72
 38 40
-Porcentaje de mapa descubierto: 62.72
+Porcentaje de mapa descubierto: 4.96
 38 41
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 5.64
 38 42
-Porcentaje de mapa descubierto: 63
+Porcentaje de mapa descubierto: 6
 38 43
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 6.36
 38 44
-Porcentaje de mapa descubierto: 62.72
+Porcentaje de mapa descubierto: 6.72
 38 45
-Porcentaje de mapa descubierto: 50.44
+Porcentaje de mapa descubierto: 0
 38 46
 Porcentaje de mapa descubierto: 0
 39 3
-Porcentaje de mapa descubierto: 44.04
+Porcentaje de mapa descubierto: 67.76
 39 4
-Porcentaje de mapa descubierto: 42.64
+Porcentaje de mapa descubierto: 59.48
 39 5
-Porcentaje de mapa descubierto: 39.76
+Porcentaje de mapa descubierto: 59.84
 39 6
-Porcentaje de mapa descubierto: 35.32
+Porcentaje de mapa descubierto: 51.4
 39 7
-Porcentaje de mapa descubierto: 96.24
+Porcentaje de mapa descubierto: 97.32
 39 8
-Porcentaje de mapa descubierto: 57.64
-39 9
 Porcentaje de mapa descubierto: 0
+39 9
+Porcentaje de mapa descubierto: 60.6
 39 10
 Porcentaje de mapa descubierto: 0
 39 11
@@ -3187,164 +3187,165 @@ Porcentaje de mapa descubierto: 0
 39 12
 Porcentaje de mapa descubierto: 0
 39 13
-Porcentaje de mapa descubierto: 51.4
+Porcentaje de mapa descubierto: 60.88
 39 14
-Porcentaje de mapa descubierto: 61.8
+Porcentaje de mapa descubierto: 60.72
 39 15
-Porcentaje de mapa descubierto: 50.8
+Porcentaje de mapa descubierto: 99.84
 39 16
-Porcentaje de mapa descubierto: 51.4
-39 17
-Porcentaje de mapa descubierto: 62
-39 18
-Porcentaje de mapa descubierto: 61.96
-39 19
-Porcentaje de mapa descubierto: 61.92
-39 20
-Porcentaje de mapa descubierto: 98.76
-39 21
-Porcentaje de mapa descubierto: 99.24
-39 22
-Porcentaje de mapa descubierto: 99.24
-39 23
-Porcentaje de mapa descubierto: 60.56
-39 24
-Porcentaje de mapa descubierto: 60.52
-39 25
-39 26
-Porcentaje de mapa descubierto: 96.4
-39 27
 Porcentaje de mapa descubierto: 100
+39 17
+Porcentaje de mapa descubierto: 100
+39 18
+Porcentaje de mapa descubierto: 100
+39 19
+Porcentaje de mapa descubierto: 100
+39 20
+Porcentaje de mapa descubierto: 100
+39 21
+Porcentaje de mapa descubierto: 76.28
+39 22
+Porcentaje de mapa descubierto: 76.6
+39 23
+Porcentaje de mapa descubierto: 67.96
+39 24
+Porcentaje de mapa descubierto: 67.88
+39 25
+Porcentaje de mapa descubierto: 23.72
+39 26
+Porcentaje de mapa descubierto: 0
+39 27
+Porcentaje de mapa descubierto: 99.56
 39 28
-Porcentaje de mapa descubierto: 59.96
+Porcentaje de mapa descubierto: 0
 39 29
-Porcentaje de mapa descubierto: 59.68
+Porcentaje de mapa descubierto: 66.68
 39 30
-Porcentaje de mapa descubierto: 59.4
+Porcentaje de mapa descubierto: 70.96
 39 31
-Porcentaje de mapa descubierto: 59.12
+Porcentaje de mapa descubierto: 84.96
 39 32
-Porcentaje de mapa descubierto: 59.4
+Porcentaje de mapa descubierto: 71.64
 39 33
-Porcentaje de mapa descubierto: 4.08
+Porcentaje de mapa descubierto: 3.08
 39 34
-Porcentaje de mapa descubierto: 3.76
+Porcentaje de mapa descubierto: 2.8
 39 35
-Porcentaje de mapa descubierto: 3.68
+Porcentaje de mapa descubierto: 2.52
 39 36
-Porcentaje de mapa descubierto: 3.36
+Porcentaje de mapa descubierto: 3.08
 39 37
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 3.68
 39 38
-Porcentaje de mapa descubierto: 62.04
+Porcentaje de mapa descubierto: 3.24
 39 39
-Porcentaje de mapa descubierto: 62.08
+Porcentaje de mapa descubierto: 3.44
 39 40
-Porcentaje de mapa descubierto: 62.72
+Porcentaje de mapa descubierto: 4.8
 39 41
-Porcentaje de mapa descubierto: 62.4
+Porcentaje de mapa descubierto: 5.48
 39 42
-Porcentaje de mapa descubierto: 9.12
+Porcentaje de mapa descubierto: 5.84
 39 43
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 6.2
 39 44
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 6.56
 39 45
-Porcentaje de mapa descubierto: 50.48
+Porcentaje de mapa descubierto: 0
 39 46
 Porcentaje de mapa descubierto: 0
 40 3
-Porcentaje de mapa descubierto: 39.28
+Porcentaje de mapa descubierto: 58.44
 40 4
-Porcentaje de mapa descubierto: 42.6
+Porcentaje de mapa descubierto: 59.44
 40 5
-Porcentaje de mapa descubierto: 33.56
+Porcentaje de mapa descubierto: 58.92
 40 6
 Porcentaje de mapa descubierto: 96.28
 40 7
 Porcentaje de mapa descubierto: 99.52
 40 8
-Porcentaje de mapa descubierto: 37.64
+Porcentaje de mapa descubierto: 60.6
 40 9
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60.4
 40 10
-Porcentaje de mapa descubierto: 16.92
+Porcentaje de mapa descubierto: 34.8
 40 11
-Porcentaje de mapa descubierto: 17.28
+Porcentaje de mapa descubierto: 48.56
 40 12
-Porcentaje de mapa descubierto: 63.16
+Porcentaje de mapa descubierto: 99.6
 40 13
-Porcentaje de mapa descubierto: 51.2
+Porcentaje de mapa descubierto: 60.64
 40 14
-Porcentaje de mapa descubierto: 50.92
+Porcentaje de mapa descubierto: 60.48
 40 15
-Porcentaje de mapa descubierto: 51.04
+Porcentaje de mapa descubierto: 60.56
 40 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 62.76
 40 17
-Porcentaje de mapa descubierto: 61.72
-40 18
-Porcentaje de mapa descubierto: 61.72
-40 19
-Porcentaje de mapa descubierto: 61.72
-40 20
-Porcentaje de mapa descubierto: 98.76
-40 21
-Porcentaje de mapa descubierto: 99.24
-40 22
-Porcentaje de mapa descubierto: 60.52
-40 23
-Porcentaje de mapa descubierto: 60.48
-40 24
-Porcentaje de mapa descubierto: 60.48
-40 25
-Porcentaje de mapa descubierto: 15.64
-40 26
-Porcentaje de mapa descubierto: 77.12
-40 27
 Porcentaje de mapa descubierto: 100
+40 18
+Porcentaje de mapa descubierto: 100
+40 19
+Porcentaje de mapa descubierto: 100
+40 20
+Porcentaje de mapa descubierto: 100
+40 21
+Porcentaje de mapa descubierto: 76.28
+40 22
+Porcentaje de mapa descubierto: 70.52
+40 23
+Porcentaje de mapa descubierto: 75.52
+40 24
+Porcentaje de mapa descubierto: 75.48
+40 25
+Porcentaje de mapa descubierto: 0
+40 26
+Porcentaje de mapa descubierto: 0
+40 27
+Porcentaje de mapa descubierto: 0
 40 28
-Porcentaje de mapa descubierto: 85.12
+Porcentaje de mapa descubierto: 0
 40 29
-Porcentaje de mapa descubierto: 59.68
+Porcentaje de mapa descubierto: 0
 40 30
-Porcentaje de mapa descubierto: 59.4
+Porcentaje de mapa descubierto: 70.96
 40 31
-Porcentaje de mapa descubierto: 59.12
+Porcentaje de mapa descubierto: 84.96
 40 32
-Porcentaje de mapa descubierto: 59.4
+Porcentaje de mapa descubierto: 0
 40 33
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 2.8
 40 34
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 2.52
 40 35
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 2.24
 40 36
-Porcentaje de mapa descubierto: 3.36
+Porcentaje de mapa descubierto: 3.64
 40 37
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 2.84
 40 38
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 2.92
 40 39
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 3.04
 40 40
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 4.56
 40 41
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 5.28
 40 42
-Porcentaje de mapa descubierto: 63
+Porcentaje de mapa descubierto: 5.64
 40 43
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 6
 40 44
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 6.36
 40 45
 Porcentaje de mapa descubierto: 0
 40 46
 Porcentaje de mapa descubierto: 0
 41 3
-Porcentaje de mapa descubierto: 39.28
+Porcentaje de mapa descubierto: 58.4
 41 4
-Porcentaje de mapa descubierto: 38.64
+Porcentaje de mapa descubierto: 59.72
 41 5
 Porcentaje de mapa descubierto: 100
 41 6
@@ -3352,87 +3353,87 @@ Porcentaje de mapa descubierto: 99.52
 41 7
 Porcentaje de mapa descubierto: 99.52
 41 8
-Porcentaje de mapa descubierto: 38.56
+Porcentaje de mapa descubierto: 60.4
 41 9
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60.12
 41 10
 Porcentaje de mapa descubierto: 45.2
 41 11
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60.12
 41 12
-Porcentaje de mapa descubierto: 62.8
+Porcentaje de mapa descubierto: 51.08
 41 13
-Porcentaje de mapa descubierto: 51
-41 14
-Porcentaje de mapa descubierto: 50.68
-41 15
-Porcentaje de mapa descubierto: 100
-41 16
-Porcentaje de mapa descubierto: 100
-41 17
-Porcentaje de mapa descubierto: 100
-41 18
-Porcentaje de mapa descubierto: 61.48
-41 19
-Porcentaje de mapa descubierto: 62
-41 20
-Porcentaje de mapa descubierto: 64.36
-41 21
-Porcentaje de mapa descubierto: 70.52
-41 22
-Porcentaje de mapa descubierto: 70.84
-41 23
-Porcentaje de mapa descubierto: 60.44
-41 24
-Porcentaje de mapa descubierto: 60.48
-41 25
-Porcentaje de mapa descubierto: 84.92
-41 26
-Porcentaje de mapa descubierto: 19.68
-41 27
 Porcentaje de mapa descubierto: 60.4
+41 14
+Porcentaje de mapa descubierto: 60.2
+41 15
+Porcentaje de mapa descubierto: 61.36
+41 16
+Porcentaje de mapa descubierto: 62.76
+41 17
+Porcentaje de mapa descubierto: 61.52
+41 18
+Porcentaje de mapa descubierto: 99.84
+41 19
+Porcentaje de mapa descubierto: 99.84
+41 20
+Porcentaje de mapa descubierto: 0
+41 21
+Porcentaje de mapa descubierto: 66.76
+41 22
+Porcentaje de mapa descubierto: 69.8
+41 23
+Porcentaje de mapa descubierto: 69.8
+41 24
+Porcentaje de mapa descubierto: 75.24
+41 25
+Porcentaje de mapa descubierto: 0
+41 26
+Porcentaje de mapa descubierto: 0
+41 27
+Porcentaje de mapa descubierto: 0
 41 28
-Porcentaje de mapa descubierto: 80.72
+Porcentaje de mapa descubierto: 0
 41 29
-Porcentaje de mapa descubierto: 91.04
+Porcentaje de mapa descubierto: 0
 41 30
-Porcentaje de mapa descubierto: 59.4
+Porcentaje de mapa descubierto: 0
 41 31
-Porcentaje de mapa descubierto: 59.12
+Porcentaje de mapa descubierto: 0
 41 32
-Porcentaje de mapa descubierto: 59.84
+Porcentaje de mapa descubierto: 0
 41 33
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 0
 41 34
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 0
 41 35
-Porcentaje de mapa descubierto: 3.44
+Porcentaje de mapa descubierto: 2.8
 41 36
-Porcentaje de mapa descubierto: 3.36
+Porcentaje de mapa descubierto: 3.64
 41 37
-Porcentaje de mapa descubierto: 3.44
+Porcentaje de mapa descubierto: 3.64
 41 38
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 3.04
 41 39
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 3.2
 41 40
-Porcentaje de mapa descubierto: 61.96
+Porcentaje de mapa descubierto: 4.48
 41 41
-Porcentaje de mapa descubierto: 61.92
+Porcentaje de mapa descubierto: 5.16
 41 42
-Porcentaje de mapa descubierto: 61.92
+Porcentaje de mapa descubierto: 5.48
 41 43
-Porcentaje de mapa descubierto: 61.92
+Porcentaje de mapa descubierto: 5.8
 41 44
-Porcentaje de mapa descubierto: 61.92
+Porcentaje de mapa descubierto: 6.12
 41 45
 Porcentaje de mapa descubierto: 0
 41 46
 Porcentaje de mapa descubierto: 0
 42 3
-Porcentaje de mapa descubierto: 44.04
+Porcentaje de mapa descubierto: 99.68
 42 4
-Porcentaje de mapa descubierto: 44.88
+Porcentaje de mapa descubierto: 59.44
 42 5
 Porcentaje de mapa descubierto: 100
 42 6
@@ -3442,430 +3443,430 @@ Porcentaje de mapa descubierto: 100
 42 8
 Porcentaje de mapa descubierto: 0
 42 9
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 60
 42 10
 Porcentaje de mapa descubierto: 0
 42 11
-Porcentaje de mapa descubierto: 36.44
+Porcentaje de mapa descubierto: 59.96
 42 12
-Porcentaje de mapa descubierto: 82.96
+Porcentaje de mapa descubierto: 92.88
 42 13
-Porcentaje de mapa descubierto: 82.64
+Porcentaje de mapa descubierto: 100
 42 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 93.56
 42 15
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 61.6
 42 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 62.76
 42 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 61.52
 42 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 90.2
 42 19
-Porcentaje de mapa descubierto: 61.24
+Porcentaje de mapa descubierto: 99.84
 42 20
-Porcentaje de mapa descubierto: 73.12
+Porcentaje de mapa descubierto: 88.16
 42 21
-Porcentaje de mapa descubierto: 70.84
+Porcentaje de mapa descubierto: 66.76
 42 22
-Porcentaje de mapa descubierto: 70.84
+Porcentaje de mapa descubierto: 75.84
 42 23
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 77.32
 42 24
 Porcentaje de mapa descubierto: 0
 42 25
-Porcentaje de mapa descubierto: 89.88
+Porcentaje de mapa descubierto: 0
 42 26
-Porcentaje de mapa descubierto: 97.28
+Porcentaje de mapa descubierto: 0
 42 27
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 0
 42 28
-Porcentaje de mapa descubierto: 91.36
+Porcentaje de mapa descubierto: 0
 42 29
-Porcentaje de mapa descubierto: 91.04
+Porcentaje de mapa descubierto: 0
 42 30
-Porcentaje de mapa descubierto: 91.04
+Porcentaje de mapa descubierto: 0
 42 31
-Porcentaje de mapa descubierto: 91.04
+Porcentaje de mapa descubierto: 0
 42 32
-Porcentaje de mapa descubierto: 91.04
+Porcentaje de mapa descubierto: 0
 42 33
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 0
 42 34
-Porcentaje de mapa descubierto: 3.6
+Porcentaje de mapa descubierto: 2.88
 42 35
-Porcentaje de mapa descubierto: 3.44
+Porcentaje de mapa descubierto: 2.88
 42 36
-Porcentaje de mapa descubierto: 3.36
+Porcentaje de mapa descubierto: 3.64
 42 37
-Porcentaje de mapa descubierto: 3.44
+Porcentaje de mapa descubierto: 3.72
 42 38
-Porcentaje de mapa descubierto: 3.6
+Porcentaje de mapa descubierto: 3.72
 42 39
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 3.4
 42 40
-Porcentaje de mapa descubierto: 61.96
+Porcentaje de mapa descubierto: 4.48
 42 41
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 5.04
 42 42
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 5.32
 42 43
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 5.6
 42 44
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 5.88
 42 45
 Porcentaje de mapa descubierto: 0
 42 46
 Porcentaje de mapa descubierto: 0
 43 3
-Porcentaje de mapa descubierto: 44.88
+Porcentaje de mapa descubierto: 59.56
 43 4
-Porcentaje de mapa descubierto: 44.88
+Porcentaje de mapa descubierto: 66.96
 43 5
-Porcentaje de mapa descubierto: 98.88
+Porcentaje de mapa descubierto: 98.48
 43 6
 Porcentaje de mapa descubierto: 100
 43 7
 Porcentaje de mapa descubierto: 100
 43 8
-Porcentaje de mapa descubierto: 97.6
+Porcentaje de mapa descubierto: 59.76
 43 9
-Porcentaje de mapa descubierto: 32.52
+Porcentaje de mapa descubierto: 59.84
 43 10
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 59.92
 43 11
-Porcentaje de mapa descubierto: 33.32
+Porcentaje de mapa descubierto: 59.92
 43 12
 Porcentaje de mapa descubierto: 50.56
 43 13
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.76
 43 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 96.84
 43 15
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 61.6
 43 16
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 62.76
 43 17
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 61.52
 43 18
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 93.56
 43 19
-Porcentaje de mapa descubierto: 48.84
+Porcentaje de mapa descubierto: 38.08
 43 20
-Porcentaje de mapa descubierto: 73.72
+Porcentaje de mapa descubierto: 68.52
 43 21
-Porcentaje de mapa descubierto: 69.8
+Porcentaje de mapa descubierto: 68.56
 43 22
-Porcentaje de mapa descubierto: 69.88
+Porcentaje de mapa descubierto: 68.56
 43 23
-Porcentaje de mapa descubierto: 70.84
+Porcentaje de mapa descubierto: 0
 43 24
 Porcentaje de mapa descubierto: 0
 43 25
-Porcentaje de mapa descubierto: 50.68
+Porcentaje de mapa descubierto: 0
 43 26
-Porcentaje de mapa descubierto: 50.68
+Porcentaje de mapa descubierto: 0
 43 27
-Porcentaje de mapa descubierto: 10.92
+Porcentaje de mapa descubierto: 0
 43 28
-Porcentaje de mapa descubierto: 50.44
+Porcentaje de mapa descubierto: 0
 43 29
-Porcentaje de mapa descubierto: 50.52
+Porcentaje de mapa descubierto: 0
 43 30
-Porcentaje de mapa descubierto: 50.56
+Porcentaje de mapa descubierto: 0
 43 31
-Porcentaje de mapa descubierto: 50.68
+Porcentaje de mapa descubierto: 0
 43 32
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 0
 43 33
-Porcentaje de mapa descubierto: 3.84
+Porcentaje de mapa descubierto: 3.04
 43 34
-Porcentaje de mapa descubierto: 3.6
+Porcentaje de mapa descubierto: 3.04
 43 35
-Porcentaje de mapa descubierto: 3.44
+Porcentaje de mapa descubierto: 3
 43 36
-Porcentaje de mapa descubierto: 3.36
+Porcentaje de mapa descubierto: 3.64
 43 37
-Porcentaje de mapa descubierto: 3.44
-43 38
-Porcentaje de mapa descubierto: 3.6
-43 39
 Porcentaje de mapa descubierto: 3.84
+43 38
+Porcentaje de mapa descubierto: 3.88
+43 39
+Porcentaje de mapa descubierto: 3.52
 43 40
-Porcentaje de mapa descubierto: 61.96
+Porcentaje de mapa descubierto: 0
 43 41
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 5.04
 43 42
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 5.32
 43 43
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 5.6
 43 44
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 5.88
 43 45
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 6.16
 43 46
 Porcentaje de mapa descubierto: 0
 44 3
-Porcentaje de mapa descubierto: 44.88
+Porcentaje de mapa descubierto: 67.68
 44 4
-Porcentaje de mapa descubierto: 43.76
+Porcentaje de mapa descubierto: 100
 44 5
-Porcentaje de mapa descubierto: 98.88
+Porcentaje de mapa descubierto: 98.48
 44 6
-Porcentaje de mapa descubierto: 98.88
+Porcentaje de mapa descubierto: 98.48
 44 7
 Porcentaje de mapa descubierto: 100
 44 8
-Porcentaje de mapa descubierto: 31.96
+Porcentaje de mapa descubierto: 59.6
 44 9
-Porcentaje de mapa descubierto: 36.52
+Porcentaje de mapa descubierto: 59.6
 44 10
-Porcentaje de mapa descubierto: 32.68
+Porcentaje de mapa descubierto: 59.68
 44 11
-Porcentaje de mapa descubierto: 37.24
+Porcentaje de mapa descubierto: 59.64
 44 12
-Porcentaje de mapa descubierto: 37.52
+Porcentaje de mapa descubierto: 59.64
 44 13
-Porcentaje de mapa descubierto: 50.2
+Porcentaje de mapa descubierto: 59.6
 44 14
-Porcentaje de mapa descubierto: 50.12
+Porcentaje de mapa descubierto: 59.6
 44 15
-Porcentaje de mapa descubierto: 92.08
+Porcentaje de mapa descubierto: 100
 44 16
-Porcentaje de mapa descubierto: 92.2
+Porcentaje de mapa descubierto: 100
 44 17
-Porcentaje de mapa descubierto: 92.32
+Porcentaje de mapa descubierto: 100
 44 18
-Porcentaje de mapa descubierto: 48.92
+Porcentaje de mapa descubierto: 100
 44 19
-Porcentaje de mapa descubierto: 73.72
+Porcentaje de mapa descubierto: 69.08
 44 20
-Porcentaje de mapa descubierto: 73.72
+Porcentaje de mapa descubierto: 68.44
 44 21
-Porcentaje de mapa descubierto: 69.88
+Porcentaje de mapa descubierto: 68.56
 44 22
-Porcentaje de mapa descubierto: 69.96
+Porcentaje de mapa descubierto: 0
 44 23
-Porcentaje de mapa descubierto: 69.96
+Porcentaje de mapa descubierto: 0
 44 24
-Porcentaje de mapa descubierto: 99.24
+Porcentaje de mapa descubierto: 0
 44 25
-Porcentaje de mapa descubierto: 50.48
+Porcentaje de mapa descubierto: 0
 44 26
-Porcentaje de mapa descubierto: 50.32
+Porcentaje de mapa descubierto: 0
 44 27
-Porcentaje de mapa descubierto: 50.32
+Porcentaje de mapa descubierto: 0
 44 28
-Porcentaje de mapa descubierto: 50.24
+Porcentaje de mapa descubierto: 0
 44 29
-Porcentaje de mapa descubierto: 50.28
+Porcentaje de mapa descubierto: 0
 44 30
-Porcentaje de mapa descubierto: 50.36
+Porcentaje de mapa descubierto: 0
 44 31
-Porcentaje de mapa descubierto: 50.36
+Porcentaje de mapa descubierto: 0
 44 32
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 0
 44 33
-Porcentaje de mapa descubierto: 4.88
+Porcentaje de mapa descubierto: 0
 44 34
-Porcentaje de mapa descubierto: 4.48
+Porcentaje de mapa descubierto: 0
 44 35
-Porcentaje de mapa descubierto: 4.2
+Porcentaje de mapa descubierto: 0
 44 36
-Porcentaje de mapa descubierto: 50.24
+Porcentaje de mapa descubierto: 0
 44 37
 Porcentaje de mapa descubierto: 4.48
 44 38
 Porcentaje de mapa descubierto: 4.76
 44 39
-Porcentaje de mapa descubierto: 50.24
+Porcentaje de mapa descubierto: 0
 44 40
-Porcentaje de mapa descubierto: 31.28
+Porcentaje de mapa descubierto: 0
 44 41
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 0
 44 42
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 0
 44 43
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 0
 44 44
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 0
 44 45
-Porcentaje de mapa descubierto: 50.52
+Porcentaje de mapa descubierto: 0
 44 46
-Porcentaje de mapa descubierto: 34.76
+Porcentaje de mapa descubierto: 0
 45 3
-Porcentaje de mapa descubierto: 41.24
+Porcentaje de mapa descubierto: 59.8
 45 4
-Porcentaje de mapa descubierto: 42.64
-45 5
-Porcentaje de mapa descubierto: 24.76
-45 6
-Porcentaje de mapa descubierto: 99.04
-45 7
-Porcentaje de mapa descubierto: 98.2
-45 8
-Porcentaje de mapa descubierto: 36
-45 9
-Porcentaje de mapa descubierto: 36.32
-45 10
-Porcentaje de mapa descubierto: 36.64
-45 11
-Porcentaje de mapa descubierto: 36.96
-45 12
-Porcentaje de mapa descubierto: 37.24
-45 13
-Porcentaje de mapa descubierto: 37.52
-45 14
 Porcentaje de mapa descubierto: 100
+45 5
+Porcentaje de mapa descubierto: 97.48
+45 6
+Porcentaje de mapa descubierto: 97.92
+45 7
+Porcentaje de mapa descubierto: 97.04
+45 8
+Porcentaje de mapa descubierto: 59.32
+45 9
+Porcentaje de mapa descubierto: 59.36
+45 10
+Porcentaje de mapa descubierto: 59.36
+45 11
+Porcentaje de mapa descubierto: 59.36
+45 12
+Porcentaje de mapa descubierto: 59.36
+45 13
+Porcentaje de mapa descubierto: 59.36
+45 14
+Porcentaje de mapa descubierto: 59.32
 45 15
-Porcentaje de mapa descubierto: 91.64
+Porcentaje de mapa descubierto: 100
 45 16
-Porcentaje de mapa descubierto: 91.76
+Porcentaje de mapa descubierto: 100
 45 17
-Porcentaje de mapa descubierto: 91.88
+Porcentaje de mapa descubierto: 100
 45 18
-Porcentaje de mapa descubierto: 50.04
+Porcentaje de mapa descubierto: 59.64
 45 19
-Porcentaje de mapa descubierto: 98.76
+Porcentaje de mapa descubierto: 59.64
 45 20
-Porcentaje de mapa descubierto: 62.48
+Porcentaje de mapa descubierto: 0
 45 21
-Porcentaje de mapa descubierto: 69.96
+Porcentaje de mapa descubierto: 0
 45 22
-Porcentaje de mapa descubierto: 69.96
+Porcentaje de mapa descubierto: 0
 45 23
-Porcentaje de mapa descubierto: 69.96
+Porcentaje de mapa descubierto: 0
 45 24
-Porcentaje de mapa descubierto: 50.24
+Porcentaje de mapa descubierto: 0
 45 25
-Porcentaje de mapa descubierto: 50.24
+Porcentaje de mapa descubierto: 0
 45 26
-Porcentaje de mapa descubierto: 50.24
+Porcentaje de mapa descubierto: 0
 45 27
-Porcentaje de mapa descubierto: 50
+Porcentaje de mapa descubierto: 0
 45 28
-Porcentaje de mapa descubierto: 50
+Porcentaje de mapa descubierto: 0
 45 29
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 65.04
 45 30
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 65.6
 45 31
-Porcentaje de mapa descubierto: 50.04
+Porcentaje de mapa descubierto: 0
 45 32
-Porcentaje de mapa descubierto: 62
+Porcentaje de mapa descubierto: 0
 45 33
-Porcentaje de mapa descubierto: 5.16
+Porcentaje de mapa descubierto: 0
 45 34
-Porcentaje de mapa descubierto: 4.76
+Porcentaje de mapa descubierto: 0
 45 35
-Porcentaje de mapa descubierto: 50
+Porcentaje de mapa descubierto: 0
 45 36
-Porcentaje de mapa descubierto: 50
+Porcentaje de mapa descubierto: 0
 45 37
 Porcentaje de mapa descubierto: 4.48
 45 38
 Porcentaje de mapa descubierto: 4.76
 45 39
-Porcentaje de mapa descubierto: 50
+Porcentaje de mapa descubierto: 0
 45 40
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 45 41
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 0
 45 42
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 0
 45 43
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 0
 45 44
-Porcentaje de mapa descubierto: 61.88
+Porcentaje de mapa descubierto: 0
 45 45
-Porcentaje de mapa descubierto: 50.32
+Porcentaje de mapa descubierto: 0
 45 46
-Porcentaje de mapa descubierto: 91.04
+Porcentaje de mapa descubierto: 0
 46 3
-Porcentaje de mapa descubierto: 30.4
+Porcentaje de mapa descubierto: 0
 46 4
-Porcentaje de mapa descubierto: 36.16
+Porcentaje de mapa descubierto: 59.4
 46 5
-Porcentaje de mapa descubierto: 19.76
+Porcentaje de mapa descubierto: 59.44
 46 6
-Porcentaje de mapa descubierto: 35.32
+Porcentaje de mapa descubierto: 59.32
 46 7
-Porcentaje de mapa descubierto: 35.56
+Porcentaje de mapa descubierto: 59.32
 46 8
-Porcentaje de mapa descubierto: 35.84
+Porcentaje de mapa descubierto: 59.32
 46 9
-Porcentaje de mapa descubierto: 36.12
+Porcentaje de mapa descubierto: 59.32
 46 10
-Porcentaje de mapa descubierto: 36.4
+Porcentaje de mapa descubierto: 59.36
 46 11
-Porcentaje de mapa descubierto: 36.68
+Porcentaje de mapa descubierto: 59.36
 46 12
-Porcentaje de mapa descubierto: 36.96
+Porcentaje de mapa descubierto: 59.36
 46 13
 Porcentaje de mapa descubierto: 100
 46 14
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 87.16
 46 15
-Porcentaje de mapa descubierto: 100
+Porcentaje de mapa descubierto: 99.04
 46 16
-Porcentaje de mapa descubierto: 91.96
+Porcentaje de mapa descubierto: 100
 46 17
-Porcentaje de mapa descubierto: 92.16
+Porcentaje de mapa descubierto: 100
 46 18
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 59.64
 46 19
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 59.64
 46 20
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 46 21
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 46 22
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 46 23
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 46 24
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 46 25
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 46 26
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 46 27
-Porcentaje de mapa descubierto: 49.96
+Porcentaje de mapa descubierto: 0
 46 28
-Porcentaje de mapa descubierto: 23.96
+Porcentaje de mapa descubierto: 0
 46 29
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 65.48
 46 30
-Porcentaje de mapa descubierto: 0
+Porcentaje de mapa descubierto: 65.04
 46 31
 Porcentaje de mapa descubierto: 0
 46 32
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 33
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 34
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 35
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 36
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 37
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 38
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 4.48
 46 39
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 40
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 41
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 42
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 43
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 44
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 45
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 0
 46 46
-Porcentaje de mapa descubierto: 49.72
+Porcentaje de mapa descubierto: 96.16

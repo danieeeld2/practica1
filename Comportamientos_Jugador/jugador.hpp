@@ -59,6 +59,8 @@ public:
         muro = false;
         noexplorar = false;
         actL = actR = false;
+        acabadeaparecer = true;
+        inferido = false;
     }
 
     ComportamientoJugador(const ComportamientoJugador &comport) : Comportamiento(comport) {}
@@ -102,6 +104,7 @@ public:
 
     Action MovimientoUbicado(Sensores sensores);
 
+    void InferirCasilla();
 private:
 
     // Declarar aquí las variables de estado
@@ -165,6 +168,10 @@ private:
     bool muro;
     bool noexplorar;
     bool actL, actR;
+    bool acabadeaparecer;
+    bool inferido;
+
+    unsigned char suponer(int fil, int col);
 };
 
 #endif
