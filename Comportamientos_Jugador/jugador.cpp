@@ -38,43 +38,46 @@ Action ComportamientoJugador::think(Sensores sensores) {
     cout << endl;
 
     // Determinar el efecto de la ultima accion enviada
-    switch (ultimaAccion) {
-        case actFORWARD:
-            /*Depende de la orientación y por convención supondremos
-            que el norte está en los valores bajos de fil (sur en los altos)
-            y que oeste esta en los valores bajos de col (este en los altos)*/
-            switch (brujula) {
-                case 0: // Norte
-                    fil--;
-                    fil_interna--;
-                    break;
-                case 1: // Este
-                    col++;
-                    col_interna++;
-                    break;
-                case 2: // Sur
-                    fil++;
-                    fil_interna++;
-                    break;
-                case 3: // Oeste
-                    col--;
-                    col_interna--;
-                    break;
-            }
-            for (int i = 0; i < 4; i++)
-                reset_regiones[i] = 0;
-            break;
-        case actTURN_L:
-            brujula = (brujula + 3) % 4;
-            brujula_interna = (brujula_interna + 3) % 4;
-            girar_derecha = (rand() % 2 == 0);
-            break;
-        case actTURN_R:
-            brujula = (brujula + 1) % 4;
-            brujula_interna = (brujula_interna + 1) % 4;
-            girar_derecha = (rand() % 2 == 0);
-            break;
+    if(!sensores.colision){
+        switch (ultimaAccion) {
+            case actFORWARD:
+                /*Depende de la orientación y por convención supondremos
+                que el norte está en los valores bajos de fil (sur en los altos)
+                y que oeste esta en los valores bajos de col (este en los altos)*/
+                switch (brujula) {
+                    case 0: // Norte
+                        fil--;
+                        fil_interna--;
+                        break;
+                    case 1: // Este
+                        col++;
+                        col_interna++;
+                        break;
+                    case 2: // Sur
+                        fil++;
+                        fil_interna++;
+                        break;
+                    case 3: // Oeste
+                        col--;
+                        col_interna--;
+                        break;
+                }
+                for (int i = 0; i < 4; i++)
+                    reset_regiones[i] = 0;
+                break;
+            case actTURN_L:
+                brujula = (brujula + 3) % 4;
+                brujula_interna = (brujula_interna + 3) % 4;
+                girar_derecha = (rand() % 2 == 0);
+                break;
+            case actTURN_R:
+                brujula = (brujula + 1) % 4;
+                brujula_interna = (brujula_interna + 1) % 4;
+                girar_derecha = (rand() % 2 == 0);
+                break;
+        }
     }
+    
 
     // Si morimos, nos desorientamos
     if (sensores.reset) {
@@ -119,9 +122,11 @@ Action ComportamientoJugador::think(Sensores sensores) {
             actionconprob.clear();
             tendencia = false;
         }
-        ActualizarMapaResultado(sensores);
+        if(!sensores.colision)
+            ActualizarMapaResultado(sensores);
     } else {
-        ActualizarMapa_No_Posicionado(sensores);
+        if(!sensores.colision)
+            ActualizarMapa_No_Posicionado(sensores);
         bien = false;
     }
 
@@ -170,9 +175,10 @@ Action ComportamientoJugador::think(Sensores sensores) {
     // Si hay un lobo o aldeano esperemos a que este se mueva
     if (sensores.superficie[2] == 'a' or sensores.superficie[2] == 'l') {
         muro = false;
-        tendencia = false;
+        tendencia = true;
         obstaculo = false;
-        accion = actTURN_L;
+        accion = rand()%2 == 0 ? actTURN_L : actTURN_R;
+        // accion = actTURN_L;
     }
 
     if (sensores.terreno[0] == 'K' and !tengo_bikini) {
@@ -551,7 +557,15 @@ Action ComportamientoJugador::MovimientoNoUbicado(Sensores sensores) {
         muro = true;
         tendencia = true;
         cout << "Muro activado" << endl;
-        return actTURN_R;
+        Action retornar = accion = rand()%2 == 0 ? actTURN_L : actTURN_R;
+        if(retornar == actTURN_L){
+            actL = true;
+            actR = false;
+        }else{
+            actR = true;
+            actL = false;
+        }
+        return retornar;
     }
 
     if (!tendencia) {
@@ -605,7 +619,11 @@ Action ComportamientoJugador::MovimientoNoUbicado(Sensores sensores) {
                 return actFORWARD;
             }else if(sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P'){
                 cout << "Caso: " << 3 << endl;
-                return actTURN_R;
+                if(actL){
+                    return actTURN_L;
+                }else{
+                    return actTURN_R;
+                }
             }else{
                 cout << "Caso: " << 4 << endl;
                 return actFORWARD;
@@ -648,16 +666,23 @@ Action ComportamientoJugador::MovimientoNoUbicado(Sensores sensores) {
                     << "Explorado" << explorado
                 ? "Si"
                 : "No";
-                if (explorado) {
+                if (explorado and !noexplorar) {
                     tendencia = false;
                     goto VUELTA2;
                 }
             } else {
-                tendencia = false;
-                obstaculo = true;
-                region = brujula;
-                noexplorar = false;
-                goto VUELTA2;
+                if(sensores.terreno[0] == 'A' and !tengo_bikini)
+                    accion = actFORWARD;
+                else if(sensores.terreno[0] == 'B' and !tengo_zapatillas)
+                    accion = actFORWARD;
+                else{
+                    tendencia = false;
+                    obstaculo = true;
+                    region = brujula;
+                    acaba_de_recargar = false;
+                    noexplorar = false;
+                    goto VUELTA2;
+                }
             }
         }
         
@@ -674,7 +699,15 @@ Action ComportamientoJugador::MovimientoUbicado(Sensores sensores) {
         muro = true;
         tendencia = true;
         cout << "Muro activado" << endl;
-        return actTURN_R;
+        Action retornar = accion = rand()%2 == 0 ? actTURN_L : actTURN_R;
+        if(retornar == actTURN_L){
+            actL = true;
+            actR = false;
+        }else{
+            actR = true;
+            actL = false;
+        }
+        return retornar;
     }
 
     if (!tendencia) {
@@ -742,7 +775,11 @@ Action ComportamientoJugador::MovimientoUbicado(Sensores sensores) {
                 return actFORWARD;
             }else if(sensores.terreno[2] == 'M' or sensores.terreno[2] == 'P'){
                 cout << "Caso: " << 3 << endl;
-                return actTURN_R;
+                if(actL){
+                    return actTURN_L;
+                }else{
+                    return actTURN_R;
+                }
             }else{
                 cout << "Caso: " << 4 << endl;
                 return actFORWARD;
@@ -785,17 +822,23 @@ Action ComportamientoJugador::MovimientoUbicado(Sensores sensores) {
                     << "Explorado" << explorado
                 ? "Si"
                 : "No";
-                if (explorado) {
+                if (explorado and !noexplorar) {
                     tendencia = false;
                     goto VUELTA;
                 }
             } else{
-                tendencia = false;
-                obstaculo = true;
-                region = brujula;
-                acaba_de_recargar = false;
-                noexplorar = false;
-                goto VUELTA;
+                if(sensores.terreno[0] == 'A' and !tengo_bikini)
+                    accion = actFORWARD;
+                else if(sensores.terreno[0] == 'B' and !tengo_zapatillas)
+                    accion = actFORWARD;
+                else{
+                    tendencia = false;
+                    obstaculo = true;
+                    region = brujula;
+                    acaba_de_recargar = false;
+                    noexplorar = false;
+                    goto VUELTA;
+                }
             }
         }
         

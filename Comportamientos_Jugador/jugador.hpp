@@ -58,6 +58,7 @@ public:
         acaba_de_recargar = false;
         muro = false;
         noexplorar = false;
+        actL = actR = false;
     }
 
     ComportamientoJugador(const ComportamientoJugador &comport) : Comportamiento(comport) {}
@@ -163,6 +164,7 @@ private:
     bool acaba_de_recargar;
     bool muro;
     bool noexplorar;
+    bool actL, actR;
 };
 
 #endif
