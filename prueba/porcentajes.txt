@@ -1,0 +1,30 @@
+Mapa 30 nivel  0
+Porcentaje de mapa descubierto: 94.4444
+Mapa 30 nivel  1
+Porcentaje de mapa descubierto: 95
+Mapa 30 nivel  2
+Porcentaje de mapa descubierto: 95
+Mapa 30 nivel  3
+Porcentaje de mapa descubierto: 100
+Mapa 30 nivel  4
+Porcentaje de mapa descubierto: 96.2222
+Mapa 70 nivel  0
+Porcentaje de mapa descubierto: 30.7143
+Mapa 70 nivel  1
+Porcentaje de mapa descubierto: 51.8367
+Mapa 70 nivel  2
+Porcentaje de mapa descubierto: 51.8367
+Mapa 70 nivel  3
+Porcentaje de mapa descubierto: 82.102
+Mapa 70 nivel  4
+Porcentaje de mapa descubierto: 43.551
+Mapa vértigo nivel  0
+Porcentaje de mapa descubierto: 46.04
+Mapa vértigo nivel  1
+Porcentaje de mapa descubierto: 11.64
+Mapa vértigo nivel  2
+Porcentaje de mapa descubierto: 11.64
+Mapa vértigo nivel  3
+Porcentaje de mapa descubierto: 11.64
+Mapa vértigo nivel  4
+Porcentaje de mapa descubierto: 18.25
